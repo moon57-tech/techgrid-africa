@@ -1,0 +1,9 @@
+# Products/ contains the original 393 source images (150 MB) — not needed
+# for the site; product images are hosted on catbox.moe and mirrored in images/.
+Products/
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+node_modules/
+*.log
