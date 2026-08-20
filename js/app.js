@@ -691,6 +691,12 @@ const App = (function () {
       });
     }
 
+    // cart page: proceed to checkout
+    const coBtn = $("#checkoutBtn");
+    if (coBtn) {
+      coBtn.addEventListener("click", function () { location.hash = "#/checkout"; });
+    }
+
     // track page
     const tBtn = $("#trackBtn");
     if (tBtn) {
