@@ -2,11 +2,19 @@
 const PRODUCTS = PRODUCTS_APPLE
   .concat(PRODUCTS_SAMSUNG)
   .concat(PRODUCTS_GOOGLE_MOTOROLA)
-  .concat(PRODUCTS_OTHER);
+  .concat(PRODUCTS_OTHER)
+  .concat(PRODUCTS_ELECTRONICS_APPLIANCES)
+  .concat(PRODUCTS_HOME_FURNITURE)
+  .concat(PRODUCTS_WOMENS_CLOTHING)
+  .concat(PRODUCTS_WOMENS_FOOTWEAR)
+  .concat(PRODUCTS_MENS_CLOTHING)
+  .concat(PRODUCTS_MENS_FOOTWEAR)
+  .concat(PRODUCTS_KIDS_CLOTHING)
+  .concat(PRODUCTS_KIDS_FOOTWEAR);
 
 // Add resolved image URL + helpers
 PRODUCTS.forEach(function (p) {
-  p.image = IMGURLS[p.id] || ("images/" + p.id + ".png");
+  p.image = p.image || IMGURLS[p.id] || ("images/" + p.id + ".png");
   p.priceUsd = Math.round(p.price / 18.2);
   p.ratingLabel = p.rating.toFixed(1);
 });
