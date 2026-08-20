@@ -10,7 +10,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 55-inch Crystal UHD 4K-55U8000F — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-55-inch-crystal-uhd-4k-55u8000f-samsung.svg"
   },
   {
     id: "skyworth-60-inch-qled-google-tv-60q6600h-skyworth",
@@ -22,7 +22,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 60-inch QLED Google TV-60Q6600H — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "60 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-60-inch-qled-google-tv-60q6600h-skyworth.svg"
   },
   {
     id: "orion-50-inch-uhd-led-tv-oled50uhd-orion",
@@ -35,7 +35,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 50-Inch UHD LED TV-OLED50UHD — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "50 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/orion-50-inch-uhd-led-tv-oled50uhd-orion.svg"
   },
   {
     id: "skyworth-43-inch-fhd-google-tv-43e5500h-skyworth",
@@ -47,7 +47,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 43-inch FHD Google TV-43E5500H — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "43 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-43-inch-fhd-google-tv-43e5500h-skyworth.svg"
   },
   {
     id: "skyworth-85-inch-qled-google-tv-85q6600h-skyworth",
@@ -59,7 +59,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 85-inch QLED Google TV-85Q6600H — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "85 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-85-inch-qled-google-tv-85q6600h-skyworth.svg"
   },
   {
     id: "orion-65-inch-uhd-smart-tv-otv65uhdsmv-orion",
@@ -71,7 +71,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 65-inch UHD Smart TV-OTV65UHDSMV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "65 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/orion-65-inch-uhd-smart-tv-otv65uhdsmv-orion.svg"
   },
   {
     id: "samsung-50-inch-crystal-uhd-4k-50u8000f-samsung",
@@ -84,7 +84,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 50-inch Crystal UHD 4K-50U8000F — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "50 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-50-inch-crystal-uhd-4k-50u8000f-samsung.svg"
   },
   {
     id: "skyworth-50-inch-qled-google-tv-50q5600k-skyworth",
@@ -96,7 +96,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 50-inch QLED Google TV-50Q5600K — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "50 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-50-inch-qled-google-tv-50q5600k-skyworth.svg"
   },
   {
     id: "samsung-70-inch-crystal-uhd-4k-70u8000f-samsung",
@@ -109,7 +109,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 70-inch Crystal UHD 4K-70U8000F — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "70 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-70-inch-crystal-uhd-4k-70u8000f-samsung.svg"
   },
   {
     id: "xiaomi-65-inch-pro-qled-4k-tv-120hz-65ela5844gl-xiaomi",
@@ -121,7 +121,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi 65-inch PRO QLED 4K TV 120HZ-65ELA5844GL — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "65 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "120Hz+ gaming mode"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/xiaomi-65-inch-pro-qled-4k-tv-120hz-65ela5844gl-xiaomi.svg"
   },
   {
     id: "xiaomi-tv-box-s-3rd-gen-4k-media-player-xiaomi",
@@ -133,7 +133,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi TV Box S 3rd Gen 4K Media Player — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/xiaomi-tv-box-s-3rd-gen-4k-media-player-xiaomi.svg"
   },
   {
     id: "skyworth-55x6600h-mini-led-4k-skyworth",
@@ -145,7 +145,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 55X6600H Mini LED 4K — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "Mini-LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-55x6600h-mini-led-4k-skyworth.svg"
   },
   {
     id: "samsung-55-inch-qled-q6fa-4k-smart-tv-samsung",
@@ -158,7 +158,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 55-inch QLED Q6FA 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-55-inch-qled-q6fa-4k-smart-tv-samsung.svg"
   },
   {
     id: "samsung-65-inch-mini-led-tv-65m80h-samsung",
@@ -170,7 +170,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 65-Inch Mini-LED TV 65M80H — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "65 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "Mini-LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-65-inch-mini-led-tv-65m80h-samsung.svg"
   },
   {
     id: "samsung-55-inch-mini-led-tv-55m70h-samsung",
@@ -182,7 +182,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 55-Inch Mini-LED TV 55M70H — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "Mini-LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-55-inch-mini-led-tv-55m70h-samsung.svg"
   },
   {
     id: "tcl-75-inch-144hz-mini-led-google-tv-75p8l-tcl",
@@ -194,7 +194,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TCL 75-inch 144Hz Mini-LED Google TV 75P8L — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "75 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "Mini-LED"], ["Smart platform", "Google TV"], ["Refresh rate", "120Hz+ gaming mode"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/tcl-75-inch-144hz-mini-led-google-tv-75p8l-tcl.svg"
   },
   {
     id: "skyworth-65-inch-miniled-tv-65x6600k-skyworth",
@@ -206,7 +206,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 65-inch MiniLED TV-65X6600K — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "65 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "Mini-LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-65-inch-miniled-tv-65x6600k-skyworth.svg"
   },
   {
     id: "sansui-65-inch-uhd-google-tv-sansui",
@@ -218,7 +218,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sansui 65-inch UHD Google TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "65 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/sansui-65-inch-uhd-google-tv-sansui.svg"
   },
   {
     id: "hisense-65-inch-smart-4k-uhd-tv-65a6q-hisense",
@@ -230,7 +230,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 65-inch Smart 4K UHD TV-65A6Q — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "65 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/hisense-65-inch-smart-4k-uhd-tv-65a6q-hisense.svg"
   },
   {
     id: "jvc-49-inch-qled-smart-tv-lt49nq5165-jvc",
@@ -243,7 +243,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "JVC 49-inch QLED Smart TV-LT49NQ5165 — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "49 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/jvc-49-inch-qled-smart-tv-lt49nq5165-jvc.svg"
   },
   {
     id: "samsung-75-inch-qled-q6fa-4k-smart-tv-samsung",
@@ -255,7 +255,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 75-inch QLED Q6FA 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "75 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-75-inch-qled-q6fa-4k-smart-tv-samsung.svg"
   },
   {
     id: "sansui-50-inch-fhd-google-tv-sansui",
@@ -267,7 +267,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sansui 50-inch FHD Google TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "50 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/sansui-50-inch-fhd-google-tv-sansui.svg"
   },
   {
     id: "sansui-70-inch-uhd-google-tv-sansui",
@@ -279,7 +279,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sansui 70-inch UHD Google TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "70 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/sansui-70-inch-uhd-google-tv-sansui.svg"
   },
   {
     id: "hisense-55-inch-qled-4k-tv-55q6q-hisense",
@@ -291,7 +291,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 55-inch QLED 4K TV-55Q6Q — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/hisense-55-inch-qled-4k-tv-55q6q-hisense.svg"
   },
   {
     id: "samsung-32-fhd-smart-tv-32h5000f-samsung",
@@ -304,7 +304,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 32 FHD Smart TV-32H5000F — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-32-fhd-smart-tv-32h5000f-samsung.svg"
   },
   {
     id: "tcl-65-inch-mini-led-google-tv-65c6ks-tcl",
@@ -317,7 +317,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TCL 65-Inch Mini LED Google TV-65C6KS — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "65 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "Mini-LED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/tcl-65-inch-mini-led-google-tv-65c6ks-tcl.svg"
   },
   {
     id: "skyworth-75-inch-qled-google-tv-75q6600h-skyworth",
@@ -329,7 +329,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 75-inch QLED Google TV-75Q6600H — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "75 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-75-inch-qled-google-tv-75q6600h-skyworth.svg"
   },
   {
     id: "samsung-65-inch-crystal-uhd-4k-65u8000f-samsung",
@@ -342,7 +342,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 65-inch Crystal UHD 4K-65U8000F — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "65 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-65-inch-crystal-uhd-4k-65u8000f-samsung.svg"
   },
   {
     id: "hisense-85-inch-smart-4k-uhd-tv-85a6q-hisense",
@@ -354,7 +354,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 85-inch Smart 4K UHD TV-85A6Q — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "85 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/hisense-85-inch-smart-4k-uhd-tv-85a6q-hisense.svg"
   },
   {
     id: "tcl-65-inch-mini-led-google-tv-65c6k-tcl",
@@ -366,7 +366,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TCL 65-Inch Mini LED Google TV-65C6K — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "65 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "Mini-LED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/tcl-65-inch-mini-led-google-tv-65c6k-tcl.svg"
   },
   {
     id: "hisense-85-inch-qled-4k-tv-85q6q-hisense",
@@ -379,7 +379,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 85-inch QLED 4K TV-85Q6Q — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "85 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/hisense-85-inch-qled-4k-tv-85q6q-hisense.svg"
   },
   {
     id: "skyworth-100-inch-qled-google-tv-100q7800h-skyworth",
@@ -391,7 +391,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 100-inch QLED Google TV-100Q7800H — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "100 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-100-inch-qled-google-tv-100q7800h-skyworth.svg"
   },
   {
     id: "hisense-58-inch-smart-4k-uhd-tv-58a6n-hisense",
@@ -403,7 +403,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 58-inch Smart 4K UHD TV 58A6N — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/hisense-58-inch-smart-4k-uhd-tv-58a6n-hisense.svg"
   },
   {
     id: "lg-32-fhd-curved-monitor-100hz-freesync-gaming-monitor-lg",
@@ -416,7 +416,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "LG 32 FHD Curved Monitor 100Hz FreeSync Gaming Monitor — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/lg-32-fhd-curved-monitor-100hz-freesync-gaming-monitor-lg.svg"
   },
   {
     id: "maxdorf-google-certified-smart-projector-maxdorf",
@@ -428,7 +428,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Maxdorf Google Certified Smart Projector — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/maxdorf-google-certified-smart-projector-maxdorf.svg"
   },
   {
     id: "orion-pro-8-smart-projector-orion",
@@ -440,7 +440,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion Pro 8 Smart Projector — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/orion-pro-8-smart-projector-orion.svg"
   },
   {
     id: "ultra-link-800-lumens-smart-hd-projector-ultra-link",
@@ -452,7 +452,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Ultra-Link 800 Lumens Smart HD Projector — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "55 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/ultra-link-800-lumens-smart-hd-projector-ultra-link.svg"
   },
   {
     id: "samsung-32-inch-crystal-uhd-4k-smart-tv-samsung",
@@ -465,7 +465,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 32-inch Crystal UHD 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "32 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-32-inch-crystal-uhd-4k-smart-tv-samsung.svg"
   },
   {
     id: "hisense-58-inch-qled-4k-smart-tv-hisense",
@@ -478,7 +478,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 58-inch QLED 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/hisense-58-inch-qled-4k-smart-tv-hisense.svg"
   },
   {
     id: "tcl-32-inch-uhd-4k-smart-tv-tcl",
@@ -490,7 +490,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TCL 32-inch UHD 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "32 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/tcl-32-inch-uhd-4k-smart-tv-tcl.svg"
   },
   {
     id: "lg-58-inch-fhd-smart-tv-lg",
@@ -502,7 +502,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "LG 58-inch FHD Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/lg-58-inch-fhd-smart-tv-lg.svg"
   },
   {
     id: "skyworth-32-inch-mini-led-qled-4k-tv-skyworth",
@@ -515,7 +515,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 32-inch Mini-LED QLED 4K TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "32 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "Mini-LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-32-inch-mini-led-qled-4k-tv-skyworth.svg"
   },
   {
     id: "sony-58-inch-google-tv-4k-uhd-sony",
@@ -527,7 +527,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sony 58-inch Google TV (4K UHD) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/sony-58-inch-google-tv-4k-uhd-sony.svg"
   },
   {
     id: "xiaomi-32-inch-crystal-uhd-4k-smart-tv-xiaomi",
@@ -539,7 +539,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi 32-inch Crystal UHD 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "32 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/xiaomi-32-inch-crystal-uhd-4k-smart-tv-xiaomi.svg"
   },
   {
     id: "sansui-58-inch-qled-4k-smart-tv-sansui",
@@ -551,7 +551,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sansui 58-inch QLED 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/sansui-58-inch-qled-4k-smart-tv-sansui.svg"
   },
   {
     id: "orion-32-inch-uhd-4k-smart-tv-orion",
@@ -563,7 +563,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 32-inch UHD 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "32 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/orion-32-inch-uhd-4k-smart-tv-orion.svg"
   },
   {
     id: "jvc-58-inch-fhd-smart-tv-jvc",
@@ -576,7 +576,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "JVC 58-inch FHD Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/jvc-58-inch-fhd-smart-tv-jvc.svg"
   },
   {
     id: "sanyo-32-inch-mini-led-qled-4k-tv-sanyo",
@@ -588,7 +588,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sanyo 32-inch Mini-LED QLED 4K TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "32 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "Mini-LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/sanyo-32-inch-mini-led-qled-4k-tv-sanyo.svg"
   },
   {
     id: "samsung-58-inch-google-tv-4k-uhd-samsung",
@@ -600,7 +600,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 58-inch Google TV (4K UHD) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Google TV"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/samsung-58-inch-google-tv-4k-uhd-samsung.svg"
   },
   {
     id: "hisense-32-inch-crystal-uhd-4k-smart-tv-hisense",
@@ -613,7 +613,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 32-inch Crystal UHD 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "32 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/hisense-32-inch-crystal-uhd-4k-smart-tv-hisense.svg"
   },
   {
     id: "tcl-58-inch-qled-4k-smart-tv-tcl",
@@ -626,7 +626,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TCL 58-inch QLED 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "QLED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/tcl-58-inch-qled-4k-smart-tv-tcl.svg"
   },
   {
     id: "lg-32-inch-uhd-4k-smart-tv-lg",
@@ -638,7 +638,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "LG 32-inch UHD 4K Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "32 inch"], ["Resolution", "3840 x 2160 (4K UHD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/lg-32-inch-uhd-4k-smart-tv-lg.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-skyworth",
@@ -650,7 +650,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-skyworth.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-extra-skyworth",
@@ -662,7 +662,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV (Extra) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-extra-skyworth.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-extra-extra-skyworth",
@@ -674,7 +674,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV (Extra) (Extra) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-extra-extra-skyworth.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-extra-extra-extra-skyworth",
@@ -686,7 +686,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV (Extra) (Extra) (Extra) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-extra-extra-extra-skyworth.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-skyworth",
@@ -698,7 +698,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV (Extra) (Extra) (Extra) (Extra) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-skyworth.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-skyw",
@@ -710,7 +710,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV (Extra) (Extra) (Extra) (Extra) (Extra) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-skyw.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-extr",
@@ -722,7 +722,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-extr.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-extr-435",
@@ -734,7 +734,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-extr-435.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-extr-436",
@@ -746,7 +746,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-extr-436.svg"
   },
   {
     id: "skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-extr-437",
@@ -758,7 +758,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 58-inch FHD Smart TV (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — bring cinema-grade picture home with crystal-clear resolution, a smart platform and connectivity for streaming, sports and gaming. Perfectly sized for living rooms and home theatres across South Africa.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Screen", "58 inch"], ["Resolution", "1920 x 1080 (Full HD)"], ["Panel", "LED"], ["Smart platform", "Smart TV (built-in streaming)"], ["Refresh rate", "60Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/tvs.svg"
+    image: "images/ph/skyworth-58-inch-fhd-smart-tv-extra-extra-extra-extra-extra-extr-437.svg"
   },
   {
     id: "defy-8kg-top-loader-manhattan-washing-machine-with-fountainwash-",
@@ -771,7 +771,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 8kg Top Loader Manhattan Washing Machine with FountainWash Grey DTL165 — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "8"], ["Type", "Top Loader"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-8kg-top-loader-manhattan-washing-machine-with-fountainwash-.svg"
   },
   {
     id: "mora-154l-top-freezer-fridge-m225tdg-mora",
@@ -783,7 +783,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Mora 154L Top Freezer Fridge M225TDG — built to make home life easier. Mora combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "154"], ["Type", "Top Freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/mora-154l-top-freezer-fridge-m225tdg-mora.svg"
   },
   {
     id: "defy-492l-onyx-french-door-fridge-freezer-dff440-wd-defy",
@@ -795,7 +795,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 492L Onyx French Door Fridge Freezer DFF440 WD — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "492"], ["Type", "French Door"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-492l-onyx-french-door-fridge-freezer-dff440-wd-defy.svg"
   },
   {
     id: "hisense-8kg-front-load-washer-titanium-grey-wf1i8022bt-hisense",
@@ -808,7 +808,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 8kg Front Load Washer Titanium Grey WF1I8022BT — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "8"], ["Type", "Washer"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-8kg-front-load-washer-titanium-grey-wf1i8022bt-hisense.svg"
   },
   {
     id: "defy-15kg-twin-tub-washing-machine-metallic-dtt151-defy",
@@ -820,7 +820,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 15kg Twin Tub Washing Machine Metallic DTT151 — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "15"], ["Type", "Twin Tub"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-15kg-twin-tub-washing-machine-metallic-dtt151-defy.svg"
   },
   {
     id: "kic-537l-chest-freezer-white-kcg575wh-kic",
@@ -832,7 +832,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "KIC 537L Chest Freezer White KCG575WH — built to make home life easier. KIC combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "537"], ["Type", "Chest"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/kic-537l-chest-freezer-white-kcg575wh-kic.svg"
   },
   {
     id: "hisense-45l-electronic-microwave-matt-black-h45mobs5x-hisense",
@@ -844,7 +844,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 45L Electronic Microwave Matt Black H45MOBS5X — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "45"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-45l-electronic-microwave-matt-black-h45mobs5x-hisense.svg"
   },
   {
     id: "hisense-34l-digital-microwave-matt-black-h34mobs17-hisense",
@@ -856,7 +856,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 34L Digital Microwave Matt Black H34MOBS17 — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "34"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-34l-digital-microwave-matt-black-h34mobs17-hisense.svg"
   },
   {
     id: "hisense-347l-combi-fridge-with-water-dispenser-black-glass-h450b",
@@ -868,7 +868,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 347L Combi Fridge With Water Dispenser Black Glass H450BMIB-WD — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "347"], ["Type", "Combi"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-347l-combi-fridge-with-water-dispenser-black-glass-h450b.svg"
   },
   {
     id: "defy-oven-and-hob-box-set-dcb866e-defy",
@@ -880,7 +880,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy Oven and Hob Box Set DCB866E — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-oven-and-hob-box-set-dcb866e-defy.svg"
   },
   {
     id: "samsung-321l-fridge-freezer-inox-rb33j3611s9-samsung",
@@ -892,7 +892,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 321L Fridge Freezer Inox RB33J3611S9 — built to make home life easier. Samsung combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "321"], ["Type", "Fridge freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/samsung-321l-fridge-freezer-inox-rb33j3611s9-samsung.svg"
   },
   {
     id: "bennett-read-sponono-7kg-single-tub-compact-washing-machine-whit",
@@ -904,7 +904,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Bennett Read Sponono 7kg Single Tub Compact Washing Machine White JCW112 — built to make home life easier. Bennett Read combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "7"], ["Type", "Washer"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/bennett-read-sponono-7kg-single-tub-compact-washing-machine-whit.svg"
   },
   {
     id: "beko-316l-combi-fridge-freezer-brushed-b3rcne364hxb-silver-beko",
@@ -917,7 +917,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Beko 316L Combi Fridge Freezer Brushed B3RCNE364HXB Silver — built to make home life easier. Beko combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "316"], ["Type", "Combi"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/beko-316l-combi-fridge-freezer-brushed-b3rcne364hxb-silver-beko.svg"
   },
   {
     id: "univa-85l-top-freezer-fridge-ut115m-univa",
@@ -929,7 +929,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Univa 85L Top Freezer Fridge UT115M — built to make home life easier. Univa combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "85"], ["Type", "Top Freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/univa-85l-top-freezer-fridge-ut115m-univa.svg"
   },
   {
     id: "samsung-40l-solo-microwave-black-ms40dg5504agfa-samsung",
@@ -941,7 +941,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 40L Solo Microwave Black MS40DG5504AGFA — built to make home life easier. Samsung combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "40"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/samsung-40l-solo-microwave-black-ms40dg5504agfa-samsung.svg"
   },
   {
     id: "univa-433l-side-by-side-fridge-with-water-dispenser-dark-inox-uf",
@@ -953,7 +953,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Univa 433L Side by Side Fridge with Water Dispenser Dark Inox UFF2-570IWD — built to make home life easier. Univa combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "433"], ["Type", "Side by Side"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/univa-433l-side-by-side-fridge-with-water-dispenser-dark-inox-uf.svg"
   },
   {
     id: "bosch-9kg-series-4-frontloader-washing-machine-inox-wga1440xza-s",
@@ -966,7 +966,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Bosch 9kg Series 4 Frontloader Washing Machine Inox WGA1440XZA Silver — built to make home life easier. Bosch combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "9"], ["Type", "Frontloader"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/bosch-9kg-series-4-frontloader-washing-machine-inox-wga1440xza-s.svg"
   },
   {
     id: "defy-90l-bar-fridge-dbf90m-metallic-defy",
@@ -978,7 +978,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 90L Bar Fridge DBF90M Metallic — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "90"], ["Type", "Bar Fridge"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-90l-bar-fridge-dbf90m-metallic-defy.svg"
   },
   {
     id: "hisense-14kg-twin-tub-washing-machine-white-wscf143-hisense",
@@ -990,7 +990,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 14kg Twin Tub Washing Machine White WSCF143 — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "14"], ["Type", "Twin Tub"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-14kg-twin-tub-washing-machine-white-wscf143-hisense.svg"
   },
   {
     id: "defy-348l-c455-fridge-freezer-metallic-with-water-dispenser-dac6",
@@ -1002,7 +1002,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 348L C455 Fridge Freezer Metallic With Water Dispenser DAC645 — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "348"], ["Type", "Fridge freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-348l-c455-fridge-freezer-metallic-with-water-dispenser-dac6.svg"
   },
   {
     id: "defy-4-plate-compact-stove-black-dss554-defy",
@@ -1015,7 +1015,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 4 Plate Compact Stove Black DSS554 — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-4-plate-compact-stove-black-dss554-defy.svg"
   },
   {
     id: "defy-157l-top-freezer-fridge-metallic-dad239-defy",
@@ -1027,7 +1027,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 157L Top Freezer Fridge Metallic DAD239 — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "157"], ["Type", "Top Freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-157l-top-freezer-fridge-metallic-dad239-defy.svg"
   },
   {
     id: "snomaster-12kg-bullet-type-ice-maker-smic-30-snomaster",
@@ -1039,7 +1039,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Snomaster 12KG Bullet Type Ice Maker SMIC-30 — built to make home life easier. Snomaster combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "12"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/snomaster-12kg-bullet-type-ice-maker-smic-30-snomaster.svg"
   },
   {
     id: "hisense-223l-fridge-freezer-h310bit-metallic-hisense",
@@ -1051,7 +1051,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 223L Fridge Freezer H310BIT Metallic — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "223"], ["Type", "Fridge freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-223l-fridge-freezer-h310bit-metallic-hisense.svg"
   },
   {
     id: "defy-13-place-dishwasher-manhattan-grey-ddw242-defy",
@@ -1063,7 +1063,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 13 Place Dishwasher Manhattan Grey DDW242 — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-13-place-dishwasher-manhattan-grey-ddw242-defy.svg"
   },
   {
     id: "univa-13-place-dishwasher-dark-grey-udw301-univa",
@@ -1075,7 +1075,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Univa 13 Place Dishwasher Dark Grey UDW301 — built to make home life easier. Univa combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/univa-13-place-dishwasher-dark-grey-udw301-univa.svg"
   },
   {
     id: "hisense-154l-top-freezer-fridge-titanium-silver-h225tts-hisense",
@@ -1087,7 +1087,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 154L Top Freezer Fridge Titanium Silver H225TTS — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "154"], ["Type", "Top Freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-154l-top-freezer-fridge-titanium-silver-h225tts-hisense.svg"
   },
   {
     id: "russell-hobbs-1-7l-double-walled-glass-kettle-rhgk02-russell-hob",
@@ -1099,7 +1099,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Russell Hobbs 1.7L Double Walled Glass Kettle RHGK02 — built to make home life easier. Russell Hobbs combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "1.7"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/russell-hobbs-1-7l-double-walled-glass-kettle-rhgk02-russell-hob.svg"
   },
   {
     id: "defy-8-4l-digital-dual-basket-air-fryer-daf6386dbd-defy",
@@ -1111,7 +1111,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 8.4L Digital Dual Basket Air Fryer DAF6386DBD — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "8.4"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-8-4l-digital-dual-basket-air-fryer-daf6386dbd-defy.svg"
   },
   {
     id: "milex-1-7l-electric-kettle-mek003-milex",
@@ -1123,7 +1123,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Milex 1.7L Electric Kettle MEK003 — built to make home life easier. Milex combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "1.7"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/milex-1-7l-electric-kettle-mek003-milex.svg"
   },
   {
     id: "xiaomi-robot-vacuum-s40-bhr084aeu-xiaomi",
@@ -1135,7 +1135,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Robot Vacuum S40 BHR084AEU — built to make home life easier. Xiaomi combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/xiaomi-robot-vacuum-s40-bhr084aeu-xiaomi.svg"
   },
   {
     id: "wahl-professional-2000-watt-hair-dryer-wahl",
@@ -1147,7 +1147,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Wahl Professional 2000 Watt Hair Dryer — built to make home life easier. Wahl combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/wahl-professional-2000-watt-hair-dryer-wahl.svg"
   },
   {
     id: "russell-hobbs-6l-electric-pressure-cooker-russell-hobbs",
@@ -1160,7 +1160,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Russell Hobbs 6L Electric Pressure Cooker — built to make home life easier. Russell Hobbs combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "6"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/russell-hobbs-6l-electric-pressure-cooker-russell-hobbs.svg"
   },
   {
     id: "milex-nutrimix-fusion-blender-silver-milex",
@@ -1173,7 +1173,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Milex Nutrimix Fusion Blender Silver — built to make home life easier. Milex combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/milex-nutrimix-fusion-blender-silver-milex.svg"
   },
   {
     id: "milex-8l-touch-chef-digital-air-fryer-milex",
@@ -1185,7 +1185,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Milex 8L Touch Chef Digital Air Fryer — built to make home life easier. Milex combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "8"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/milex-8l-touch-chef-digital-air-fryer-milex.svg"
   },
   {
     id: "orion-2000w-ceramic-hyperglide-iron-osi-2001-orion",
@@ -1197,7 +1197,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 2000W Ceramic Hyperglide Iron OSI-2001 — built to make home life easier. Orion combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/orion-2000w-ceramic-hyperglide-iron-osi-2001-orion.svg"
   },
   {
     id: "hoover-21-hoover-proclean-20l-stainless-steel-wet-and-dry-vacuum",
@@ -1209,7 +1209,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hoover 21 Hoover Proclean 20l Stainless Steel Wet And Dry Vacuum — built to make home life easier. Hoover combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "20"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hoover-21-hoover-proclean-20l-stainless-steel-wet-and-dry-vacuum.svg"
   },
   {
     id: "bennett-read-10l-digital-air-fryer-kaf145-bennett-read",
@@ -1221,7 +1221,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Bennett Read 10L Digital Air Fryer KAF145 — built to make home life easier. Bennett Read combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "10"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/bennett-read-10l-digital-air-fryer-kaf145-bennett-read.svg"
   },
   {
     id: "wahl-hair-clipper-multicut-9247-003-wahl",
@@ -1233,7 +1233,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Wahl Hair Clipper Multicut 9247-003 — built to make home life easier. Wahl combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/wahl-hair-clipper-multicut-9247-003-wahl.svg"
   },
   {
     id: "defy-7-6l-digital-air-fryer-daf-3376-db-defy",
@@ -1245,7 +1245,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 7.6L Digital Air Fryer DAF 3376 DB — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "7.6"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-7-6l-digital-air-fryer-daf-3376-db-defy.svg"
   },
   {
     id: "kenwood-2l-blender-with-mill-black-kenwood",
@@ -1257,7 +1257,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Kenwood 2L Blender with Mill Black — built to make home life easier. Kenwood combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "2"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/kenwood-2l-blender-with-mill-black-kenwood.svg"
   },
   {
     id: "bennett-read-30l-compact-oven-br30lmk-bennett-read",
@@ -1270,7 +1270,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Bennett Read 30L Compact Oven BR30LMK — built to make home life easier. Bennett Read combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "30"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/bennett-read-30l-compact-oven-br30lmk-bennett-read.svg"
   },
   {
     id: "russell-hobbs-slow-cooker-6-5lt-rhss75-russell-hobbs",
@@ -1282,7 +1282,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Russell Hobbs Slow Cooker 6.5lt RHSS75 — built to make home life easier. Russell Hobbs combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "6.5"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/russell-hobbs-slow-cooker-6-5lt-rhss75-russell-hobbs.svg"
   },
   {
     id: "sunbeam-6-bar-quartz-heater-sbh-6000-sunbeam",
@@ -1294,7 +1294,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sunbeam 6 Bar Quartz Heater SBH-6000 — built to make home life easier. Sunbeam combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/sunbeam-6-bar-quartz-heater-sbh-6000-sunbeam.svg"
   },
   {
     id: "defy-black-ptc-heater-dph1100-defy",
@@ -1306,7 +1306,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy Black PTC Heater DPH1100 — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-black-ptc-heater-dph1100-defy.svg"
   },
   {
     id: "purepleasure-double-tie-down-electric-blanket-purepleasure",
@@ -1318,7 +1318,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Purepleasure Double Tie-Down Electric Blanket — built to make home life easier. Purepleasure combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/purepleasure-double-tie-down-electric-blanket-purepleasure.svg"
   },
   {
     id: "orion-3-bar-quartz-heater-ohh3w-orion",
@@ -1330,7 +1330,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 3 Bar Quartz Heater OHH3W — built to make home life easier. Orion combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/orion-3-bar-quartz-heater-ohh3w-orion.svg"
   },
   {
     id: "tcl-14000btu-portable-air-conditioner-tac-14chpb-mz-tcl",
@@ -1343,7 +1343,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TCL 14000BTU Portable Air Conditioner TAC-14CHPB/MZ — built to make home life easier. TCL combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "14000 BTU"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/tcl-14000btu-portable-air-conditioner-tac-14chpb-mz-tcl.svg"
   },
   {
     id: "alva-compact-3-panel-gas-infrared-heater-gh303-alva",
@@ -1356,7 +1356,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Alva Compact 3 Panel Gas Infrared Heater GH303 — built to make home life easier. Alva combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/alva-compact-3-panel-gas-infrared-heater-gh303-alva.svg"
   },
   {
     id: "goldair-9-fin-oil-radiator-gor-900a-goldair",
@@ -1368,7 +1368,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Goldair 9 Fin Oil Radiator GOR-900A — built to make home life easier. Goldair combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/goldair-9-fin-oil-radiator-gor-900a-goldair.svg"
   },
   {
     id: "xiaomi-smart-space-heater-s-eu-bhr4037gl-xiaomi",
@@ -1380,7 +1380,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Smart Space Heater S EU BHR4037GL — built to make home life easier. Xiaomi combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/xiaomi-smart-space-heater-s-eu-bhr4037gl-xiaomi.svg"
   },
   {
     id: "alva-gas-electric-heater-gh309-alva",
@@ -1392,7 +1392,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Alva Gas Electric Heater GH309 — built to make home life easier. Alva combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/alva-gas-electric-heater-gh309-alva.svg"
   },
   {
     id: "delonghi-ceramic-fan-heater-hfx30c18-ag-delonghi",
@@ -1404,7 +1404,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Delonghi Ceramic Fan Heater HFX30C18.AG — built to make home life easier. Delonghi combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/delonghi-ceramic-fan-heater-hfx30c18-ag-delonghi.svg"
   },
   {
     id: "alva-circular-medium-glass-patio-heater-ghp24-alva",
@@ -1417,7 +1417,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Alva-Circular Medium Glass Patio Heater GHP24 — built to make home life easier. Alva combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/alva-circular-medium-glass-patio-heater-ghp24-alva.svg"
   },
   {
     id: "russell-hobbs-fan-heater-black-rhfh914-russell-hobbs",
@@ -1430,7 +1430,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Russell Hobbs Fan Heater, Black RHFH914 — built to make home life easier. Russell Hobbs combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/russell-hobbs-fan-heater-black-rhfh914-russell-hobbs.svg"
   },
   {
     id: "xiaomi-oscillation-fan-heater-bhr8228eu-xiaomi",
@@ -1442,7 +1442,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Oscillation Fan Heater BHR8228EU — built to make home life easier. Xiaomi combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/xiaomi-oscillation-fan-heater-bhr8228eu-xiaomi.svg"
   },
   {
     id: "purepleasure-queen-tie-down-electric-blanket-purepleasure",
@@ -1454,7 +1454,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Purepleasure Queen Tie-Down Electric Blanket — built to make home life easier. Purepleasure combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/purepleasure-queen-tie-down-electric-blanket-purepleasure.svg"
   },
   {
     id: "goldair-11-fin-oil-radiator-gor-1100a-goldair",
@@ -1466,7 +1466,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Goldair 11 Fin Oil Radiator GOR-1100A — built to make home life easier. Goldair combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/goldair-11-fin-oil-radiator-gor-1100a-goldair.svg"
   },
   {
     id: "goldair-3-panel-gas-heater-ggh42ba-goldair",
@@ -1478,7 +1478,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Goldair 3 Panel Gas Heater GGH42BA — built to make home life easier. Goldair combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/goldair-3-panel-gas-heater-ggh42ba-goldair.svg"
   },
   {
     id: "alva-stainless-steel-patio-heater-alva",
@@ -1490,7 +1490,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "ALVA Stainless Steel Patio Heater — built to make home life easier. Alva combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/alva-stainless-steel-patio-heater-alva.svg"
   },
   {
     id: "elegance-foldable-gas-heater-ry10-04e-elegance",
@@ -1502,7 +1502,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Elegance Foldable Gas Heater RY10-04E — built to make home life easier. Elegance combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/elegance-foldable-gas-heater-ry10-04e-elegance.svg"
   },
   {
     id: "delonghi-infrared-gas-heater-ir3010-delonghi",
@@ -1514,7 +1514,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Delonghi Infrared Gas Heater IR3010 — built to make home life easier. Delonghi combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/delonghi-infrared-gas-heater-ir3010-delonghi.svg"
   },
   {
     id: "hisense-223l-combi-fridge-freezer-inox-hisense",
@@ -1526,7 +1526,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 223L Combi Fridge Freezer Inox — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "223"], ["Type", "Combi"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-223l-combi-fridge-freezer-inox-hisense.svg"
   },
   {
     id: "hisense-223l-combi-fridge-freezer-hisense",
@@ -1539,7 +1539,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 223L Combi Fridge Freezer — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "223"], ["Type", "Combi"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-223l-combi-fridge-freezer-hisense.svg"
   },
   {
     id: "hisense-347l-combi-fridge-hisense",
@@ -1551,7 +1551,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 347L Combi Fridge — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "347"], ["Type", "Combi"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-347l-combi-fridge-hisense.svg"
   },
   {
     id: "hisense-543l-side-by-side-fridge-freezer-hisense",
@@ -1564,7 +1564,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 543L Side-By-Side Fridge Freezer — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "543"], ["Type", "Fridge freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-543l-side-by-side-fridge-freezer-hisense.svg"
   },
   {
     id: "hisense-154l-top-freezer-fridge-hisense",
@@ -1576,7 +1576,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 154L Top Freezer Fridge — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "154"], ["Type", "Top Freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-154l-top-freezer-fridge-hisense.svg"
   },
   {
     id: "defy-90l-bar-fridge-defy",
@@ -1588,7 +1588,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 90L Bar Fridge — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "90"], ["Type", "Bar Fridge"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-90l-bar-fridge-defy.svg"
   },
   {
     id: "defy-157l-top-freezer-fridge-defy",
@@ -1600,7 +1600,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 157L Top Freezer Fridge — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "157"], ["Type", "Top Freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-157l-top-freezer-fridge-defy.svg"
   },
   {
     id: "defy-348l-combi-fridge-freezer-defy",
@@ -1613,7 +1613,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 348L Combi Fridge Freezer — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "348"], ["Type", "Combi"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-348l-combi-fridge-freezer-defy.svg"
   },
   {
     id: "defy-492l-french-door-fridge-defy",
@@ -1625,7 +1625,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 492L French Door Fridge — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "492"], ["Type", "French Door"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-492l-french-door-fridge-defy.svg"
   },
   {
     id: "mora-154l-top-freezer-fridge-mora",
@@ -1638,7 +1638,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Mora 154L Top Freezer Fridge — built to make home life easier. Mora combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "154"], ["Type", "Top Freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/mora-154l-top-freezer-fridge-mora.svg"
   },
   {
     id: "kic-537l-chest-freezer-kic",
@@ -1650,7 +1650,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "KIC 537L Chest Freezer — built to make home life easier. KIC combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "537"], ["Type", "Chest"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/kic-537l-chest-freezer-kic.svg"
   },
   {
     id: "kic-250l-upright-freezer-kic",
@@ -1662,7 +1662,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "KIC 250L Upright Freezer — built to make home life easier. KIC combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "250"], ["Type", "Fridge freezer"], ["Energy rating", "A+"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/kic-250l-upright-freezer-kic.svg"
   },
   {
     id: "defy-8kg-top-loader-washing-machine-defy",
@@ -1674,7 +1674,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 8kg Top Loader Washing Machine — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "8"], ["Type", "Top Loader"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-8kg-top-loader-washing-machine-defy.svg"
   },
   {
     id: "defy-6kg-front-loader-defy",
@@ -1687,7 +1687,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 6kg Front Loader — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "6"], ["Type", "Front Loader"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-6kg-front-loader-defy.svg"
   },
   {
     id: "defy-15kg-twin-tub-defy",
@@ -1699,7 +1699,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 15kg Twin Tub — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "15"], ["Type", "Twin Tub"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-15kg-twin-tub-defy.svg"
   },
   {
     id: "defy-14kg-top-loader-defy",
@@ -1711,7 +1711,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 14kg Top Loader — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "14"], ["Type", "Top Loader"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-14kg-top-loader-defy.svg"
   },
   {
     id: "hisense-8kg-front-loader-hisense",
@@ -1724,7 +1724,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 8kg Front Loader — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "8"], ["Type", "Front Loader"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-8kg-front-loader-hisense.svg"
   },
   {
     id: "hisense-18kg-top-loader-hisense",
@@ -1736,7 +1736,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 18kg Top Loader — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "18"], ["Type", "Top Loader"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-18kg-top-loader-hisense.svg"
   },
   {
     id: "hisense-14kg-twin-tub-hisense",
@@ -1749,7 +1749,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 14kg Twin Tub — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "14"], ["Type", "Twin Tub"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-14kg-twin-tub-hisense.svg"
   },
   {
     id: "samsung-19kg-ai-top-loader-samsung",
@@ -1761,7 +1761,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 19kg AI Top Loader — built to make home life easier. Samsung combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "19"], ["Type", "Top Loader"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/samsung-19kg-ai-top-loader-samsung.svg"
   },
   {
     id: "univa-12kg-top-loader-univa",
@@ -1773,7 +1773,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Univa 12kg Top Loader — built to make home life easier. Univa combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "12"], ["Type", "Top Loader"], ["Spin speed", "1200 rpm"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/univa-12kg-top-loader-univa.svg"
   },
   {
     id: "russell-hobbs-1-7l-electric-kettle-russell-hobbs",
@@ -1785,7 +1785,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Russell Hobbs 1.7L Electric Kettle — built to make home life easier. Russell Hobbs combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "1.7"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/russell-hobbs-1-7l-electric-kettle-russell-hobbs.svg"
   },
   {
     id: "russell-hobbs-2-slice-toaster-russell-hobbs",
@@ -1797,7 +1797,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Russell Hobbs 2-Slice Toaster — built to make home life easier. Russell Hobbs combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/russell-hobbs-2-slice-toaster-russell-hobbs.svg"
   },
   {
     id: "russell-hobbs-1-5l-jug-blender-russell-hobbs",
@@ -1809,7 +1809,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Russell Hobbs 1.5L Jug Blender — built to make home life easier. Russell Hobbs combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "1.5"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/russell-hobbs-1-5l-jug-blender-russell-hobbs.svg"
   },
   {
     id: "milex-1-7l-electric-kettle-milex",
@@ -1821,7 +1821,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Milex 1.7L Electric Kettle — built to make home life easier. Milex combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "1.7"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/milex-1-7l-electric-kettle-milex.svg"
   },
   {
     id: "milex-8l-touch-digital-air-fryer-milex",
@@ -1833,7 +1833,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Milex 8L Touch Digital Air Fryer — built to make home life easier. Milex combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "8"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/milex-8l-touch-digital-air-fryer-milex.svg"
   },
   {
     id: "milex-stand-mixer-600w-milex",
@@ -1846,7 +1846,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Milex Stand Mixer 600W — built to make home life easier. Milex combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/milex-stand-mixer-600w-milex.svg"
   },
   {
     id: "milex-2-slice-toaster-milex",
@@ -1858,7 +1858,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Milex 2-Slice Toaster — built to make home life easier. Milex combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/milex-2-slice-toaster-milex.svg"
   },
   {
     id: "defy-8-4l-dual-basket-air-fryer-defy",
@@ -1870,7 +1870,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 8.4L Dual Basket Air Fryer — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "8.4"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-8-4l-dual-basket-air-fryer-defy.svg"
   },
   {
     id: "defy-7-6l-digital-air-fryer-defy",
@@ -1882,7 +1882,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy 7.6L Digital Air Fryer — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "7.6"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-7-6l-digital-air-fryer-defy.svg"
   },
   {
     id: "defy-compact-microwave-20l-defy",
@@ -1895,7 +1895,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy Compact Microwave 20L — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "20"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-compact-microwave-20l-defy.svg"
   },
   {
     id: "hisense-45l-electronic-microwave-hisense",
@@ -1907,7 +1907,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 45L Electronic Microwave — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "45"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-45l-electronic-microwave-hisense.svg"
   },
   {
     id: "hisense-34l-digital-microwave-hisense",
@@ -1919,7 +1919,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 34L Digital Microwave — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "34"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-34l-digital-microwave-hisense.svg"
   },
   {
     id: "hisense-2-1l-air-fryer-hisense",
@@ -1932,7 +1932,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 2.1L Air Fryer — built to make home life easier. Hisense combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "2.1"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hisense-2-1l-air-fryer-hisense.svg"
   },
   {
     id: "philips-6-2l-digital-airfryer-philips",
@@ -1944,7 +1944,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Philips 6.2L Digital Airfryer — built to make home life easier. Philips combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "6.2"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/philips-6-2l-digital-airfryer-philips.svg"
   },
   {
     id: "philips-1-5l-blender-700w-philips",
@@ -1956,7 +1956,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Philips 1.5L Blender 700W — built to make home life easier. Philips combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "1.5"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/philips-1-5l-blender-700w-philips.svg"
   },
   {
     id: "sunbeam-3-piece-kitchen-pack-sunbeam",
@@ -1968,7 +1968,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sunbeam 3-Piece Kitchen Pack — built to make home life easier. Sunbeam combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/sunbeam-3-piece-kitchen-pack-sunbeam.svg"
   },
   {
     id: "sunbeam-stick-vacuum-1400w-sunbeam",
@@ -1980,7 +1980,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sunbeam Stick Vacuum 1400W — built to make home life easier. Sunbeam combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/sunbeam-stick-vacuum-1400w-sunbeam.svg"
   },
   {
     id: "hoover-20l-wet-and-dry-vacuum-hoover",
@@ -1992,7 +1992,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hoover 20L Wet and Dry Vacuum — built to make home life easier. Hoover combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "20"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hoover-20l-wet-and-dry-vacuum-hoover.svg"
   },
   {
     id: "hoover-upright-vacuum-1600w-hoover",
@@ -2005,7 +2005,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hoover Upright Vacuum 1600W — built to make home life easier. Hoover combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/hoover-upright-vacuum-1600w-hoover.svg"
   },
   {
     id: "kenwood-2l-blender-with-mill-kenwood",
@@ -2017,7 +2017,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Kenwood 2L Blender with Mill — built to make home life easier. Kenwood combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "2"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/kenwood-2l-blender-with-mill-kenwood.svg"
   },
   {
     id: "kenwood-4-slice-toaster-kenwood",
@@ -2030,7 +2030,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Kenwood 4-Slice Toaster — built to make home life easier. Kenwood combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/kenwood-4-slice-toaster-kenwood.svg"
   },
   {
     id: "goldair-9-fin-oil-radiator-goldair",
@@ -2042,7 +2042,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Goldair 9 Fin Oil Radiator — built to make home life easier. Goldair combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/goldair-9-fin-oil-radiator-goldair.svg"
   },
   {
     id: "goldair-11-fin-oil-radiator-goldair",
@@ -2054,7 +2054,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Goldair 11 Fin Oil Radiator — built to make home life easier. Goldair combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/goldair-11-fin-oil-radiator-goldair.svg"
   },
   {
     id: "goldair-3-panel-gas-heater-goldair",
@@ -2066,7 +2066,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Goldair 3 Panel Gas Heater — built to make home life easier. Goldair combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/goldair-3-panel-gas-heater-goldair.svg"
   },
   {
     id: "goldair-2kw-fan-heater-goldair",
@@ -2079,7 +2079,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Goldair 2kW Fan Heater — built to make home life easier. Goldair combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/goldair-2kw-fan-heater-goldair.svg"
   },
   {
     id: "sunbeam-6-bar-quartz-heater-sunbeam",
@@ -2091,7 +2091,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sunbeam 6 Bar Quartz Heater — built to make home life easier. Sunbeam combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/sunbeam-6-bar-quartz-heater-sunbeam.svg"
   },
   {
     id: "sunbeam-2kw-panel-heater-sunbeam",
@@ -2103,7 +2103,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sunbeam 2kW Panel Heater — built to make home life easier. Sunbeam combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/sunbeam-2kw-panel-heater-sunbeam.svg"
   },
   {
     id: "defy-ptc-heater-1500w-defy",
@@ -2115,7 +2115,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy PTC Heater 1500W — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-ptc-heater-1500w-defy.svg"
   },
   {
     id: "defy-tower-heater-2kw-defy",
@@ -2127,7 +2127,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Defy Tower Heater 2kW — built to make home life easier. Defy combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/defy-tower-heater-2kw-defy.svg"
   },
   {
     id: "orion-3-bar-quartz-heater-orion",
@@ -2139,7 +2139,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 3 Bar Quartz Heater — built to make home life easier. Orion combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/orion-3-bar-quartz-heater-orion.svg"
   },
   {
     id: "orion-2kw-fan-heater-orion",
@@ -2151,7 +2151,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 2kW Fan Heater — built to make home life easier. Orion combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/orion-2kw-fan-heater-orion.svg"
   },
   {
     id: "alva-3-panel-gas-heater-alva",
@@ -2163,7 +2163,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Alva 3 Panel Gas Heater — built to make home life easier. Alva combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/alva-3-panel-gas-heater-alva.svg"
   },
   {
     id: "alva-glass-patio-heater-alva",
@@ -2176,7 +2176,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Alva Glass Patio Heater — built to make home life easier. Alva combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/alva-glass-patio-heater-alva.svg"
   },
   {
     id: "alva-stainless-steel-patio-heater-alva-284",
@@ -2188,7 +2188,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Alva Stainless Steel Patio Heater — built to make home life easier. Alva combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/alva-stainless-steel-patio-heater-alva-284.svg"
   },
   {
     id: "delonghi-ceramic-fan-heater-delonghi",
@@ -2201,7 +2201,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Delonghi Ceramic Fan Heater — built to make home life easier. Delonghi combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/delonghi-ceramic-fan-heater-delonghi.svg"
   },
   {
     id: "delonghi-infrared-gas-heater-delonghi",
@@ -2213,7 +2213,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Delonghi Infrared Gas Heater — built to make home life easier. Delonghi combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/delonghi-infrared-gas-heater-delonghi.svg"
   },
   {
     id: "xiaomi-smart-space-heater-xiaomi",
@@ -2225,7 +2225,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Smart Space Heater — built to make home life easier. Xiaomi combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/xiaomi-smart-space-heater-xiaomi.svg"
   },
   {
     id: "xiaomi-oscillation-fan-heater-xiaomi",
@@ -2237,7 +2237,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Oscillation Fan Heater — built to make home life easier. Xiaomi combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/xiaomi-oscillation-fan-heater-xiaomi.svg"
   },
   {
     id: "samsung-ar3000-12000btu-air-conditioner-samsung",
@@ -2249,7 +2249,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung AR3000 12000BTU Air Conditioner — built to make home life easier. Samsung combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "12000 BTU"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/samsung-ar3000-12000btu-air-conditioner-samsung.svg"
   },
   {
     id: "samsung-ar9000-18000btu-inverter-ac-samsung",
@@ -2262,7 +2262,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung AR9000 18000BTU Inverter AC — built to make home life easier. Samsung combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "18000 BTU"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/samsung-ar9000-18000btu-inverter-ac-samsung.svg"
   },
   {
     id: "tcl-14000btu-portable-air-conditioner-tcl",
@@ -2275,7 +2275,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TCL 14000BTU Portable Air Conditioner — built to make home life easier. TCL combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "14000 BTU"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/tcl-14000btu-portable-air-conditioner-tcl.svg"
   },
   {
     id: "tcl-12000btu-inverter-split-ac-tcl",
@@ -2287,7 +2287,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TCL 12000BTU Inverter Split AC — built to make home life easier. TCL combines practical performance, energy-smart operation and easy cleaning, backed by a full local warranty.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Capacity", "12000 BTU"], ["Power", "220-240V, 50Hz"], ["Warranty", "12 months"]]],
-    image: "images/ph/appliances.svg"
+    image: "images/ph/tcl-12000btu-inverter-split-ac-tcl.svg"
   },
   {
     id: "asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-laptop-",
@@ -2300,7 +2300,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "ASUS Vivobook X1504 Intel Core 5 120U 16GB RAM 512GB SSD Laptop — a dependable everyday or productivity machine from ASUS. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Intel"], ["Memory", "16 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-laptop-.svg"
   },
   {
     id: "packard-bell-senna-r32-pro-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-l",
@@ -2313,7 +2313,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell Senna R32 Pro 14.1 AMD Ryzen 3 16GB RAM 512GB SSD Laptop — a dependable everyday or productivity machine from Packard Bell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 3"], ["Memory", "16 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/packard-bell-senna-r32-pro-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-l.svg"
   },
   {
     id: "lenovo-loq-15-ryzen-5-150-16gb-ram-and-512gb-ssd-rtx3050-gaming-",
@@ -2326,7 +2326,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo LOQ 15 Ryzen 5 150 16GB RAM & 512GB SSD RTX3050 Gaming Laptop — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "16 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-loq-15-ryzen-5-150-16gb-ram-and-512gb-ssd-rtx3050-gaming-.svg"
   },
   {
     id: "lenovo-ideapad-3-amd-ryzen-5-40-16gb-ram-and-512gb-ssd-laptop-le",
@@ -2338,7 +2338,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo IdeaPad 3 AMD Ryzen 5 40 16GB RAM and 512GB SSD Laptop — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "16 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-ideapad-3-amd-ryzen-5-40-16gb-ram-and-512gb-ssd-laptop-le.svg"
   },
   {
     id: "asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-lapt",
@@ -2351,7 +2351,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "ASUS VivoBook Go E1504 AMD Ryzen 3 30 8GB RAM and 256GB SSD Laptop — a dependable everyday or productivity machine from ASUS. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 3"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-lapt.svg"
   },
   {
     id: "asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop-asus",
@@ -2364,7 +2364,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "ASUS VivoBook Go E1504 Intel N150 8GB RAM 256GB SSD Laptop — a dependable everyday or productivity machine from ASUS. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "N150"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop-asus.svg"
   },
   {
     id: "acer-314-intel-celeron-n4500-4gb-ram-64gb-emmc-chromebook-acer",
@@ -2377,7 +2377,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Acer 314 Intel Celeron N4500 4GB RAM 64GB eMMC Chromebook — a dependable everyday or productivity machine from Acer. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Celeron"], ["Memory", "4 GB RAM"], ["Storage", "4 GB"], ["Screen", "15.6 inch"], ["Operating system", "ChromeOS"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/acer-314-intel-celeron-n4500-4gb-ram-64gb-emmc-chromebook-acer.svg"
   },
   {
     id: "lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chr",
@@ -2389,7 +2389,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo IdeaPad 3 MediaTek Kompanio 540 8GB RAM and 128GB UFS Chromebook — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "ChromeOS"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chr.svg"
   },
   {
     id: "lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop-lenovo",
@@ -2402,7 +2402,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo IdeaPad 3 AMD Athlon 8GB RAM 256GB SSD Laptop — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Athlon"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop-lenovo.svg"
   },
   {
     id: "dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop-del",
@@ -2414,7 +2414,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Dell Inspiron 5440 Intel Core 7-150U 16GB RAM 1TB SSD Laptop — a dependable everyday or productivity machine from Dell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Intel"], ["Memory", "16 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop-del.svg"
   },
   {
     id: "acer-aspire-lite-15-intel-celeron-n4500-8gb-ram-128gb-w11h-acer",
@@ -2426,7 +2426,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Acer Aspire Lite 15 Intel Celeron N4500 8GB RAM 128GB W11H — a dependable everyday or productivity machine from Acer. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Celeron"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/acer-aspire-lite-15-intel-celeron-n4500-8gb-ram-128gb-w11h-acer.svg"
   },
   {
     id: "packard-bell-schumi-lte-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-lapt",
@@ -2438,7 +2438,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell Schumi LTE 14.1 AMD Ryzen 3 16GB RAM 512GB SSD Laptop Bundle — a dependable everyday or productivity machine from Packard Bell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 3"], ["Memory", "16 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/packard-bell-schumi-lte-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-lapt.svg"
   },
   {
     id: "hp-omnibook-3-amd-ryzen-5-130-8gb-ram-and-512ssd-laptop-hp",
@@ -2451,7 +2451,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP OmniBook 3 AMD Ryzen 5 130 8GB RAM and 512SSD Laptop — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-omnibook-3-amd-ryzen-5-130-8gb-ram-and-512ssd-laptop-hp.svg"
   },
   {
     id: "orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-orion",
@@ -2463,7 +2463,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 AMD Ryzen 3 3200 8GB RAM and 256GB SSD Laptop — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 3"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-orion.svg"
   },
   {
     id: "hp-250-intel-n150-8gb-ram-256gb-ssd-laptop-hp",
@@ -2475,7 +2475,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP 250 Intel N150 8GB RAM 256GB SSD Laptop — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "N150"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop-hp.svg"
   },
   {
     id: "lenovo-ideapad-3-amd-ryzen-5-40-8gb-ram-and-512gb-ssd-laptop-len",
@@ -2487,7 +2487,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo IdeaPad 3 AMD Ryzen 5 40 8GB RAM and 512GB SSD Laptop — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-ideapad-3-amd-ryzen-5-40-8gb-ram-and-512gb-ssd-laptop-len.svg"
   },
   {
     id: "orion-15-6-amd-ryzen-5-3450u-8gb-ram-and-256gb-ssd-laptop-orion",
@@ -2499,7 +2499,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 AMD Ryzen 5 3450U 8GB RAM and 256GB SSD Laptop — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-amd-ryzen-5-3450u-8gb-ram-and-256gb-ssd-laptop-orion.svg"
   },
   {
     id: "packard-bell-senna-r5-16-amd-ryzen-5-16gb-ram-512gb-ssd-laptop-p",
@@ -2511,7 +2511,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell Senna R5 16 AMD Ryzen 5 16GB RAM 512GB SSD Laptop — a dependable everyday or productivity machine from Packard Bell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "16 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/packard-bell-senna-r5-16-amd-ryzen-5-16gb-ram-512gb-ssd-laptop-p.svg"
   },
   {
     id: "hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle-hp",
@@ -2523,7 +2523,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP 15s Ryzen 3 7320U 8GB RAM 256GB SSD Laptop Bundle — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 3"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle-hp.svg"
   },
   {
     id: "packard-bell-montenero-c82pro-intel-celeron-n4500-8gb-ram-256gb-",
@@ -2536,7 +2536,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell Montenero C82Pro Intel Celeron N4500 8GB RAM 256GB SSD Laptop — a dependable everyday or productivity machine from Packard Bell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Celeron"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/packard-bell-montenero-c82pro-intel-celeron-n4500-8gb-ram-256gb-.svg"
   },
   {
     id: "orion-14-intel-core-i3-10100y-8gb-ram-256gb-ssd-laptop-orion",
@@ -2548,7 +2548,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 14 Intel Core i3 10100Y 8GB RAM 256GB SSD Laptop — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Core i3"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-14-intel-core-i3-10100y-8gb-ram-256gb-ssd-laptop-orion.svg"
   },
   {
     id: "lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop-l",
@@ -2561,7 +2561,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo IdeaPad 3 AMD Ryzen 7 170 16GB RAM and 512GB SSD Laptop — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 7"], ["Memory", "16 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop-l.svg"
   },
   {
     id: "orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop-orion",
@@ -2573,7 +2573,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 14 Intel Pentium 6500Y 8GB RAM 256GB SSD Laptop — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Pentium"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop-orion.svg"
   },
   {
     id: "hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop-hp",
@@ -2586,7 +2586,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP 15s AMD Ryzen 5 7520U 8GB RAM 512GB SSD Laptop — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop-hp.svg"
   },
   {
     id: "packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd",
@@ -2598,7 +2598,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell Carrera Flex 3 AMD Ryzen 3 3200U 16GB RAM 512GB SSD Laptop — a dependable everyday or productivity machine from Packard Bell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 3"], ["Memory", "16 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd.svg"
   },
   {
     id: "volkano-lucas-15-6-laptop-backpack-black-volkano",
@@ -2610,7 +2610,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Lucas 15.6 Laptop Backpack Black — a dependable everyday or productivity machine from Volkano. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/volkano-lucas-15-6-laptop-backpack-black-volkano.svg"
   },
   {
     id: "pcbuilder-amd-ryzen-5-5600gt-defender-windows-11-gaming-pc-pcbui",
@@ -2622,7 +2622,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "PCBuilder AMD Ryzen 5 5600GT DEFENDER Windows 11 Gaming PC — a dependable everyday or productivity machine from PCBuilder. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/pcbuilder-amd-ryzen-5-5600gt-defender-windows-11-gaming-pc-pcbui.svg"
   },
   {
     id: "dell-latitude-7400-core-i7-8th-gen-renewed-dell",
@@ -2635,7 +2635,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Dell Latitude 7400 Core i7 8th Gen Renewed — a dependable everyday or productivity machine from Dell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/dell-latitude-7400-core-i7-8th-gen-renewed-dell.svg"
   },
   {
     id: "dell-chromebook-11-3180-celeron-n3060-3rd-gen-renewed-dell",
@@ -2648,7 +2648,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Dell Chromebook 11 3180 Celeron N3060 3rd Gen Renewed — a dependable everyday or productivity machine from Dell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "ChromeOS"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/dell-chromebook-11-3180-celeron-n3060-3rd-gen-renewed-dell.svg"
   },
   {
     id: "dell-latitude-7280-core-i7-7th-gen-renewed-dell",
@@ -2660,7 +2660,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Dell Latitude 7280 Core i7 7th Gen Renewed — a dependable everyday or productivity machine from Dell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/dell-latitude-7280-core-i7-7th-gen-renewed-dell.svg"
   },
   {
     id: "lenovo-thinkpad-t470-core-i5-6th-gen-renewed-lenovo",
@@ -2672,7 +2672,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo Thinkpad T470 Core i5 6th Gen Renewed — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-thinkpad-t470-core-i5-6th-gen-renewed-lenovo.svg"
   },
   {
     id: "lenovo-thinkpad-t470s-core-i7-7th-gen-renewed-lenovo",
@@ -2684,7 +2684,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo Thinkpad T470s Core i7 7th Gen Renewed — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-thinkpad-t470s-core-i7-7th-gen-renewed-lenovo.svg"
   },
   {
     id: "dell-latitude-5590-core-i7-8th-gen-renewed-dell",
@@ -2697,7 +2697,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Dell Latitude 5590 Core i7 8th Gen Renewed — a dependable everyday or productivity machine from Dell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/dell-latitude-5590-core-i7-8th-gen-renewed-dell.svg"
   },
   {
     id: "hp-chromebook-11-g3-celeron-5th-gen-renewed-hp",
@@ -2710,7 +2710,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP Chromebook 11 G3 Celeron 5th Gen Renewed — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "ChromeOS"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-chromebook-11-g3-celeron-5th-gen-renewed-hp.svg"
   },
   {
     id: "hp-probook-450-g5-core-i5-8th-gen-renewed-hp",
@@ -2722,7 +2722,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP Probook 450 G5 Core i5 8th Gen Renewed — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-probook-450-g5-core-i5-8th-gen-renewed-hp.svg"
   },
   {
     id: "lenovo-thinkpad-t460-core-i5-6th-gen-renewed-lenovo",
@@ -2734,7 +2734,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo Thinkpad T460 Core i5 6th Gen Renewed — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "256 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-thinkpad-t460-core-i5-6th-gen-renewed-lenovo.svg"
   },
   {
     id: "packard-bell-mcclaren-celeron-n4020-4gb-ram-128gb-emmc-11-6-mini",
@@ -2746,7 +2746,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell McClaren Celeron N4020 4GB RAM 128GB eMMC 11.6 Mini Laptop — a dependable everyday or productivity machine from Packard Bell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "4 GB RAM"], ["Storage", "4 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/packard-bell-mcclaren-celeron-n4020-4gb-ram-128gb-emmc-11-6-mini.svg"
   },
   {
     id: "hp-elitebook-840-i5-6300u-8gb-ram-256gb-ssd-14-hp",
@@ -2759,7 +2759,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP EliteBook 840 i5-6300U 8GB RAM 256GB SSD 14 — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "AMD"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-elitebook-840-i5-6300u-8gb-ram-256gb-ssd-14-hp.svg"
   },
   {
     id: "lenovo-ideapad-3-amd-ryzen-5-7520u-8gb-512gb-ssd-lenovo",
@@ -2771,7 +2771,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo IdeaPad 3 AMD Ryzen 5 7520U 8GB 512GB SSD — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-ideapad-3-amd-ryzen-5-7520u-8gb-512gb-ssd-lenovo.svg"
   },
   {
     id: "lenovo-ideapad-slim-3-intel-core-i5-1235u-16gb-512gb-ssd-lenovo",
@@ -2783,7 +2783,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo IdeaPad Slim 3 Intel Core i5-1235U 16GB 512GB SSD — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Core i5"], ["Memory", "8 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-ideapad-slim-3-intel-core-i5-1235u-16gb-512gb-ssd-lenovo.svg"
   },
   {
     id: "lenovo-thinkbook-15-intel-core-i5-12450h-16gb-512gb-ssd-lenovo",
@@ -2795,7 +2795,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lenovo ThinkBook 15 Intel Core i5-12450H 16GB 512GB SSD — a dependable everyday or productivity machine from Lenovo. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Core i5"], ["Memory", "8 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/lenovo-thinkbook-15-intel-core-i5-12450h-16gb-512gb-ssd-lenovo.svg"
   },
   {
     id: "hp-15s-amd-ryzen-5-7520u-8gb-512gb-ssd-hp",
@@ -2808,7 +2808,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP 15s AMD Ryzen 5 7520U 8GB 512GB SSD — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-15s-amd-ryzen-5-7520u-8gb-512gb-ssd-hp.svg"
   },
   {
     id: "hp-pavilion-15-intel-core-i5-1334u-16gb-512gb-ssd-hp",
@@ -2820,7 +2820,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP Pavilion 15 Intel Core i5-1334U 16GB 512GB SSD — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Core i5"], ["Memory", "8 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-pavilion-15-intel-core-i5-1334u-16gb-512gb-ssd-hp.svg"
   },
   {
     id: "hp-250-g9-intel-n150-8gb-256gb-ssd-hp",
@@ -2832,7 +2832,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP 250 G9 Intel N150 8GB 256GB SSD — a dependable everyday or productivity machine from HP. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "N150"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/hp-250-g9-intel-n150-8gb-256gb-ssd-hp.svg"
   },
   {
     id: "dell-inspiron-15-intel-core-i5-1334u-16gb-512gb-ssd-dell",
@@ -2845,7 +2845,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Dell Inspiron 15 Intel Core i5-1334U 16GB 512GB SSD — a dependable everyday or productivity machine from Dell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Core i5"], ["Memory", "8 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/dell-inspiron-15-intel-core-i5-1334u-16gb-512gb-ssd-dell.svg"
   },
   {
     id: "dell-latitude-3420-intel-core-i5-1135g7-16gb-256gb-ssd-dell",
@@ -2858,7 +2858,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Dell Latitude 3420 Intel Core i5-1135G7 16GB 256GB SSD — a dependable everyday or productivity machine from Dell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Core i5"], ["Memory", "8 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/dell-latitude-3420-intel-core-i5-1135g7-16gb-256gb-ssd-dell.svg"
   },
   {
     id: "asus-vivobook-15-amd-ryzen-5-7530u-8gb-512gb-ssd-asus",
@@ -2871,7 +2871,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "ASUS VivoBook 15 AMD Ryzen 5 7530U 8GB 512GB SSD — a dependable everyday or productivity machine from ASUS. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/asus-vivobook-15-amd-ryzen-5-7530u-8gb-512gb-ssd-asus.svg"
   },
   {
     id: "asus-vivobook-go-intel-n150-8gb-256gb-ssd-asus",
@@ -2884,7 +2884,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "ASUS VivoBook Go Intel N150 8GB 256GB SSD — a dependable everyday or productivity machine from ASUS. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "N150"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/asus-vivobook-go-intel-n150-8gb-256gb-ssd-asus.svg"
   },
   {
     id: "acer-aspire-5-amd-ryzen-5-7520u-16gb-512gb-ssd-acer",
@@ -2897,7 +2897,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Acer Aspire 5 AMD Ryzen 5 7520U 16GB 512GB SSD — a dependable everyday or productivity machine from Acer. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/acer-aspire-5-amd-ryzen-5-7520u-16gb-512gb-ssd-acer.svg"
   },
   {
     id: "acer-aspire-3-intel-core-i3-n305-8gb-256gb-ssd-acer",
@@ -2909,7 +2909,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Acer Aspire 3 Intel Core i3-N305 8GB 256GB SSD — a dependable everyday or productivity machine from Acer. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Core i3"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/acer-aspire-3-intel-core-i3-n305-8gb-256gb-ssd-acer.svg"
   },
   {
     id: "msi-modern-14-intel-core-7-150u-16gb-512gb-nvme-ssd-msi",
@@ -2921,7 +2921,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "MSI Modern 14 Intel Core 7 150U 16GB 512GB NVMe SSD — a dependable everyday or productivity machine from MSI. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Intel"], ["Memory", "8 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/msi-modern-14-intel-core-7-150u-16gb-512gb-nvme-ssd-msi.svg"
   },
   {
     id: "packard-bell-carrera-f3-flex-amd-ryzen-3-3200u-16gb-512gb-ssd-pa",
@@ -2934,7 +2934,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell Carrera F3 Flex AMD Ryzen 3-3200U 16GB 512GB SSD — a dependable everyday or productivity machine from Packard Bell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 3"], ["Memory", "8 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/packard-bell-carrera-f3-flex-amd-ryzen-3-3200u-16gb-512gb-ssd-pa.svg"
   },
   {
     id: "packard-bell-senna-r32-pro-amd-ryzen-3-16gb-512gb-ssd-packard-be",
@@ -2946,7 +2946,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell Senna R32 Pro AMD Ryzen 3 16GB 512GB SSD — a dependable everyday or productivity machine from Packard Bell. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 3"], ["Memory", "8 GB RAM"], ["Storage", "16 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/packard-bell-senna-r32-pro-amd-ryzen-3-16gb-512gb-ssd-packard-be.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-orion",
@@ -2958,7 +2958,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-orion.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-orion",
@@ -2970,7 +2970,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-orion.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-or",
@@ -2982,7 +2982,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-or.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex",
@@ -2994,7 +2994,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-441",
@@ -3006,7 +3006,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-441.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-442",
@@ -3018,7 +3018,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-442.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-443",
@@ -3030,7 +3030,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-443.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-444",
@@ -3042,7 +3042,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-444.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-445",
@@ -3054,7 +3054,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-445.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-446",
@@ -3066,7 +3066,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-446.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-447",
@@ -3078,7 +3078,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-447.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-448",
@@ -3090,7 +3090,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-448.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-449",
@@ -3102,7 +3102,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-449.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-450",
@@ -3114,7 +3114,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-450.svg"
   },
   {
     id: "orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-451",
@@ -3126,7 +3126,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Orion 15.6 Office AMD Ryzen 5 3450U 8GB 256GB SSD (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — a dependable everyday or productivity machine from Orion. Fast storage, generous memory and a comfortable keyboard make it ideal for work, study and entertainment on the go.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Processor", "Ryzen 5"], ["Memory", "8 GB RAM"], ["Storage", "8 GB"], ["Screen", "15.6 inch"], ["Operating system", "Windows 11"], ["Warranty", "12 months"]]],
-    image: "images/ph/laptops.svg"
+    image: "images/ph/orion-15-6-office-amd-ryzen-5-3450u-8gb-256gb-ssd-extra-extra-ex-451.svg"
   },
   {
     id: "samsung-sound-tower-mx-st50f-240-watts-party-speaker-samsung",
@@ -3138,7 +3138,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung Sound Tower MX-ST50F 240 Watts Party Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Samsung.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Output", "240 W"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/samsung-sound-tower-mx-st50f-240-watts-party-speaker-samsung.svg"
   },
   {
     id: "samsung-b-series-soundbar-hw-b450f-2-1-ch-subwoofer-2025-samsung",
@@ -3150,7 +3150,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung B-series Soundbar HW-B450F 2.1 ch Subwoofer 2025 — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Samsung.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/samsung-b-series-soundbar-hw-b450f-2-1-ch-subwoofer-2025-samsung.svg"
   },
   {
     id: "stylus-av-bt1000-bluetooth-speaker-blue-stylus-av",
@@ -3162,7 +3162,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1000 Bluetooth Speaker Blue — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1000-bluetooth-speaker-blue-stylus-av.svg"
   },
   {
     id: "stylus-av-afterparty-mk-iii-bluetooth-portable-speaker-stylus-av",
@@ -3175,7 +3175,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV AFTERPARTY MK III Bluetooth Portable Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-afterparty-mk-iii-bluetooth-portable-speaker-stylus-av.svg"
   },
   {
     id: "volkanox-python-series-bluetooth-speaker-volkanox",
@@ -3187,7 +3187,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "VolkanoX Python Series Bluetooth Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from VolkanoX.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/volkanox-python-series-bluetooth-speaker-volkanox.svg"
   },
   {
     id: "jvc-bluetooth-trolley-speaker-xs-n600-jvc",
@@ -3199,7 +3199,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "JVC Bluetooth Trolley Speaker XS-N600 — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from JVC.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/jvc-bluetooth-trolley-speaker-xs-n600-jvc.svg"
   },
   {
     id: "ultra-link-electro-series-120w-bluetooth-speaker-ultra-link",
@@ -3212,7 +3212,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Ultra-Link Electro Series 120W Bluetooth Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Ultra-Link.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Output", "120 W"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/ultra-link-electro-series-120w-bluetooth-speaker-ultra-link.svg"
   },
   {
     id: "stylus-av-bt1000-bluetooth-speaker-grey-stylus-av",
@@ -3224,7 +3224,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1000 Bluetooth Speaker Grey — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1000-bluetooth-speaker-grey-stylus-av.svg"
   },
   {
     id: "skyworth-5-1-channel-home-cinema-soundbar-system-ss586-skyworth",
@@ -3236,7 +3236,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Skyworth 5.1 Channel Home Cinema Soundbar System SS586 — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Skyworth.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/skyworth-5-1-channel-home-cinema-soundbar-system-ss586-skyworth.svg"
   },
   {
     id: "reference-audio-5-inch-4-way-coaxial-speaker-ra-rx5-4-reference-",
@@ -3249,7 +3249,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Reference Audio 5 inch 4 Way Coaxial Speaker RA-RX5.4 — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Reference Audio.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/reference-audio-5-inch-4-way-coaxial-speaker-ra-rx5-4-reference-.svg"
   },
   {
     id: "hisense-2-1channel-bt-soundbar-hs2100-hisense",
@@ -3262,7 +3262,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 2.1Channel BT Soundbar HS2100 — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Hisense.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/hisense-2-1channel-bt-soundbar-hs2100-hisense.svg"
   },
   {
     id: "volkanox-2-1-channel-240w-soundbar-empire-volkanox",
@@ -3274,7 +3274,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "VolkanoX 2.1 channel 240W Soundbar Empire — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from VolkanoX.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Output", "240 W"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/volkanox-2-1-channel-240w-soundbar-empire-volkanox.svg"
   },
   {
     id: "hisense-620w-party-thunder-true-wireless-stereo-bluetooth-speake",
@@ -3286,7 +3286,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 620W Party Thunder True Wireless Stereo Bluetooth Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Hisense.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Output", "620 W"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/hisense-620w-party-thunder-true-wireless-stereo-bluetooth-speake.svg"
   },
   {
     id: "samsung-b-series-soundbar-hw-b650f-3-1-ch-subwoofer-2025-samsung",
@@ -3298,7 +3298,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung B-Series Soundbar HW-B650F 3.1 ch Subwoofer 2025 — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Samsung.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/samsung-b-series-soundbar-hw-b650f-3-1-ch-subwoofer-2025-samsung.svg"
   },
   {
     id: "volkanox-s800-portable-bluetooth-speaker-volkanox",
@@ -3311,7 +3311,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "VolkanoX S800 Portable Bluetooth Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from VolkanoX.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/volkanox-s800-portable-bluetooth-speaker-volkanox.svg"
   },
   {
     id: "stylus-av-bt1000-bluetooth-speaker-red-stylus-av",
@@ -3324,7 +3324,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1000 Bluetooth Speaker Red — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1000-bluetooth-speaker-red-stylus-av.svg"
   },
   {
     id: "jbl-cinema-sb550-3-1-soundbar-and-wireless-subwoofer-jbl",
@@ -3336,7 +3336,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "JBL Cinema SB550 3.1 Soundbar and Wireless Subwoofer — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from JBL.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/jbl-cinema-sb550-3-1-soundbar-and-wireless-subwoofer-jbl.svg"
   },
   {
     id: "sony-12-inch-1800w-subwoofer-xs-nw1200-sony",
@@ -3348,7 +3348,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sony 12-inch 1800W Subwoofer XS-NW1200 — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Sony.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Subwoofer"], ["Connectivity", "Bluetooth 5.x"], ["Output", "1800 W"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/sony-12-inch-1800w-subwoofer-xs-nw1200-sony.svg"
   },
   {
     id: "stylus-av-bt1000-bluetooth-speaker-black-stylus-av",
@@ -3361,7 +3361,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1000 Bluetooth Speaker Black — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1000-bluetooth-speaker-black-stylus-av.svg"
   },
   {
     id: "jbl-flip-6-portable-bluetooth-speaker-jbl",
@@ -3373,7 +3373,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "JBL Flip 6 Portable Bluetooth Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from JBL.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/jbl-flip-6-portable-bluetooth-speaker-jbl.svg"
   },
   {
     id: "jbl-tune-770nc-wireless-headphones-jbl",
@@ -3385,7 +3385,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "JBL Tune 770NC Wireless Headphones — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from JBL.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/jbl-tune-770nc-wireless-headphones-jbl.svg"
   },
   {
     id: "jbl-go-4-pocket-speaker-jbl",
@@ -3397,7 +3397,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "JBL Go 4 Pocket Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from JBL.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/jbl-go-4-pocket-speaker-jbl.svg"
   },
   {
     id: "sony-wh-ch520-wireless-headphones-sony",
@@ -3409,7 +3409,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sony WH-CH520 Wireless Headphones — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Sony.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/sony-wh-ch520-wireless-headphones-sony.svg"
   },
   {
     id: "sony-srs-xb100-extra-bass-speaker-sony",
@@ -3421,7 +3421,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sony SRS-XB100 Extra Bass Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Sony.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/sony-srs-xb100-extra-bass-speaker-sony.svg"
   },
   {
     id: "samsung-hw-c400-soundbar-samsung",
@@ -3434,7 +3434,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung HW-C400 Soundbar — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Samsung.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/samsung-hw-c400-soundbar-samsung.svg"
   },
   {
     id: "samsung-hw-q600c-3-1-2ch-soundbar-samsung",
@@ -3446,7 +3446,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung HW-Q600C 3.1.2ch Soundbar — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Samsung.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/samsung-hw-q600c-3-1-2ch-soundbar-samsung.svg"
   },
   {
     id: "hisense-2-1-channel-soundbar-hisense",
@@ -3458,7 +3458,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hisense 2.1 Channel Soundbar — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Hisense.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/hisense-2-1-channel-soundbar-hisense.svg"
   },
   {
     id: "xiaomi-soundbar-2-1-120w-xiaomi",
@@ -3470,7 +3470,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Soundbar 2.1 120W — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Xiaomi.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Soundbar"], ["Connectivity", "Bluetooth 5.x"], ["Output", "120 W"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/xiaomi-soundbar-2-1-120w-xiaomi.svg"
   },
   {
     id: "xiaomi-redmi-buds-6-active-xiaomi",
@@ -3483,7 +3483,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Redmi Buds 6 Active — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Xiaomi.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/xiaomi-redmi-buds-6-active-xiaomi.svg"
   },
   {
     id: "soundcore-motion-300-speaker-soundcore",
@@ -3496,7 +3496,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Soundcore Motion 300 Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Soundcore.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/soundcore-motion-300-speaker-soundcore.svg"
   },
   {
     id: "soundcore-life-q30-anc-headphones-soundcore",
@@ -3509,7 +3509,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Soundcore Life Q30 ANC Headphones — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Soundcore.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/soundcore-life-q30-anc-headphones-soundcore.svg"
   },
   {
     id: "volkano-boom-series-party-speaker-80w-volkano",
@@ -3522,7 +3522,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Boom Series Party Speaker 80W — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Volkano.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Output", "80 W"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/volkano-boom-series-party-speaker-80w-volkano.svg"
   },
   {
     id: "volkano-airbuds-anc-tws-earbuds-volkano",
@@ -3534,7 +3534,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano AirBuds ANC TWS Earbuds — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Volkano.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/volkano-airbuds-anc-tws-earbuds-volkano.svg"
   },
   {
     id: "ultra-link-mobile-party-speaker-150w-ultra-link",
@@ -3546,7 +3546,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Ultra-Link Mobile Party Speaker 150W — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Ultra-Link.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Output", "150 W"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/ultra-link-mobile-party-speaker-150w-ultra-link.svg"
   },
   {
     id: "logitech-z213-2-1-speakers-logitech",
@@ -3558,7 +3558,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Logitech Z213 2.1 Speakers — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Logitech.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/logitech-z213-2-1-speakers-logitech.svg"
   },
   {
     id: "logitech-z407-2-1-bluetooth-speakers-logitech",
@@ -3570,7 +3570,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Logitech Z407 2.1 Bluetooth Speakers — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Logitech.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/logitech-z407-2-1-bluetooth-speakers-logitech.svg"
   },
   {
     id: "edifier-r1280t-bookshelf-speakers-edifier",
@@ -3583,7 +3583,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Edifier R1280T Bookshelf Speakers — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Edifier.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/edifier-r1280t-bookshelf-speakers-edifier.svg"
   },
   {
     id: "edifier-w820nb-anc-headphones-edifier",
@@ -3595,7 +3595,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Edifier W820NB ANC Headphones — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Edifier.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/edifier-w820nb-anc-headphones-edifier.svg"
   },
   {
     id: "oneodio-a70-over-ear-headphones-oneodio",
@@ -3607,7 +3607,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "OneOdio A70 Over-Ear Headphones — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from OneOdio.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Audio"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/oneodio-a70-over-ear-headphones-oneodio.svg"
   },
   {
     id: "jvc-trolley-speaker-400w-jvc",
@@ -3619,7 +3619,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "JVC Trolley Speaker 400W — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from JVC.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Output", "400 W"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/jvc-trolley-speaker-400w-jvc.svg"
   },
   {
     id: "stylus-av-bt1200-portable-speaker-stylus-av",
@@ -3631,7 +3631,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1200 Portable Speaker — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1200-portable-speaker-stylus-av.svg"
   },
   {
     id: "stylus-av-bt1200-portable-speaker-extra-stylus-av",
@@ -3643,7 +3643,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1200 Portable Speaker (Extra) — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1200-portable-speaker-extra-stylus-av.svg"
   },
   {
     id: "stylus-av-bt1200-portable-speaker-extra-extra-stylus-av",
@@ -3655,7 +3655,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1200 Portable Speaker (Extra) (Extra) — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1200-portable-speaker-extra-extra-stylus-av.svg"
   },
   {
     id: "stylus-av-bt1200-portable-speaker-extra-extra-extra-stylus-av",
@@ -3667,7 +3667,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1200 Portable Speaker (Extra) (Extra) (Extra) — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1200-portable-speaker-extra-extra-extra-stylus-av.svg"
   },
   {
     id: "stylus-av-bt1200-portable-speaker-extra-extra-extra-extra-stylus",
@@ -3679,7 +3679,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1200 Portable Speaker (Extra) (Extra) (Extra) (Extra) — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1200-portable-speaker-extra-extra-extra-extra-stylus.svg"
   },
   {
     id: "stylus-av-bt1200-portable-speaker-extra-extra-extra-extra-extra-",
@@ -3691,7 +3691,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Stylus AV BT1200 Portable Speaker (Extra) (Extra) (Extra) (Extra) (Extra) — rich, room-filling sound for music, movies and parties. Connect wirelessly in seconds and enjoy deep bass and clear mids from Stylus AV.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Speaker"], ["Connectivity", "Bluetooth 5.x"], ["Warranty", "12 months"]]],
-    image: "images/ph/audio.svg"
+    image: "images/ph/stylus-av-bt1200-portable-speaker-extra-extra-extra-extra-extra-.svg"
   },
   {
     id: "xbox-series-s-console-xbox",
@@ -3703,7 +3703,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xbox Series S Console — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "Xbox"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/xbox-series-s-console-xbox.svg"
   },
   {
     id: "vegas-xtreme-high-back-gaming-chair-vegas",
@@ -3715,7 +3715,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Vegas Xtreme High Back Gaming Chair — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/vegas-xtreme-high-back-gaming-chair-vegas.svg"
   },
   {
     id: "xbox-series-x-console-xbox",
@@ -3727,7 +3727,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xbox Series X Console — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "Xbox"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/xbox-series-x-console-xbox.svg"
   },
   {
     id: "xbox-wireless-controller-carbon-black-xbox",
@@ -3739,7 +3739,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xbox Wireless Controller Carbon Black — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "Xbox"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/xbox-wireless-controller-carbon-black-xbox.svg"
   },
   {
     id: "xbox-game-pass-ultimate-3-month-code-xbox",
@@ -3751,7 +3751,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xbox Game Pass Ultimate 3-Month Code — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "Xbox"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/xbox-game-pass-ultimate-3-month-code-xbox.svg"
   },
   {
     id: "sony-playstation-5-slim-console-sony",
@@ -3764,7 +3764,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sony PlayStation 5 Slim Console — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PlayStation"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/sony-playstation-5-slim-console-sony.svg"
   },
   {
     id: "sony-dualsense-wireless-controller-sony",
@@ -3776,7 +3776,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sony DualSense Wireless Controller — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/sony-dualsense-wireless-controller-sony.svg"
   },
   {
     id: "nintendo-switch-oled-console-nintendo",
@@ -3788,7 +3788,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Nintendo Switch OLED Console — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "Nintendo"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/nintendo-switch-oled-console-nintendo.svg"
   },
   {
     id: "nintendo-switch-pro-controller-nintendo",
@@ -3800,7 +3800,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Nintendo Switch Pro Controller — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "Nintendo"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/nintendo-switch-pro-controller-nintendo.svg"
   },
   {
     id: "logitech-g502-hero-gaming-mouse-logitech",
@@ -3812,7 +3812,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Logitech G502 Hero Gaming Mouse — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/logitech-g502-hero-gaming-mouse-logitech.svg"
   },
   {
     id: "logitech-g213-prodigy-gaming-keyboard-logitech",
@@ -3824,7 +3824,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Logitech G213 Prodigy Gaming Keyboard — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/logitech-g213-prodigy-gaming-keyboard-logitech.svg"
   },
   {
     id: "razer-blackshark-v2-x-headset-razer",
@@ -3836,7 +3836,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Razer BlackShark V2 X Headset — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/razer-blackshark-v2-x-headset-razer.svg"
   },
   {
     id: "redragon-k552-mechanical-keyboard-redragon",
@@ -3848,7 +3848,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Redragon K552 Mechanical Keyboard — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/redragon-k552-mechanical-keyboard-redragon.svg"
   },
   {
     id: "redragon-m908-gaming-mouse-redragon",
@@ -3861,7 +3861,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Redragon M908 Gaming Mouse — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/redragon-m908-gaming-mouse-redragon.svg"
   },
   {
     id: "techpro-gaming-computer-desk-120cm-techpro",
@@ -3873,7 +3873,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TechPro Gaming Computer Desk 120cm — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/techpro-gaming-computer-desk-120cm-techpro.svg"
   },
   {
     id: "gear-a-rgb-gaming-mousepad-xl-gear-a",
@@ -3885,7 +3885,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A RGB Gaming Mousepad XL — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-rgb-gaming-mousepad-xl-gear-a.svg"
   },
   {
     id: "gear-a-headset-stand-rgb-gear-a",
@@ -3897,7 +3897,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Headset Stand RGB — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-headset-stand-rgb-gear-a.svg"
   },
   {
     id: "thrustmaster-t150-racing-wheel-thrustmaster",
@@ -3909,7 +3909,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Thrustmaster T150 Racing Wheel — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/thrustmaster-t150-racing-wheel-thrustmaster.svg"
   },
   {
     id: "gear-a-switch-pro-racing-wheel-gear-a",
@@ -3921,7 +3921,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Switch Pro Racing Wheel — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "Nintendo"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-switch-pro-racing-wheel-gear-a.svg"
   },
   {
     id: "razer-kraken-x-headset-razer",
@@ -3933,7 +3933,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Razer Kraken X Headset — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/razer-kraken-x-headset-razer.svg"
   },
   {
     id: "logitech-g29-driving-force-wheel-logitech",
@@ -3945,7 +3945,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Logitech G29 Driving Force Wheel — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/logitech-g29-driving-force-wheel-logitech.svg"
   },
   {
     id: "gear-a-rgb-gaming-keyboard-combo-gear-a",
@@ -3958,7 +3958,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A RGB Gaming Keyboard Combo — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-rgb-gaming-keyboard-combo-gear-a.svg"
   },
   {
     id: "gear-a-controller-charging-dock-gear-a",
@@ -3970,7 +3970,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-gear-a.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-gear-a",
@@ -3982,7 +3982,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-gear-a.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-gear-a",
@@ -3994,7 +3994,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-gear-a.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-gear-a",
@@ -4006,7 +4006,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-gear-a.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-gear-a",
@@ -4018,7 +4018,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-gear-a.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ge",
@@ -4030,7 +4030,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ge.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex",
@@ -4042,7 +4042,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-463",
@@ -4054,7 +4054,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-463.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-464",
@@ -4066,7 +4066,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-464.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-465",
@@ -4078,7 +4078,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-465.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-466",
@@ -4090,7 +4090,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-466.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-467",
@@ -4102,7 +4102,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-467.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-468",
@@ -4114,7 +4114,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-468.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-469",
@@ -4126,7 +4126,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-469.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-470",
@@ -4138,7 +4138,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-470.svg"
   },
   {
     id: "gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-471",
@@ -4150,7 +4150,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gear A Controller Charging Dock (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — level up your gaming setup. Built for performance and comfort, it pairs perfectly with modern titles and competitive play.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Platform", "PC"], ["Warranty", "12 months"]]],
-    image: "images/ph/gaming.svg"
+    image: "images/ph/gear-a-controller-charging-dock-extra-extra-extra-extra-extra-ex-471.svg"
   },
   {
     id: "tcl-18000btu-breezein-inverter-split-air-conditioner-tac-18chsd-",
@@ -4163,7 +4163,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TCL 18000BTU BreezeIN Inverter Split Air Conditioner TAC-18CHSD/TPH21I — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Inverter"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/tcl-18000btu-breezein-inverter-split-air-conditioner-tac-18chsd-.svg"
   },
   {
     id: "alliance-emerald-12000btu-inverter-split-air-conditioner-allianc",
@@ -4176,7 +4176,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Alliance Emerald 12000BTU Inverter Split Air Conditioner — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Inverter"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/alliance-emerald-12000btu-inverter-split-air-conditioner-allianc.svg"
   },
   {
     id: "samsung-ar3000-non-inverter-12000btu-air-conditioner-samsung",
@@ -4189,7 +4189,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung AR3000 Non-Inverter 12000BTU Air Conditioner — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Inverter"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/samsung-ar3000-non-inverter-12000btu-air-conditioner-samsung.svg"
   },
   {
     id: "volkano-20000mah-power-bank-pd-22-5w-volkano",
@@ -4202,7 +4202,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano 20000mAh Power Bank PD 22.5W — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Power bank"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-20000mah-power-bank-pd-22-5w-volkano.svg"
   },
   {
     id: "volkano-10000mah-slim-power-bank-volkano",
@@ -4215,7 +4215,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano 10000mAh Slim Power Bank — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Power bank"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-10000mah-slim-power-bank-volkano.svg"
   },
   {
     id: "xiaomi-redmi-10000mah-power-bank-xiaomi",
@@ -4228,7 +4228,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Redmi 10000mAh Power Bank — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Power bank"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/xiaomi-redmi-10000mah-power-bank-xiaomi.svg"
   },
   {
     id: "xiaomi-redmi-20000mah-power-bank-18w-xiaomi",
@@ -4241,7 +4241,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Redmi 20000mAh Power Bank 18W — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Power bank"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/xiaomi-redmi-20000mah-power-bank-18w-xiaomi.svg"
   },
   {
     id: "romoss-22000mah-power-bank-romoss",
@@ -4254,7 +4254,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Romoss 22000mAh Power Bank — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Power bank"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/romoss-22000mah-power-bank-romoss.svg"
   },
   {
     id: "romoss-30000mah-power-bank-65w-romoss",
@@ -4267,7 +4267,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Romoss 30000mAh Power Bank 65W — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Power bank"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/romoss-30000mah-power-bank-65w-romoss.svg"
   },
   {
     id: "mecer-650va-line-interactive-ups-mecer",
@@ -4280,7 +4280,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Mecer 650VA Line Interactive UPS — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "UPS"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/mecer-650va-line-interactive-ups-mecer.svg"
   },
   {
     id: "mecer-1000va-line-interactive-ups-mecer",
@@ -4293,7 +4293,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Mecer 1000VA Line Interactive UPS — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "UPS"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/mecer-1000va-line-interactive-ups-mecer.svg"
   },
   {
     id: "mecer-1500va-ups-mecer",
@@ -4306,7 +4306,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Mecer 1500VA UPS — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "UPS"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/mecer-1500va-ups-mecer.svg"
   },
   {
     id: "axpert-1kva-24v-inverter-axpert",
@@ -4319,7 +4319,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Axpert 1kVA 24V Inverter — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Inverter"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/axpert-1kva-24v-inverter-axpert.svg"
   },
   {
     id: "axpert-3kva-24v-inverter-axpert",
@@ -4332,7 +4332,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Axpert 3kVA 24V Inverter — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Inverter"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/axpert-3kva-24v-inverter-axpert.svg"
   },
   {
     id: "axpert-5kva-48v-inverter-axpert",
@@ -4345,7 +4345,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Axpert 5kVA 48V Inverter — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Inverter"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/axpert-5kva-48v-inverter-axpert.svg"
   },
   {
     id: "volkano-500w-inverter-with-300wh-battery-volkano",
@@ -4358,7 +4358,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano 500W Inverter with 300Wh Battery — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Inverter"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-500w-inverter-with-300wh-battery-volkano.svg"
   },
   {
     id: "volkano-1200w-pure-sine-wave-inverter-volkano",
@@ -4371,7 +4371,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano 1200W Pure Sine Wave Inverter — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Inverter"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-1200w-pure-sine-wave-inverter-volkano.svg"
   },
   {
     id: "ecoflow-river-2-portable-power-station-256wh-ecoflow",
@@ -4384,7 +4384,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "EcoFlow River 2 Portable Power Station 256Wh — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/ecoflow-river-2-portable-power-station-256wh-ecoflow.svg"
   },
   {
     id: "ecoflow-delta-2-power-station-1024wh-ecoflow",
@@ -4397,7 +4397,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "EcoFlow Delta 2 Power Station 1024Wh — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/ecoflow-delta-2-power-station-1024wh-ecoflow.svg"
   },
   {
     id: "hibrid-300wh-power-station-hibrid",
@@ -4410,7 +4410,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Hibrid 300Wh Power Station — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/hibrid-300wh-power-station-hibrid.svg"
   },
   {
     id: "volkano-emergency-led-camping-lantern-volkano",
@@ -4423,7 +4423,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Emergency LED Camping Lantern — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-emergency-led-camping-lantern-volkano.svg"
   },
   {
     id: "volkano-rechargeable-led-work-light-volkano",
@@ -4436,7 +4436,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Rechargeable LED Work Light — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-rechargeable-led-work-light-volkano.svg"
   },
   {
     id: "volkano-led-rechargeable-torch-volkano",
@@ -4449,7 +4449,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano LED Rechargeable Torch — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-led-rechargeable-torch-volkano.svg"
   },
   {
     id: "ryobi-18v-battery-charger-kit-ryobi",
@@ -4462,7 +4462,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Ryobi 18V Battery + Charger Kit — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/ryobi-18v-battery-charger-kit-ryobi.svg"
   },
   {
     id: "ryobi-usb-power-source-18v-ryobi",
@@ -4475,7 +4475,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Ryobi USB Power Source 18V — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/ryobi-usb-power-source-18v-ryobi.svg"
   },
   {
     id: "gizzu-600va-mini-ups-for-wi-fi-gizzu",
@@ -4488,7 +4488,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gizzu 600VA Mini UPS for Wi-Fi — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "UPS"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/gizzu-600va-mini-ups-for-wi-fi-gizzu.svg"
   },
   {
     id: "gizzu-surge-protected-extension-lead-6-way-gizzu",
@@ -4501,7 +4501,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Gizzu Surge Protected Extension Lead 6-Way — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/gizzu-surge-protected-extension-lead-6-way-gizzu.svg"
   },
   {
     id: "volkano-solar-power-bank-10000mah-volkano",
@@ -4514,7 +4514,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Solar Power Bank 10000mAh — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Power bank"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-solar-power-bank-10000mah-volkano.svg"
   },
   {
     id: "volkano-jump-starter-1500a-volkano",
@@ -4527,7 +4527,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-volkano.svg"
   },
   {
     id: "volkano-jump-starter-1500a-extra-volkano",
@@ -4540,7 +4540,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A (Extra) — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-extra-volkano.svg"
   },
   {
     id: "volkano-jump-starter-1500a-extra-extra-volkano",
@@ -4553,7 +4553,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A (Extra) (Extra) — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-extra-extra-volkano.svg"
   },
   {
     id: "volkano-jump-starter-1500a-extra-extra-extra-volkano",
@@ -4566,7 +4566,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A (Extra) (Extra) (Extra) — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-extra-extra-extra-volkano.svg"
   },
   {
     id: "volkano-jump-starter-1500a-extra-extra-extra-extra-volkano",
@@ -4579,7 +4579,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A (Extra) (Extra) (Extra) (Extra) — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-extra-extra-extra-extra-volkano.svg"
   },
   {
     id: "volkano-jump-starter-1500a-extra-extra-extra-extra-extra-volkano",
@@ -4592,7 +4592,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A (Extra) (Extra) (Extra) (Extra) (Extra) — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-extra-extra-extra-extra-extra-volkano.svg"
   },
   {
     id: "volkano-jump-starter-1500a-extra-extra-extra-extra-extra-extra-v",
@@ -4605,7 +4605,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-extra-extra-extra-extra-extra-extra-v.svg"
   },
   {
     id: "volkano-jump-starter-1500a-extra-extra-extra-extra-extra-extra-e",
@@ -4618,7 +4618,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-extra-extra-extra-extra-extra-extra-e.svg"
   },
   {
     id: "volkano-jump-starter-1500a-extra-extra-extra-extra-extra-extra-e-479",
@@ -4631,7 +4631,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-extra-extra-extra-extra-extra-extra-e-479.svg"
   },
   {
     id: "volkano-jump-starter-1500a-extra-extra-extra-extra-extra-extra-e-480",
@@ -4644,7 +4644,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Jump Starter 1500A (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — keep the lights on and devices charged. Ideal load-shedding backup for the South African home and office.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Type", "Backup power"], ["Warranty", "12 months"]]],
-    image: "images/ph/power.svg"
+    image: "images/ph/volkano-jump-starter-1500a-extra-extra-extra-extra-extra-extra-e-480.svg"
   },
   {
     id: "samsung-27-inch-100hz-monitor-black-samsung",
@@ -4656,7 +4656,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 27-inch 100Hz Monitor Black — a practical everyday essential from Samsung. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/samsung-27-inch-100hz-monitor-black-samsung.svg"
   },
   {
     id: "samsung-galaxy-watch-ultra-gray-lte-2025-samsung",
@@ -4668,7 +4668,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung Galaxy Watch Ultra Gray LTE 2025 — a practical everyday essential from Samsung. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/samsung-galaxy-watch-ultra-gray-lte-2025-samsung.svg"
   },
   {
     id: "samsung-32-inch-100hz-mainstream-curved-monitor-samsung",
@@ -4680,7 +4680,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 32-inch 100Hz Mainstream Curved Monitor — a practical everyday essential from Samsung. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/samsung-32-inch-100hz-mainstream-curved-monitor-samsung.svg"
   },
   {
     id: "epson-ecotank-l3350-printer-epson",
@@ -4693,7 +4693,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Epson EcoTank L3350 Printer — a practical everyday essential from Epson. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/epson-ecotank-l3350-printer-epson.svg"
   },
   {
     id: "apple-watch-se-3-gps-40mm-starlight-alum-case-with-starlight-spo",
@@ -4705,7 +4705,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Apple Watch SE 3 GPS 40mm Starlight Alum Case with Starlight Sport Band SM — a practical everyday essential from Apple. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/apple-watch-se-3-gps-40mm-starlight-alum-case-with-starlight-spo.svg"
   },
   {
     id: "instax-cam-mini-12-clay-white-festive-instax",
@@ -4718,7 +4718,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Instax Cam Mini 12 Clay White Festive — a practical everyday essential from Instax. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/instax-cam-mini-12-clay-white-festive-instax.svg"
   },
   {
     id: "rapoo-b20-silent-wireless-optical-mouse-blue-rapoo",
@@ -4730,7 +4730,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Rapoo B20 Silent Wireless Optical Mouse - Blue — a practical everyday essential from Rapoo. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/rapoo-b20-silent-wireless-optical-mouse-blue-rapoo.svg"
   },
   {
     id: "insta360-x4-air-8k-360-action-camera-starter-bundle-insta360",
@@ -4742,7 +4742,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Insta360 X4 AIR - 8K 360 Action Camera Starter Bundle — a practical everyday essential from Insta360. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/insta360-x4-air-8k-360-action-camera-starter-bundle-insta360.svg"
   },
   {
     id: "apple-watch-se-3-gps-40mm-midnight-alum-case-with-midnight-sb-sm",
@@ -4755,7 +4755,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Apple Watch SE 3 GPS 40mm Midnight Alum Case with Midnight SB - SM — a practical everyday essential from Apple. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/apple-watch-se-3-gps-40mm-midnight-alum-case-with-midnight-sb-sm.svg"
   },
   {
     id: "creality-ender-3-v3-se-3d-printer-and-filament-bundle-creality",
@@ -4768,7 +4768,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Creality Ender 3 V3 SE 3D Printer And Filament Bundle — a practical everyday essential from Creality. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/creality-ender-3-v3-se-3d-printer-and-filament-bundle-creality.svg"
   },
   {
     id: "volkano-power-cable-2-pin-figure-8-to-2-pin-mains-1-2m-volkano",
@@ -4781,7 +4781,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Power Cable 2 pin Figure 8 to 2 pin mains 1.2m — a practical everyday essential from Volkano. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/volkano-power-cable-2-pin-figure-8-to-2-pin-mains-1-2m-volkano.svg"
   },
   {
     id: "xiaomi-g24i-24-full-hd-1080p-ips-gaming-monitor-xiaomi",
@@ -4793,7 +4793,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi G24i 24 Full HD 1080p IPS Gaming Monitor — a practical everyday essential from Xiaomi. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/xiaomi-g24i-24-full-hd-1080p-ips-gaming-monitor-xiaomi.svg"
   },
   {
     id: "epson-eco-tank-l3211-3in1-printer-epson",
@@ -4805,7 +4805,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Epson Eco tank L3211 3in1 Printer — a practical everyday essential from Epson. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/epson-eco-tank-l3211-3in1-printer-epson.svg"
   },
   {
     id: "canon-pixma-g2410-megatank-printer-canon",
@@ -4818,7 +4818,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Canon PIXMA G2410 MegaTank Printer — a practical everyday essential from Canon. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/canon-pixma-g2410-megatank-printer-canon.svg"
   },
   {
     id: "packard-bell-lauda-i3-1115g4-4gb-ram-256gb-ssd-15-6-packard-bell",
@@ -4830,7 +4830,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell Lauda i3-1115G4 4GB RAM 256GB SSD 15.6 — a practical everyday essential from Packard Bell. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/packard-bell-lauda-i3-1115g4-4gb-ram-256gb-ssd-15-6-packard-bell.svg"
   },
   {
     id: "msi-modern-14-f1mg-core-7-150u-16gb-ram-512gb-pcie-nvme-ssd-14-m",
@@ -4842,7 +4842,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "MSI Modern 14 F1MG Core 7 150U 16GB RAM 512GB PCIE NVME SSD 14 — a practical everyday essential from MSI. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/msi-modern-14-f1mg-core-7-150u-16gb-ram-512gb-pcie-nvme-ssd-14-m.svg"
   },
   {
     id: "packard-bell-carrera-f3-flex-ryzen-3-3200u-16gb-ram-512gb-ssd-15",
@@ -4854,7 +4854,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Packard Bell Carrera F3 Flex Ryzen 3-3200U 16GB RAM 512GB SSD 15.6 — a practical everyday essential from Packard Bell. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/packard-bell-carrera-f3-flex-ryzen-3-3200u-16gb-ram-512gb-ssd-15.svg"
   },
   {
     id: "epson-ecotank-l4260-4-in-1-printer-epson",
@@ -4867,7 +4867,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Epson EcoTank L4260 4-in-1 Printer — a practical everyday essential from Epson. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/epson-ecotank-l4260-4-in-1-printer-epson.svg"
   },
   {
     id: "epson-ecotank-l3211-3-in-1-printer-epson",
@@ -4879,7 +4879,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Epson EcoTank L3211 3-in-1 Printer — a practical everyday essential from Epson. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/epson-ecotank-l3211-3-in-1-printer-epson.svg"
   },
   {
     id: "hp-laserjet-m110w-printer-hp",
@@ -4892,7 +4892,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HP LaserJet M110w Printer — a practical everyday essential from HP. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/hp-laserjet-m110w-printer-hp.svg"
   },
   {
     id: "logitech-mx-master-3s-wireless-mouse-logitech",
@@ -4905,7 +4905,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Logitech MX Master 3S Wireless Mouse — a practical everyday essential from Logitech. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/logitech-mx-master-3s-wireless-mouse-logitech.svg"
   },
   {
     id: "logitech-m170-wireless-mouse-logitech",
@@ -4917,7 +4917,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Logitech M170 Wireless Mouse — a practical everyday essential from Logitech. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/logitech-m170-wireless-mouse-logitech.svg"
   },
   {
     id: "logitech-k380-multi-device-keyboard-logitech",
@@ -4929,7 +4929,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Logitech K380 Multi-Device Keyboard — a practical everyday essential from Logitech. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/logitech-k380-multi-device-keyboard-logitech.svg"
   },
   {
     id: "logitech-c270-hd-webcam-logitech",
@@ -4941,7 +4941,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Logitech C270 HD Webcam — a practical everyday essential from Logitech. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/logitech-c270-hd-webcam-logitech.svg"
   },
   {
     id: "rapoo-b20-silent-wireless-mouse-rapoo",
@@ -4953,7 +4953,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Rapoo B20 Silent Wireless Mouse — a practical everyday essential from Rapoo. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/rapoo-b20-silent-wireless-mouse-rapoo.svg"
   },
   {
     id: "microsoft-surface-arc-mouse-microsoft",
@@ -4965,7 +4965,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Microsoft Surface Arc Mouse — a practical everyday essential from Microsoft. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/microsoft-surface-arc-mouse-microsoft.svg"
   },
   {
     id: "tp-link-archer-ax23-wi-fi-6-router-tp-link",
@@ -4977,7 +4977,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TP-Link Archer AX23 Wi-Fi 6 Router — a practical everyday essential from TP-Link. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/tp-link-archer-ax23-wi-fi-6-router-tp-link.svg"
   },
   {
     id: "tp-link-re305-wi-fi-range-extender-tp-link",
@@ -4989,7 +4989,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "TP-Link RE305 Wi-Fi Range Extender — a practical everyday essential from TP-Link. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/tp-link-re305-wi-fi-range-extender-tp-link.svg"
   },
   {
     id: "netgear-ax1800-dual-band-router-netgear",
@@ -5001,7 +5001,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Netgear AX1800 Dual Band Router — a practical everyday essential from Netgear. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/netgear-ax1800-dual-band-router-netgear.svg"
   },
   {
     id: "d-link-ac1200-dual-band-router-d-link",
@@ -5013,7 +5013,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "D-Link AC1200 Dual Band Router — a practical everyday essential from D-Link. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/d-link-ac1200-dual-band-router-d-link.svg"
   },
   {
     id: "sandisk-ultra-128gb-usb-flash-drive-sandisk",
@@ -5026,7 +5026,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sandisk Ultra 128GB USB Flash Drive — a practical everyday essential from Sandisk. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/sandisk-ultra-128gb-usb-flash-drive-sandisk.svg"
   },
   {
     id: "sandisk-extreme-1tb-portable-ssd-sandisk",
@@ -5038,7 +5038,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Sandisk Extreme 1TB Portable SSD — a practical everyday essential from Sandisk. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/sandisk-extreme-1tb-portable-ssd-sandisk.svg"
   },
   {
     id: "wd-my-passport-2tb-portable-hdd-wd",
@@ -5050,7 +5050,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "WD My Passport 2TB Portable HDD — a practical everyday essential from WD. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/wd-my-passport-2tb-portable-hdd-wd.svg"
   },
   {
     id: "seagate-barracuda-1tb-internal-hdd-seagate",
@@ -5063,7 +5063,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Seagate Barracuda 1TB Internal HDD — a practical everyday essential from Seagate. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/seagate-barracuda-1tb-internal-hdd-seagate.svg"
   },
   {
     id: "samsung-t7-1tb-portable-ssd-samsung",
@@ -5075,7 +5075,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung T7 1TB Portable SSD — a practical everyday essential from Samsung. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/samsung-t7-1tb-portable-ssd-samsung.svg"
   },
   {
     id: "volkano-65w-gan-usb-c-charger-volkano",
@@ -5087,7 +5087,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano 65W GaN USB-C Charger — a practical everyday essential from Volkano. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/volkano-65w-gan-usb-c-charger-volkano.svg"
   },
   {
     id: "volkano-braided-usb-c-cable-1-2m-volkano",
@@ -5099,7 +5099,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Braided USB-C Cable 1.2m — a practical everyday essential from Volkano. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/volkano-braided-usb-c-cable-1-2m-volkano.svg"
   },
   {
     id: "anker-powerport-4-port-usb-charger-anker",
@@ -5111,7 +5111,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Anker PowerPort 4-Port USB Charger — a practical everyday essential from Anker. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/anker-powerport-4-port-usb-charger-anker.svg"
   },
   {
     id: "samsung-27-inch-100hz-office-monitor-samsung",
@@ -5124,7 +5124,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung 27-inch 100Hz Office Monitor — a practical everyday essential from Samsung. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/samsung-27-inch-100hz-office-monitor-samsung.svg"
   },
   {
     id: "lg-24-inch-full-hd-monitor-lg",
@@ -5136,7 +5136,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "LG 24-inch Full HD Monitor — a practical everyday essential from LG. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/lg-24-inch-full-hd-monitor-lg.svg"
   },
   {
     id: "aoc-24g2se-165hz-gaming-monitor-aoc",
@@ -5148,7 +5148,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "AOC 24G2SE 165Hz Gaming Monitor — a practical everyday essential from AOC. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/aoc-24g2se-165hz-gaming-monitor-aoc.svg"
   },
   {
     id: "xiaomi-g27i-27-inch-165hz-monitor-xiaomi",
@@ -5160,7 +5160,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi G27i 27-inch 165Hz Monitor — a practical everyday essential from Xiaomi. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/xiaomi-g27i-27-inch-165hz-monitor-xiaomi.svg"
   },
   {
     id: "instax-mini-11-instant-camera-instax",
@@ -5172,7 +5172,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Instax Mini 11 Instant Camera — a practical everyday essential from Instax. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/instax-mini-11-instant-camera-instax.svg"
   },
   {
     id: "instax-mini-12-instant-camera-instax",
@@ -5184,7 +5184,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Instax Mini 12 Instant Camera — a practical everyday essential from Instax. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/instax-mini-12-instant-camera-instax.svg"
   },
   {
     id: "canon-pixma-mg3640s-all-in-one-canon",
@@ -5196,7 +5196,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Canon PIXMA MG3640S All-in-One — a practical everyday essential from Canon. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/canon-pixma-mg3640s-all-in-one-canon.svg"
   },
   {
     id: "brother-hl-l2365dw-mono-laser-printer-brother",
@@ -5208,7 +5208,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Brother HL-L2365DW Mono Laser Printer — a practical everyday essential from Brother. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/brother-hl-l2365dw-mono-laser-printer-brother.svg"
   },
   {
     id: "lamicall-adjustable-laptop-stand-lamicall",
@@ -5220,7 +5220,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Lamicall Adjustable Laptop Stand — a practical everyday essential from Lamicall. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/lamicall-adjustable-laptop-stand-lamicall.svg"
   },
   {
     id: "volkano-laptop-backpack-15-6-volkano",
@@ -5232,7 +5232,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Laptop Backpack 15.6 — a practical everyday essential from Volkano. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/volkano-laptop-backpack-15-6-volkano.svg"
   },
   {
     id: "volkano-usb-3-0-card-reader-volkano",
@@ -5244,7 +5244,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano USB 3.0 Card Reader — a practical everyday essential from Volkano. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/volkano-usb-3-0-card-reader-volkano.svg"
   },
   {
     id: "volkano-usb-3-0-card-reader-extra-volkano",
@@ -5256,7 +5256,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano USB 3.0 Card Reader (Extra) — a practical everyday essential from Volkano. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/volkano-usb-3-0-card-reader-extra-volkano.svg"
   },
   {
     id: "volkano-usb-3-0-card-reader-extra-extra-volkano",
@@ -5268,7 +5268,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano USB 3.0 Card Reader (Extra) (Extra) — a practical everyday essential from Volkano. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/volkano-usb-3-0-card-reader-extra-extra-volkano.svg"
   },
   {
     id: "volkano-usb-3-0-card-reader-extra-extra-extra-volkano",
@@ -5280,7 +5280,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano USB 3.0 Card Reader (Extra) (Extra) (Extra) — a practical everyday essential from Volkano. Quality build, easy setup and dependable performance at a fair price.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/accessories.svg"
+    image: "images/ph/volkano-usb-3-0-card-reader-extra-extra-extra-volkano.svg"
   },
   {
     id: "motorola-g06-power-motorola",
@@ -5292,7 +5292,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Motorola G06 Power — dependable performance, a sharp display and a capable camera from Motorola. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/motorola-g06-power-motorola.svg"
   },
   {
     id: "xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank-xi",
@@ -5304,7 +5304,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank — dependable performance, a sharp display and a capable camera from Xiaomi. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank-xi.svg"
   },
   {
     id: "xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank-xiaomi",
@@ -5316,7 +5316,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank — dependable performance, a sharp display and a capable camera from Xiaomi. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank-xiaomi.svg"
   },
   {
     id: "honor-x9d-5g-256gb-midnight-black-honor",
@@ -5329,7 +5329,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "HONOR X9d 5G 256GB Midnight Black — dependable performance, a sharp display and a capable camera from HONOR. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/honor-x9d-5g-256gb-midnight-black-honor.svg"
   },
   {
     id: "apple-iphone-14-128gb-starlight-pre-owned-a-grade-apple",
@@ -5341,7 +5341,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Apple iPhone 14 128GB Starlight Pre Owned (A Grade) — dependable performance, a sharp display and a capable camera from Apple. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/apple-iphone-14-128gb-starlight-pre-owned-a-grade-apple.svg"
   },
   {
     id: "xiaomi-redmi-15c-128gb-midnight-black-xiaomi",
@@ -5353,7 +5353,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Redmi 15C 128GB Midnight Black — dependable performance, a sharp display and a capable camera from Xiaomi. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/xiaomi-redmi-15c-128gb-midnight-black-xiaomi.svg"
   },
   {
     id: "samsung-galaxy-a06-light-blue-samsung",
@@ -5365,7 +5365,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung Galaxy A06 Light Blue — dependable performance, a sharp display and a capable camera from Samsung. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/samsung-galaxy-a06-light-blue-samsung.svg"
   },
   {
     id: "honor-x5c-plus-black-honor",
@@ -5377,7 +5377,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Honor X5c Plus Black — dependable performance, a sharp display and a capable camera from Honor. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/honor-x5c-plus-black-honor.svg"
   },
   {
     id: "apple-iphone-14-128gb-midnight-pre-owned-a-grade-apple",
@@ -5389,7 +5389,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Apple iPhone 14 128GB Midnight Pre Owned (A Grade) — dependable performance, a sharp display and a capable camera from Apple. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/apple-iphone-14-128gb-midnight-pre-owned-a-grade-apple.svg"
   },
   {
     id: "xiaomi-redmi-a3x-midnight-black-xiaomi",
@@ -5401,7 +5401,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Redmi A3x Midnight Black — dependable performance, a sharp display and a capable camera from Xiaomi. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/xiaomi-redmi-a3x-midnight-black-xiaomi.svg"
   },
   {
     id: "xiaomi-redmi-a7-pro-black-xiaomi",
@@ -5413,7 +5413,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Xiaomi Redmi A7 Pro Black — dependable performance, a sharp display and a capable camera from Xiaomi. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/xiaomi-redmi-a7-pro-black-xiaomi.svg"
   },
   {
     id: "samsung-galaxy-a36-5g-black-128gb-dual-sim-samsung",
@@ -5425,7 +5425,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Samsung Galaxy A36 5G Black 128GB Dual SIM — dependable performance, a sharp display and a capable camera from Samsung. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/samsung-galaxy-a36-5g-black-128gb-dual-sim-samsung.svg"
   },
   {
     id: "volkano-vivo-kids-smartwatch-dark-blue-volkano",
@@ -5437,7 +5437,7 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Volkano Vivo Kids Smartwatch Dark Blue — dependable performance, a sharp display and a capable camera from Volkano. A smart choice for everyday use.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/smartphones.svg"
+    image: "images/ph/volkano-vivo-kids-smartwatch-dark-blue-volkano.svg"
   },
   {
     id: "vodacom-smart-tab-8-black-network-locked-vodacom",
@@ -5450,6 +5450,6 @@ const PRODUCTS_ELECTRONICS_APPLIANCES = [
     description: "Vodacom Smart Tab 8 Black Network Locked — a portable screen for streaming, browsing, learning and video calls, backed by Vodacom quality.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/tablets.svg"
+    image: "images/ph/vodacom-smart-tab-8-black-network-locked-vodacom.svg"
   }
 ];

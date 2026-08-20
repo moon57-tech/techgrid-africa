@@ -21,6 +21,7 @@ const Store = (function () {
 
   const DELIVERY_FEE = 99;
   const FREE_DELIVERY_FROM = 5000;
+  const PAY_IN_3_FROM = 35000;   // orders at/over this total can split payment into 3 segments
 
   /* In-memory cache (populated from IndexedDB on init) */
   let ordersCache = [];
@@ -117,6 +118,20 @@ const Store = (function () {
     return subtotal >= FREE_DELIVERY_FROM || subtotal === 0 ? 0 : DELIVERY_FEE;
   }
 
+  function canPayIn3(total) {
+    return total >= PAY_IN_3_FROM;
+  }
+
+  function payIn3Segments(total) {
+    const seg = Math.round(total / 3);
+    const now = Date.now();
+    return [
+      { n: 1, amount: total - 2 * seg, due: now },
+      { n: 2, amount: seg, due: now + 30 * 864e5 },
+      { n: 3, amount: seg, due: now + 60 * 864e5 }
+    ];
+  }
+
   /* ---------------- Orders (IndexedDB cache) ---------------- */
   function getOrders() { return ordersCache; }
 
@@ -139,11 +154,25 @@ const Store = (function () {
     if (!cart.items.length) throw new Error("Your cart is empty.");
     const subtotal = cart.subtotal;
     const delivery = deliveryFee(subtotal);
+    const total = subtotal + delivery;
     const now = Date.now();
     const schedule = [0, 2 * 60 * 1000, 6 * 60 * 1000, 14 * 60 * 1000, 36 * 3600 * 1000];
     const timeline = STAGES.map(function (s, i) {
       return { stage: s.key, label: s.label, at: now + schedule[i] };
     });
+    let payment = { provider: "PayFast", method: "PayFast", status: "Pending", amount: total };
+    if (data.payIn3 && canPayIn3(total)) {
+      payment = Object.assign(payment, {
+        plan: "installments",
+        segments: 3,
+        segmentAmount: Math.round(total / 3),
+        installmentAmount: total - 2 * Math.round(total / 3),
+        installments: payIn3Segments(total).map(function (s) {
+          return { n: s.n, amount: s.amount, due: s.due, status: "Pending" };
+        })
+      });
+    }
+    payment = Object.assign(payment, data.payment || {});
     const order = {
       id: genOrderId(),
       userId: data.userId || null,
@@ -158,11 +187,8 @@ const Store = (function () {
       }),
       subtotal: subtotal,
       delivery: delivery,
-      total: subtotal + delivery,
-      payment: Object.assign(
-        { provider: "PayFast", method: "PayFast", status: "Pending", amount: subtotal + delivery },
-        data.payment || {}
-      ),
+      total: total,
+      payment: payment,
       status: "placed",
       timeline: timeline,
       createdAt: new Date().toISOString()
@@ -197,11 +223,12 @@ const Store = (function () {
 
   /* ---------------- Payments (IndexedDB) ---------------- */
   function recordPayment(order) {
+    const charged = (order.payment && order.payment.installmentAmount) || order.total;
     const rec = {
       id: "pay_" + order.id,
       orderId: order.id,
       provider: "PayFast",
-      amount: order.total,
+      amount: charged,
       currency: "ZAR",
       status: "Pending",
       createdAt: new Date().toISOString(),
@@ -220,13 +247,18 @@ const Store = (function () {
     order.payment.details = details || null;
     if (status === "Paid") {
       order.payment.paidAt = (details && details.at) || Date.now();
+      if (order.payment.plan === "installments" && order.payment.installments) {
+        order.payment.installments[0].status = "Paid";
+        order.payment.installments[0].paidAt = order.payment.paidAt;
+      }
       if (order.timeline && order.timeline[1]) order.timeline[1].at = Date.now();
     }
+    const charged = order.payment.installmentAmount || order.total;
     const rec = {
       id: "pay_" + order.id,
       orderId: order.id,
       provider: "PayFast",
-      amount: order.total,
+      amount: charged,
       currency: "ZAR",
       status: status,
       details: details || null,
@@ -240,7 +272,8 @@ const Store = (function () {
   }
 
   return {
-    STAGES, DELIVERY_FEE, FREE_DELIVERY_FROM,
+    STAGES, DELIVERY_FEE, FREE_DELIVERY_FROM, PAY_IN_3_FROM,
+    canPayIn3, payIn3Segments,
     init,
     addToCart, setQty, removeFromCart, clearCart, cartCount, getCart, deliveryFee,
     createOrder, findOrder, ordersForUser, advanceOrder, currentStage, genOrderId,

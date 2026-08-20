@@ -10,7 +10,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Block Heel Sandals — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/block-heel-sandals-black-ackermans.svg"
   },
   {
     id: "stiletto-heels-black-b-fabulous",
@@ -23,7 +23,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Stiletto Heels — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/stiletto-heels-black-b-fabulous.svg"
   },
   {
     id: "stiletto-heels-nude-b-fabulous",
@@ -35,7 +35,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Stiletto Heels — Nude from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/stiletto-heels-nude-b-fabulous.svg"
   },
   {
     id: "kitten-heel-pumps-black-a-list",
@@ -47,7 +47,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Kitten Heel Pumps — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/kitten-heel-pumps-black-a-list.svg"
   },
   {
     id: "kitten-heel-pumps-nude-a-list",
@@ -59,7 +59,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Kitten Heel Pumps — Nude from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/kitten-heel-pumps-nude-a-list.svg"
   },
   {
     id: "kitten-heel-pumps-tan-a-list",
@@ -72,7 +72,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Kitten Heel Pumps — Tan from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/kitten-heel-pumps-tan-a-list.svg"
   },
   {
     id: "strappy-heels-black-cotton-on",
@@ -84,7 +84,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Strappy Heels — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/strappy-heels-black-cotton-on.svg"
   },
   {
     id: "low-wedge-heels-black-sissy-boy",
@@ -97,7 +97,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Low Wedge Heels — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/low-wedge-heels-black-sissy-boy.svg"
   },
   {
     id: "low-wedge-heels-nude-sissy-boy",
@@ -110,7 +110,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Low Wedge Heels — Nude from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/low-wedge-heels-nude-sissy-boy.svg"
   },
   {
     id: "platform-heels-black-redbat",
@@ -122,7 +122,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Platform Heels — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/platform-heels-black-redbat.svg"
   },
   {
     id: "platform-heels-nude-redbat",
@@ -135,7 +135,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Platform Heels — Nude from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/platform-heels-nude-redbat.svg"
   },
   {
     id: "platform-heels-tan-redbat",
@@ -147,7 +147,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Platform Heels — Tan from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/platform-heels-tan-redbat.svg"
   },
   {
     id: "ballet-flats-black-g-star-raw",
@@ -160,7 +160,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Ballet Flats — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/ballet-flats-black-g-star-raw.svg"
   },
   {
     id: "pointed-flats-black-vans",
@@ -172,7 +172,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Pointed Flats — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/pointed-flats-black-vans.svg"
   },
   {
     id: "pointed-flats-nude-vans",
@@ -185,7 +185,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Pointed Flats — Nude from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/pointed-flats-nude-vans.svg"
   },
   {
     id: "loafers-black-ackermans",
@@ -198,7 +198,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Loafers — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/loafers-black-ackermans.svg"
   },
   {
     id: "loafers-nude-ackermans",
@@ -210,7 +210,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Loafers — Nude from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/loafers-nude-ackermans.svg"
   },
   {
     id: "loafers-tan-ackermans",
@@ -222,7 +222,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Loafers — Tan from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/loafers-tan-ackermans.svg"
   },
   {
     id: "mary-jane-flats-black-b-fabulous",
@@ -235,7 +235,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Mary Jane Flats — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/mary-jane-flats-black-b-fabulous.svg"
   },
   {
     id: "espadrille-flats-black-a-list",
@@ -247,7 +247,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Espadrille Flats — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/espadrille-flats-black-a-list.svg"
   },
   {
     id: "espadrille-flats-nude-a-list",
@@ -260,7 +260,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Espadrille Flats — Nude from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/espadrille-flats-nude-a-list.svg"
   },
   {
     id: "flat-sandals-black-cotton-on",
@@ -273,7 +273,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Flat Sandals — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/flat-sandals-black-cotton-on.svg"
   },
   {
     id: "flat-sandals-nude-cotton-on",
@@ -285,7 +285,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Flat Sandals — Nude from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/flat-sandals-nude-cotton-on.svg"
   },
   {
     id: "flat-sandals-tan-cotton-on",
@@ -298,7 +298,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Flat Sandals — Tan from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/flat-sandals-tan-cotton-on.svg"
   },
   {
     id: "slide-sandals-black-sissy-boy",
@@ -311,7 +311,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Slide Sandals — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/slide-sandals-black-sissy-boy.svg"
   },
   {
     id: "gladiator-sandals-black-redbat",
@@ -324,7 +324,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Gladiator Sandals — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/gladiator-sandals-black-redbat.svg"
   },
   {
     id: "gladiator-sandals-nude-redbat",
@@ -336,7 +336,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Gladiator Sandals — Nude from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/gladiator-sandals-nude-redbat.svg"
   },
   {
     id: "ankle-strap-sandals-black-g-star-raw",
@@ -348,7 +348,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Ankle Strap Sandals — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/ankle-strap-sandals-black-g-star-raw.svg"
   },
   {
     id: "ankle-strap-sandals-nude-g-star-raw",
@@ -360,7 +360,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Ankle Strap Sandals — Nude from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/ankle-strap-sandals-nude-g-star-raw.svg"
   },
   {
     id: "ankle-strap-sandals-tan-g-star-raw",
@@ -372,7 +372,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Ankle Strap Sandals — Tan from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/ankle-strap-sandals-tan-g-star-raw.svg"
   },
   {
     id: "strappy-flat-sandals-black-vans",
@@ -384,7 +384,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Strappy Flat Sandals — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/strappy-flat-sandals-black-vans.svg"
   },
   {
     id: "canvas-sneakers-black-ackermans",
@@ -396,7 +396,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Canvas Sneakers — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/canvas-sneakers-black-ackermans.svg"
   },
   {
     id: "canvas-sneakers-nude-ackermans",
@@ -409,7 +409,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Canvas Sneakers — Nude from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/canvas-sneakers-nude-ackermans.svg"
   },
   {
     id: "white-court-trainers-black-b-fabulous",
@@ -421,7 +421,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "White Court Trainers — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/white-court-trainers-black-b-fabulous.svg"
   },
   {
     id: "white-court-trainers-nude-b-fabulous",
@@ -434,7 +434,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "White Court Trainers — Nude from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/white-court-trainers-nude-b-fabulous.svg"
   },
   {
     id: "white-court-trainers-tan-b-fabulous",
@@ -447,7 +447,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "White Court Trainers — Tan from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/white-court-trainers-tan-b-fabulous.svg"
   },
   {
     id: "slip-on-sneakers-black-a-list",
@@ -459,7 +459,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Slip-On Sneakers — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/slip-on-sneakers-black-a-list.svg"
   },
   {
     id: "platform-sneakers-black-cotton-on",
@@ -471,7 +471,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Platform Sneakers — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/platform-sneakers-black-cotton-on.svg"
   },
   {
     id: "platform-sneakers-nude-cotton-on",
@@ -483,7 +483,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Platform Sneakers — Nude from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/platform-sneakers-nude-cotton-on.svg"
   },
   {
     id: "everyday-trainers-black-sissy-boy",
@@ -495,7 +495,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Everyday Trainers — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/everyday-trainers-black-sissy-boy.svg"
   },
   {
     id: "everyday-trainers-nude-sissy-boy",
@@ -508,7 +508,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Everyday Trainers — Nude from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/everyday-trainers-nude-sissy-boy.svg"
   },
   {
     id: "everyday-trainers-tan-sissy-boy",
@@ -520,7 +520,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Everyday Trainers — Tan from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/everyday-trainers-tan-sissy-boy.svg"
   },
   {
     id: "chunky-sneakers-black-redbat",
@@ -532,7 +532,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Chunky Sneakers — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/chunky-sneakers-black-redbat.svg"
   },
   {
     id: "knitted-sneakers-black-g-star-raw",
@@ -544,7 +544,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Knitted Sneakers — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/knitted-sneakers-black-g-star-raw.svg"
   },
   {
     id: "knitted-sneakers-nude-g-star-raw",
@@ -557,7 +557,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Knitted Sneakers — Nude from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/knitted-sneakers-nude-g-star-raw.svg"
   },
   {
     id: "skate-sneakers-black-vans",
@@ -570,7 +570,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Skate Sneakers — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/skate-sneakers-black-vans.svg"
   },
   {
     id: "skate-sneakers-nude-vans",
@@ -583,7 +583,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Skate Sneakers — Nude from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/skate-sneakers-nude-vans.svg"
   },
   {
     id: "skate-sneakers-tan-vans",
@@ -596,7 +596,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Skate Sneakers — Tan from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/skate-sneakers-tan-vans.svg"
   },
   {
     id: "comfort-slippers-black-ackermans",
@@ -608,7 +608,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Comfort Slippers — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/comfort-slippers-black-ackermans.svg"
   },
   {
     id: "memory-foam-slippers-black-b-fabulous",
@@ -621,7 +621,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Memory Foam Slippers — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/memory-foam-slippers-black-b-fabulous.svg"
   },
   {
     id: "memory-foam-slippers-nude-b-fabulous",
@@ -633,7 +633,7 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Memory Foam Slippers — Nude from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/memory-foam-slippers-nude-b-fabulous.svg"
   },
   {
     id: "fleece-slippers-black-a-list",
@@ -645,6 +645,6 @@ const PRODUCTS_WOMENS_FOOTWEAR = [
     description: "Fleece Slippers — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens-shoes.svg"
+    image: "images/ph/fleece-slippers-black-a-list.svg"
   }
 ];

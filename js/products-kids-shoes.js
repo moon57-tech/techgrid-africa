@@ -10,7 +10,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Boys School Shoes — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/boys-school-shoes-black-ackermans.svg"
   },
   {
     id: "girls-school-shoes-black-redbat",
@@ -22,7 +22,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls School Shoes — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-school-shoes-black-redbat.svg"
   },
   {
     id: "girls-school-shoes-navy-redbat",
@@ -34,7 +34,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls School Shoes — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-school-shoes-navy-redbat.svg"
   },
   {
     id: "girls-t-bar-school-shoes-black-exact",
@@ -46,7 +46,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls T-Bar School Shoes — Black from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-t-bar-school-shoes-black-exact.svg"
   },
   {
     id: "girls-t-bar-school-shoes-navy-exact",
@@ -58,7 +58,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls T-Bar School Shoes — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-t-bar-school-shoes-navy-exact.svg"
   },
   {
     id: "girls-t-bar-school-shoes-white-exact",
@@ -71,7 +71,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls T-Bar School Shoes — White from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-t-bar-school-shoes-white-exact.svg"
   },
   {
     id: "boys-lace-up-school-shoes-black-soda-bloc",
@@ -84,7 +84,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Boys Lace-Up School Shoes — Black from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/boys-lace-up-school-shoes-black-soda-bloc.svg"
   },
   {
     id: "kids-canvas-sneakers-black-cotton-on-kids",
@@ -96,7 +96,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Canvas Sneakers — Black from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-canvas-sneakers-black-cotton-on-kids.svg"
   },
   {
     id: "kids-canvas-sneakers-navy-cotton-on-kids",
@@ -108,7 +108,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Canvas Sneakers — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-canvas-sneakers-navy-cotton-on-kids.svg"
   },
   {
     id: "kids-lace-up-sneakers-black-puma",
@@ -121,7 +121,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Lace-Up Sneakers — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-lace-up-sneakers-black-puma.svg"
   },
   {
     id: "kids-lace-up-sneakers-navy-puma",
@@ -133,7 +133,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Lace-Up Sneakers — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-lace-up-sneakers-navy-puma.svg"
   },
   {
     id: "kids-lace-up-sneakers-white-puma",
@@ -146,7 +146,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Lace-Up Sneakers — White from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-lace-up-sneakers-white-puma.svg"
   },
   {
     id: "kids-velcro-sneakers-black-converse",
@@ -158,7 +158,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Velcro Sneakers — Black from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-velcro-sneakers-black-converse.svg"
   },
   {
     id: "kids-hi-top-sneakers-black-adidas-kids",
@@ -171,7 +171,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Hi-Top Sneakers — Black from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-hi-top-sneakers-black-adidas-kids.svg"
   },
   {
     id: "kids-hi-top-sneakers-navy-adidas-kids",
@@ -183,7 +183,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Hi-Top Sneakers — Navy from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-hi-top-sneakers-navy-adidas-kids.svg"
   },
   {
     id: "kids-running-shoes-black-ackermans",
@@ -196,7 +196,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Running Shoes — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-running-shoes-black-ackermans.svg"
   },
   {
     id: "kids-running-shoes-navy-ackermans",
@@ -208,7 +208,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Running Shoes — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-running-shoes-navy-ackermans.svg"
   },
   {
     id: "kids-running-shoes-white-ackermans",
@@ -221,7 +221,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Running Shoes — White from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-running-shoes-white-ackermans.svg"
   },
   {
     id: "kids-sports-shoes-black-redbat",
@@ -233,7 +233,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Sports Shoes — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-sports-shoes-black-redbat.svg"
   },
   {
     id: "girls-ballet-flats-black-exact",
@@ -245,7 +245,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls Ballet Flats — Black from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-ballet-flats-black-exact.svg"
   },
   {
     id: "girls-ballet-flats-navy-exact",
@@ -257,7 +257,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls Ballet Flats — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-ballet-flats-navy-exact.svg"
   },
   {
     id: "girls-mary-jane-shoes-black-soda-bloc",
@@ -269,7 +269,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls Mary Jane Shoes — Black from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-mary-jane-shoes-black-soda-bloc.svg"
   },
   {
     id: "girls-mary-jane-shoes-navy-soda-bloc",
@@ -281,7 +281,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls Mary Jane Shoes — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-mary-jane-shoes-navy-soda-bloc.svg"
   },
   {
     id: "girls-mary-jane-shoes-white-soda-bloc",
@@ -294,7 +294,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Girls Mary Jane Shoes — White from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/girls-mary-jane-shoes-white-soda-bloc.svg"
   },
   {
     id: "kids-sandals-black-cotton-on-kids",
@@ -307,7 +307,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Sandals — Black from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-sandals-black-cotton-on-kids.svg"
   },
   {
     id: "kids-strap-sandals-black-puma",
@@ -319,7 +319,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Strap Sandals — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-strap-sandals-black-puma.svg"
   },
   {
     id: "kids-strap-sandals-navy-puma",
@@ -331,7 +331,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Strap Sandals — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-strap-sandals-navy-puma.svg"
   },
   {
     id: "kids-flip-flops-black-converse",
@@ -344,7 +344,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Flip Flops — Black from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-flip-flops-black-converse.svg"
   },
   {
     id: "kids-flip-flops-navy-converse",
@@ -357,7 +357,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Flip Flops — Navy from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-flip-flops-navy-converse.svg"
   },
   {
     id: "kids-flip-flops-white-converse",
@@ -370,7 +370,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Flip Flops — White from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-flip-flops-white-converse.svg"
   },
   {
     id: "kids-slides-black-adidas-kids",
@@ -382,7 +382,7 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Slides — Black from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-slides-black-adidas-kids.svg"
   },
   {
     id: "kids-ankle-boots-black-ackermans",
@@ -395,6 +395,6 @@ const PRODUCTS_KIDS_FOOTWEAR = [
     description: "Kids Ankle Boots — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids-shoes.svg"
+    image: "images/ph/kids-ankle-boots-black-ackermans.svg"
   }
 ];

@@ -11,7 +11,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Leather Lace-Up Shoes — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/leather-lace-up-shoes-black-ackermans.svg"
   },
   {
     id: "oxford-dress-shoes-black-redbat",
@@ -23,7 +23,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Oxford Dress Shoes — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/oxford-dress-shoes-black-redbat.svg"
   },
   {
     id: "oxford-dress-shoes-brown-redbat",
@@ -35,7 +35,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Oxford Dress Shoes — Brown from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/oxford-dress-shoes-brown-redbat.svg"
   },
   {
     id: "brogue-shoes-black-relay-jeans",
@@ -47,7 +47,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Brogue Shoes — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/brogue-shoes-black-relay-jeans.svg"
   },
   {
     id: "brogue-shoes-brown-relay-jeans",
@@ -60,7 +60,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Brogue Shoes — Brown from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/brogue-shoes-brown-relay-jeans.svg"
   },
   {
     id: "brogue-shoes-tan-relay-jeans",
@@ -72,7 +72,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Brogue Shoes — Tan from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/brogue-shoes-tan-relay-jeans.svg"
   },
   {
     id: "derby-shoes-black-cotton-on",
@@ -84,7 +84,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Derby Shoes — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/derby-shoes-black-cotton-on.svg"
   },
   {
     id: "casual-lace-up-sneakers-black-g-star-raw",
@@ -97,7 +97,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Casual Lace-Up Sneakers — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/casual-lace-up-sneakers-black-g-star-raw.svg"
   },
   {
     id: "casual-lace-up-sneakers-brown-g-star-raw",
@@ -110,7 +110,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Casual Lace-Up Sneakers — Brown from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/casual-lace-up-sneakers-brown-g-star-raw.svg"
   },
   {
     id: "canvas-sneakers-black-union-dnm",
@@ -122,7 +122,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Canvas Sneakers — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/canvas-sneakers-black-union-dnm.svg"
   },
   {
     id: "canvas-sneakers-brown-union-dnm",
@@ -135,7 +135,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Canvas Sneakers — Brown from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/canvas-sneakers-brown-union-dnm.svg"
   },
   {
     id: "canvas-sneakers-tan-union-dnm",
@@ -147,7 +147,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Canvas Sneakers — Tan from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/canvas-sneakers-tan-union-dnm.svg"
   },
   {
     id: "leather-sneakers-black-diesel",
@@ -160,7 +160,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Leather Sneakers — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/leather-sneakers-black-diesel.svg"
   },
   {
     id: "white-sneakers-black-puma",
@@ -173,7 +173,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "White Sneakers — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/white-sneakers-black-puma.svg"
   },
   {
     id: "white-sneakers-brown-puma",
@@ -186,7 +186,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "White Sneakers — Brown from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/white-sneakers-brown-puma.svg"
   },
   {
     id: "low-top-trainers-black-ackermans",
@@ -198,7 +198,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Low-Top Trainers — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/low-top-trainers-black-ackermans.svg"
   },
   {
     id: "low-top-trainers-brown-ackermans",
@@ -210,7 +210,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Low-Top Trainers — Brown from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/low-top-trainers-brown-ackermans.svg"
   },
   {
     id: "low-top-trainers-tan-ackermans",
@@ -222,7 +222,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Low-Top Trainers — Tan from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/low-top-trainers-tan-ackermans.svg"
   },
   {
     id: "high-top-sneakers-black-redbat",
@@ -235,7 +235,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "High-Top Sneakers — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/high-top-sneakers-black-redbat.svg"
   },
   {
     id: "chunky-sneakers-black-relay-jeans",
@@ -247,7 +247,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Chunky Sneakers — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/chunky-sneakers-black-relay-jeans.svg"
   },
   {
     id: "chunky-sneakers-brown-relay-jeans",
@@ -259,7 +259,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Chunky Sneakers — Brown from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/chunky-sneakers-brown-relay-jeans.svg"
   },
   {
     id: "everyday-running-shoes-black-cotton-on",
@@ -272,7 +272,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Everyday Running Shoes — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/everyday-running-shoes-black-cotton-on.svg"
   },
   {
     id: "everyday-running-shoes-brown-cotton-on",
@@ -284,7 +284,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Everyday Running Shoes — Brown from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/everyday-running-shoes-brown-cotton-on.svg"
   },
   {
     id: "everyday-running-shoes-tan-cotton-on",
@@ -297,7 +297,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Everyday Running Shoes — Tan from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/everyday-running-shoes-tan-cotton-on.svg"
   },
   {
     id: "gym-training-shoes-black-g-star-raw",
@@ -309,7 +309,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Gym Training Shoes — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/gym-training-shoes-black-g-star-raw.svg"
   },
   {
     id: "trail-running-shoes-black-union-dnm",
@@ -321,7 +321,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Trail Running Shoes — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/trail-running-shoes-black-union-dnm.svg"
   },
   {
     id: "trail-running-shoes-brown-union-dnm",
@@ -333,7 +333,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Trail Running Shoes — Brown from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/trail-running-shoes-brown-union-dnm.svg"
   },
   {
     id: "football-boots-black-diesel",
@@ -345,7 +345,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Football Boots — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/football-boots-black-diesel.svg"
   },
   {
     id: "football-boots-brown-diesel",
@@ -357,7 +357,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Football Boots — Brown from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/football-boots-brown-diesel.svg"
   },
   {
     id: "football-boots-tan-diesel",
@@ -369,7 +369,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Football Boots — Tan from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/football-boots-tan-diesel.svg"
   },
   {
     id: "hiking-boots-black-puma",
@@ -381,7 +381,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Hiking Boots — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/hiking-boots-black-puma.svg"
   },
   {
     id: "ankle-boots-black-ackermans",
@@ -394,7 +394,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Ankle Boots — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/ankle-boots-black-ackermans.svg"
   },
   {
     id: "ankle-boots-brown-ackermans",
@@ -407,7 +407,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Ankle Boots — Brown from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/ankle-boots-brown-ackermans.svg"
   },
   {
     id: "chelsea-boots-black-redbat",
@@ -420,7 +420,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Chelsea Boots — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/chelsea-boots-black-redbat.svg"
   },
   {
     id: "chelsea-boots-brown-redbat",
@@ -432,7 +432,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Chelsea Boots — Brown from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/chelsea-boots-brown-redbat.svg"
   },
   {
     id: "chelsea-boots-tan-redbat",
@@ -445,7 +445,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Chelsea Boots — Tan from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/chelsea-boots-tan-redbat.svg"
   },
   {
     id: "chukka-boots-black-relay-jeans",
@@ -458,7 +458,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Chukka Boots — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/chukka-boots-black-relay-jeans.svg"
   },
   {
     id: "desert-boots-black-cotton-on",
@@ -471,7 +471,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Desert Boots — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/desert-boots-black-cotton-on.svg"
   },
   {
     id: "desert-boots-brown-cotton-on",
@@ -483,7 +483,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Desert Boots — Brown from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/desert-boots-brown-cotton-on.svg"
   },
   {
     id: "work-boots-black-g-star-raw",
@@ -495,7 +495,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Work Boots — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/work-boots-black-g-star-raw.svg"
   },
   {
     id: "work-boots-brown-g-star-raw",
@@ -508,7 +508,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Work Boots — Brown from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/work-boots-brown-g-star-raw.svg"
   },
   {
     id: "work-boots-tan-g-star-raw",
@@ -520,7 +520,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Work Boots — Tan from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/work-boots-tan-g-star-raw.svg"
   },
   {
     id: "combat-boots-black-union-dnm",
@@ -532,7 +532,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Combat Boots — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/combat-boots-black-union-dnm.svg"
   },
   {
     id: "loafers-black-diesel",
@@ -544,7 +544,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Loafers — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/loafers-black-diesel.svg"
   },
   {
     id: "loafers-brown-diesel",
@@ -556,7 +556,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Loafers — Brown from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/loafers-brown-diesel.svg"
   },
   {
     id: "penny-loafers-black-puma",
@@ -568,7 +568,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Penny Loafers — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/penny-loafers-black-puma.svg"
   },
   {
     id: "penny-loafers-brown-puma",
@@ -581,7 +581,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Penny Loafers — Brown from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/penny-loafers-brown-puma.svg"
   },
   {
     id: "penny-loafers-tan-puma",
@@ -593,7 +593,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Penny Loafers — Tan from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/penny-loafers-tan-puma.svg"
   },
   {
     id: "slip-on-shoes-black-ackermans",
@@ -606,7 +606,7 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Slip-On Shoes — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/slip-on-shoes-black-ackermans.svg"
   },
   {
     id: "moccasins-black-redbat",
@@ -619,6 +619,6 @@ const PRODUCTS_MENS_FOOTWEAR = [
     description: "Moccasins — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Durable man-made upper / cushioned sole"], ["Sizes", "36, 37, 38, 39, 40, 41"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens-shoes.svg"
+    image: "images/ph/moccasins-black-redbat.svg"
   }
 ];

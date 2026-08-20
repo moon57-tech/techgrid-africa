@@ -48,7 +48,7 @@ function mk(name, brand, price, cat, image, colors) {
     description: name + " from " + brand + " — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [["Material", cat.indexOf("shoes") > -1 ? "Durable man-made upper / cushioned sole" : "Cotton-rich blend"], ["Sizes", sizeLabel.join(", ")], ["Care", "Machine washable / wipe clean"]],
-    image: image,
+    image: "images/ph/" + id + ".svg",
     tag: (h % 5 === 1 ? "Bestseller" : h % 7 === 2 ? "New In" : null)
   };
 }

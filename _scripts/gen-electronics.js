@@ -673,7 +673,7 @@ Object.keys(byCat).forEach(function (c) { console.log("  " + c + ": " + byCat[c]
 /* ---------------- emit files ---------------- */
 const OUT = "C:/Users/Hq1/Documents/Claude/Techgrid Africa/js/";
 
-function img(cat) { return "images/ph/" + (cat === "home" ? "home" : cat) + ".svg"; }
+function img(p) { return "images/ph/" + p.id + ".svg"; }
 
 function render(products, name) {
   const lines = [];
@@ -691,7 +691,7 @@ function render(products, name) {
     lines.push('    description: "' + p.description.replace(/"/g, '\\"') + '",');
     lines.push('    highlights: ["' + p.highlights.join('", "') + '"],');
     lines.push('    specs: [[' + p.specs.map(function (s) { return '["' + s[0] + '", "' + s[1].replace(/"/g, '\\"') + '"]'; }).join(", ") + "]],");
-    lines.push('    image: "' + img(p.category) + '"');
+    lines.push('    image: "' + img(p) + '"');
     lines.push("  }" + (i < products.length - 1 ? "," : ""));
   });
   lines.push("];");

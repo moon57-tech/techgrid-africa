@@ -11,7 +11,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Mandy 4 Piece Lounge Suite, Brown — comfort and style for your space from Mandy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/mandy-4-piece-lounge-suite-brown-mandy.svg"
   },
   {
     id: "sealy-rossi-152cm-queen-medium-bed-set-sealy",
@@ -23,7 +23,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sealy Rossi 152cm (Queen) Medium Bed Set — comfort and style for your space from Sealy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sealy-rossi-152cm-queen-medium-bed-set-sealy.svg"
   },
   {
     id: "claudia-3-piece-daybed-black-claudia",
@@ -35,7 +35,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Claudia 3 Piece Daybed, Black — comfort and style for your space from Claudia. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/claudia-3-piece-daybed-black-claudia.svg"
   },
   {
     id: "sealy-columbia-152cm-queen-firm-bed-set-standard-length-sealy",
@@ -47,7 +47,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sealy Columbia 152cm (Queen) Firm Bed Set Standard Length — comfort and style for your space from Sealy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sealy-columbia-152cm-queen-firm-bed-set-standard-length-sealy.svg"
   },
   {
     id: "sealy-argo-152cm-queen-firm-bed-set-standard-length-sealy",
@@ -59,7 +59,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sealy Argo 152cm (Queen) Firm Bed Set Standard Length — comfort and style for your space from Sealy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sealy-argo-152cm-queen-firm-bed-set-standard-length-sealy.svg"
   },
   {
     id: "sealy-columbia-137cm-double-firm-bed-set-sealy",
@@ -72,7 +72,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sealy Columbia 137cm (Double) Firm Bed Set — comfort and style for your space from Sealy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sealy-columbia-137cm-double-firm-bed-set-sealy.svg"
   },
   {
     id: "sleepmasters-brooklyn-183cm-king-firm-bed-set-standard-length-sl",
@@ -84,7 +84,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sleepmasters Brooklyn 183cm (King) Firm Bed Set Standard Length — comfort and style for your space from Sleepmasters. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sleepmasters-brooklyn-183cm-king-firm-bed-set-standard-length-sl.svg"
   },
   {
     id: "restonic-bazaruto-152cm-queen-medium-mattress-standard-length-re",
@@ -96,7 +96,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Restonic Bazaruto 152cm (Queen) Medium Mattress Standard Length — comfort and style for your space from Restonic. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/restonic-bazaruto-152cm-queen-medium-mattress-standard-length-re.svg"
   },
   {
     id: "edblo-berlin-137cm-double-medium-bed-set-edblo",
@@ -108,7 +108,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Edblo Berlin 137cm (Double) Medium Bed Set — comfort and style for your space from Edblo. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/edblo-berlin-137cm-double-medium-bed-set-edblo.svg"
   },
   {
     id: "sealy-cavalli-152cm-queen-plush-bed-set-standard-length-sealy",
@@ -120,7 +120,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sealy Cavalli 152cm (Queen) Plush Bed Set Standard Length — comfort and style for your space from Sealy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sealy-cavalli-152cm-queen-plush-bed-set-standard-length-sealy.svg"
   },
   {
     id: "sealy-argo-183cm-king-firm-bed-set-standard-length-sealy",
@@ -132,7 +132,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sealy Argo 183cm (King) Firm Bed Set Standard Length — comfort and style for your space from Sealy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sealy-argo-183cm-king-firm-bed-set-standard-length-sealy.svg"
   },
   {
     id: "serta-apollo-152cm-queen-firm-bed-set-standard-length-serta",
@@ -145,7 +145,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Serta Apollo 152cm (Queen) Firm Bed Set Standard Length — comfort and style for your space from Serta. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/serta-apollo-152cm-queen-firm-bed-set-standard-length-serta.svg"
   },
   {
     id: "edblo-berlin-152cm-queen-medium-bed-set-standard-length-edblo",
@@ -157,7 +157,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Edblo Berlin 152cm (Queen) Medium Bed Set Standard Length — comfort and style for your space from Edblo. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/edblo-berlin-152cm-queen-medium-bed-set-standard-length-edblo.svg"
   },
   {
     id: "serta-athena-137cm-double-firm-bed-set-standard-length-serta",
@@ -170,7 +170,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Serta Athena 137cm (Double) Firm Bed Set Standard Length — comfort and style for your space from Serta. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/serta-athena-137cm-double-firm-bed-set-standard-length-serta.svg"
   },
   {
     id: "serta-avalon-152cm-queen-plush-bed-set-standard-length-serta",
@@ -182,7 +182,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Serta Avalon 152cm (Queen) Plush Bed Set Standard Length — comfort and style for your space from Serta. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/serta-avalon-152cm-queen-plush-bed-set-standard-length-serta.svg"
   },
   {
     id: "sleepmasters-santos-mkii-152cm-queen-plush-bed-set-standard-leng",
@@ -194,7 +194,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sleepmasters Santos MKII 152cm (Queen) Plush Bed Set Standard Length — comfort and style for your space from Sleepmasters. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sleepmasters-santos-mkii-152cm-queen-plush-bed-set-standard-leng.svg"
   },
   {
     id: "sleepmasters-supreme-152cm-queen-firm-bed-set-standard-length-sl",
@@ -206,7 +206,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sleepmasters Supreme 152cm (Queen) Firm Bed Set Standard Length — comfort and style for your space from Sleepmasters. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sleepmasters-supreme-152cm-queen-firm-bed-set-standard-length-sl.svg"
   },
   {
     id: "serta-aura-152cm-queen-medium-bed-set-standard-length-serta",
@@ -218,7 +218,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Serta Aura 152cm (Queen) Medium Bed Set Standard Length — comfort and style for your space from Serta. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/serta-aura-152cm-queen-medium-bed-set-standard-length-serta.svg"
   },
   {
     id: "sleepmasters-saville-mkii-152cm-queen-medium-bed-set-standard-le",
@@ -230,7 +230,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sleepmasters Saville MKII 152cm (Queen) Medium Bed Set Standard Length — comfort and style for your space from Sleepmasters. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sleepmasters-saville-mkii-152cm-queen-medium-bed-set-standard-le.svg"
   },
   {
     id: "restonic-bali-183cm-king-medium-bed-set-standard-length-restonic",
@@ -242,7 +242,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Restonic Bali 183cm (King) Medium Bed Set Standard Length — comfort and style for your space from Restonic. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/restonic-bali-183cm-king-medium-bed-set-standard-length-restonic.svg"
   },
   {
     id: "techpro-ergonomic-gaming-computer-desk-carbon-steel-frame-120cm-",
@@ -255,7 +255,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Ergonomic Gaming Computer Desk Carbon Steel Frame 120cm — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-ergonomic-gaming-computer-desk-carbon-steel-frame-120cm-.svg"
   },
   {
     id: "sealy-argo-152cm-queen-medium-bed-set-sealy",
@@ -268,7 +268,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sealy Argo 152cm (Queen) Medium Bed Set — comfort and style for your space from Sealy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sealy-argo-152cm-queen-medium-bed-set-sealy.svg"
   },
   {
     id: "sealy-rossi-137cm-double-plush-bed-set-sealy",
@@ -280,7 +280,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sealy Rossi 137cm (Double) Plush Bed Set — comfort and style for your space from Sealy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sealy-rossi-137cm-double-plush-bed-set-sealy.svg"
   },
   {
     id: "restonic-bazaruto-152cm-queen-medium-base-set-restonic",
@@ -292,7 +292,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Restonic Bazaruto 152cm (Queen) Medium Base Set — comfort and style for your space from Restonic. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/restonic-bazaruto-152cm-queen-medium-base-set-restonic.svg"
   },
   {
     id: "serta-apollo-152cm-queen-firm-bed-set-serta",
@@ -304,7 +304,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Serta Apollo 152cm (Queen) Firm Bed Set — comfort and style for your space from Serta. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/serta-apollo-152cm-queen-firm-bed-set-serta.svg"
   },
   {
     id: "sleepmasters-brooklyn-152cm-queen-firm-bed-set-sleepmasters",
@@ -316,7 +316,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Sleepmasters Brooklyn 152cm (Queen) Firm Bed Set — comfort and style for your space from Sleepmasters. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/sleepmasters-brooklyn-152cm-queen-firm-bed-set-sleepmasters.svg"
   },
   {
     id: "cozy-nights-serenity-137cm-double-firm-base-set-cozy-nights",
@@ -328,7 +328,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Cozy Nights Serenity 137cm (Double) Firm Base Set — comfort and style for your space from Cozy Nights. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/cozy-nights-serenity-137cm-double-firm-base-set-cozy-nights.svg"
   },
   {
     id: "mandy-3-piece-lounge-suite-grey-mandy",
@@ -341,7 +341,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Mandy 3 Piece Lounge Suite, Grey — comfort and style for your space from Mandy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/mandy-3-piece-lounge-suite-grey-mandy.svg"
   },
   {
     id: "mandy-recliner-lounge-chair-mandy",
@@ -353,7 +353,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Mandy Recliner Lounge Chair — comfort and style for your space from Mandy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/mandy-recliner-lounge-chair-mandy.svg"
   },
   {
     id: "claudia-2-piece-daybed-claudia",
@@ -365,7 +365,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Claudia 2 Piece Daybed — comfort and style for your space from Claudia. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/claudia-2-piece-daybed-claudia.svg"
   },
   {
     id: "vegas-executive-office-chair-black-vegas",
@@ -377,7 +377,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Vegas Executive Office Chair Black — comfort and style for your space from Vegas. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/vegas-executive-office-chair-black-vegas.svg"
   },
   {
     id: "vegas-ergonomic-mesh-office-chair-vegas",
@@ -389,7 +389,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Vegas Ergonomic Mesh Office Chair — comfort and style for your space from Vegas. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/vegas-ergonomic-mesh-office-chair-vegas.svg"
   },
   {
     id: "techpro-computer-desk-with-drawer-100cm-techpro",
@@ -401,7 +401,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Computer Desk with Drawer 100cm — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-computer-desk-with-drawer-100cm-techpro.svg"
   },
   {
     id: "techpro-standing-desk-120cm-techpro",
@@ -414,7 +414,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Standing Desk 120cm — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-standing-desk-120cm-techpro.svg"
   },
   {
     id: "mandy-fabric-2-seater-couch-mandy",
@@ -426,7 +426,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Mandy Fabric 2-Seater Couch — comfort and style for your space from Mandy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/mandy-fabric-2-seater-couch-mandy.svg"
   },
   {
     id: "restonic-bali-183cm-king-plush-bed-set-restonic",
@@ -438,7 +438,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Restonic Bali 183cm (King) Plush Bed Set — comfort and style for your space from Restonic. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/restonic-bali-183cm-king-plush-bed-set-restonic.svg"
   },
   {
     id: "cozy-nights-pillow-pair-set-medium-cozy-nights",
@@ -450,7 +450,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Cozy Nights Pillow Pair Set (Medium) — comfort and style for your space from Cozy Nights. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/cozy-nights-pillow-pair-set-medium-cozy-nights.svg"
   },
   {
     id: "techpro-tv-stand-140cm-techpro",
@@ -462,7 +462,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro TV Stand 140cm — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-tv-stand-140cm-techpro.svg"
   },
   {
     id: "mandy-coffee-table-round-mandy",
@@ -475,7 +475,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "Mandy Coffee Table Round — comfort and style for your space from Mandy. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/mandy-coffee-table-round-mandy.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-techpro",
@@ -488,7 +488,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-techpro.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-techpro",
@@ -500,7 +500,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-techpro.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-techpro",
@@ -513,7 +513,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-techpro.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-techpro",
@@ -525,7 +525,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-techpro.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-techpro",
@@ -538,7 +538,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-techpro.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-techpro",
@@ -550,7 +550,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-techpro.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-tec",
@@ -562,7 +562,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-tec.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext",
@@ -575,7 +575,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-491",
@@ -588,7 +588,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-491.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-492",
@@ -601,7 +601,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-492.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-493",
@@ -614,7 +614,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-493.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-494",
@@ -627,7 +627,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-494.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-495",
@@ -640,7 +640,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-495.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-496",
@@ -653,7 +653,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-496.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-497",
@@ -666,7 +666,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-497.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-498",
@@ -679,7 +679,7 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-498.svg"
   },
   {
     id: "techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-499",
@@ -692,6 +692,6 @@ const PRODUCTS_HOME_FURNITURE = [
     description: "TechPro Bookshelf 5-Tier (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) (Extra) — comfort and style for your space from TechPro. Quality materials, supportive design and great value.",
     highlights: ["Free nationwide delivery over R5,000", "12-month warranty included", "30-day hassle-free returns"],
     specs: [[["Brand", "See product"], ["Warranty", "12 months"]]],
-    image: "images/ph/home.svg"
+    image: "images/ph/techpro-bookshelf-5-tier-extra-extra-extra-extra-extra-extra-ext-499.svg"
   }
 ];

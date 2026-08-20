@@ -38,17 +38,22 @@ const PayFast = (function () {
     form.name = "PayFastPayNowForm";
     form.setAttribute("accept-charset", "utf-8");
 
+    const plan = !!(order.payment && order.payment.plan === "installments");
+    const charge = plan ? order.payment.installmentAmount : order.total;
+
     const fields = {
       cmd: "_paynow",
       receiver: PAYFAST_CONFIG.merchantId,
-      amount: Number(order.total).toFixed(2),
-      item_name: "Techgrid Africa Order " + order.id,
-      item_description: order.items.slice(0, 5).map(function (i) {
-        return i.name + " x" + i.qty;
-      }).join(", ") + " — Techgrid Africa",
+      amount: Number(charge).toFixed(2),
+      item_name: "Techgrid Africa Order " + order.id + (plan ? " (Segment 1 of 3)" : ""),
+      item_description: (plan ? "3-segment payment plan — segment 1 of 3. " : "") +
+        order.items.slice(0, 5).map(function (i) {
+          return i.name + " x" + i.qty;
+        }).join(", ") + " — Techgrid Africa",
       return_url: returnUrl(order.id),
       cancel_url: cancelUrl(order.id),
-      custom_str1: order.id
+      custom_str1: order.id,
+      custom_str2: plan ? "installments" : ""
     };
 
     Object.keys(fields).forEach(function (k) {

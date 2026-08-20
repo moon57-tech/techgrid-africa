@@ -12,6 +12,15 @@ const App = (function () {
     });
   }
 
+  // Global image fallback (used by inline onerror handlers).
+  function imgFallback(el) {
+    if (el.dataset.fbdone) return;
+    el.dataset.fbdone = "1";
+    const cat = el.getAttribute("data-fb") || "ph";
+    el.src = "images/ph/" + cat + ".svg";
+  }
+  window.imgFallback = imgFallback;
+
   const USD_RATE = 18.2;
   let currency = (function () {
     try { return localStorage.getItem("tg_cur") || "ZAR"; } catch (e) { return "ZAR"; }
@@ -228,7 +237,7 @@ const App = (function () {
     return (
       '<article class="card" data-pid="' + p.id + '">' +
         '<div class="card-media">' + tag +
-          '<img src="' + esc(p.image) + '" alt="' + esc(p.name) + '" loading="lazy" />' +
+          '<img src="' + esc(p.image) + '" alt="' + esc(p.name) + '" loading="lazy" data-fb="' + esc(p.category) + '" onerror="imgFallback(this)" />' +
           '<button class="add-btn" data-add="' + p.id + '" title="Add to cart" aria-label="Add ' + esc(p.name) + ' to cart">' + ICONS.cart + "</button>" +
         "</div>" +
         '<div class="card-body">' +
@@ -336,7 +345,7 @@ const App = (function () {
     return (
       '<nav class="pd-breadcrumb"><a href="#/">Home</a> › <a href="#/shop">Shop</a> › <a href="#/shop/' + p.category + '">' + esc(cat.label) + "</a> › " + esc(p.name) + "</nav>" +
       '<div class="pd">' +
-        '<div class="pd-media"><img src="' + esc(p.image) + '" alt="' + esc(p.name) + '" /></div>' +
+        '<div class="pd-media"><img src="' + esc(p.image) + '" alt="' + esc(p.name) + '" data-fb="' + esc(p.category) + '" onerror="imgFallback(this)" /></div>' +
         '<div>' +
           '<div class="pd-brand">' + esc(p.brand) + "</div>" +
           "<h1>" + esc(p.name) + "</h1>" +
@@ -383,7 +392,7 @@ const App = (function () {
       const lp = fmtPrice(i.lineTotal);
       return (
         '<div class="cart-item" data-pid="' + i.product.id + '">' +
-          '<img src="' + esc(i.product.image) + '" alt="' + esc(i.product.name) + '" />' +
+          '<img src="' + esc(i.product.image) + '" alt="' + esc(i.product.name) + '" data-fb="' + esc(i.product.category) + '" onerror="imgFallback(this)" />' +
           '<div><h4><a href="#/product/' + i.product.id + '">' + esc(i.product.name) + "</a></h4>" +
             '<div class="sub">' + esc(i.product.brand) + " · " + fmtPrice(i.product.price).main + "</div>" +
             '<div class="qty-sm">' +
@@ -412,6 +421,21 @@ const App = (function () {
     );
   }
 
+  function installmentBlock(total) {
+    const segs = Store.payIn3Segments(total);
+    return '<div class="form-card"><h3><span class="form-step">2b</span> Pay in 3 segments</h3>' +
+      '<label class="inst-toggle"><input type="checkbox" id="instOpt" /> ' +
+      "<b>Split into 3 interest-free payments</b>" +
+      '<span class="inst-hint">Available on orders over R35,000</span></label>' +
+      '<div class="inst-box" id="instBox" hidden>' +
+        '<p class="inst-intro">Pay <b>' + fmtPrice(total).main + "</b> in 3 monthly segments — 0% interest.</p>" +
+        segs.map(function (s) {
+          return '<div class="inst-row"><span>Segment ' + s.n + " — " + (s.n === 1 ? "Today (PayFast)" : "Due in " + ((s.n - 1) * 30) + " days") + '</span><b>' + fmtPrice(s.amount).main + "</b></div>";
+        }).join("") +
+        '<p class="inst-note">You pay only segment 1 now via PayFast. Segments 2 and 3 are scheduled automatically.</p>' +
+      "</div></div>";
+  }
+
   function pageCheckout() {
     const cart = Store.getCart();
     if (!cart.items.length) {
@@ -422,7 +446,7 @@ const App = (function () {
     const delivery = Store.deliveryFee(cart.subtotal);
 
     const miniItems = cart.items.map(function (i) {
-      return '<div class="order-item"><img src="' + esc(i.product.image) + '" alt="" />' +
+      return '<div class="order-item"><img src="' + esc(i.product.image) + '" alt="" data-fb="' + esc(i.product.category) + '" onerror="imgFallback(this)" />' +
         '<div class="oi-name">' + esc(i.product.name) + '<div class="oi-meta">Qty ' + i.qty + "</div></div>" +
         '<div class="oi-price">' + fmtPrice(i.lineTotal).main + "</div></div>";
     }).join("");
@@ -452,6 +476,7 @@ const App = (function () {
               (PAYFAST_CONFIG.sandbox ? '<div class="pf-note warn">Test mode is active (sandbox gateway). No real money moves.</div>' : '<div class="pf-note">🔒 Payment details are handled by PayFast. Techgrid never sees your card.</div>') +
             "</div>" +
           "</div>" +
+          (Store.canPayIn3(cart.subtotal + delivery) ? installmentBlock(cart.subtotal + delivery) : "") +
         "</div>" +
         '<div class="summary">' +
           "<h3>Your order</h3>" +
@@ -475,11 +500,22 @@ const App = (function () {
     const pay = order && order.payment;
     const badge = pay
       ? '<div class="pay-badge ' + (pay.status === "Paid" ? "ok" : pay.status === "Cancelled" ? "no" : "wait") + '">' +
-          (pay.status === "Paid" ? "Payment received via PayFast ✓" :
-           pay.status === "Cancelled" ? "Payment was cancelled" :
-           "Payment pending — awaiting PayFast confirmation") +
+          (pay.plan === "installments"
+            ? (pay.status === "Paid" ? "Segment 1 of 3 received — thank you! ✓" :
+               pay.status === "Cancelled" ? "Payment was cancelled" :
+               "Segment 1 pending — awaiting PayFast confirmation")
+            : (pay.status === "Paid" ? "Payment received via PayFast ✓" :
+               pay.status === "Cancelled" ? "Payment was cancelled" :
+               "Payment pending — awaiting PayFast confirmation")) +
         "</div>"
       : "";
+    const planSummary = (pay && pay.plan === "installments" && pay.installments) ? (
+      '<div class="inst-box inst-summary"><h4>Your 3-segment payment plan</h4>' +
+      pay.installments.map(function (s) {
+        const st = s.status === "Paid" ? '<span class="pay-chip ok">Paid</span>' : '<span class="pay-chip wait">' + esc(s.status) + "</span>";
+        return '<div class="inst-row"><span>Segment ' + s.n + " — " + (s.n === 1 ? "Today" : "Due in " + ((s.n - 1) * 30) + " days") + '</span><b>' + fmtPrice(s.amount).main + " " + st + "</b></div>";
+      }).join("") + "</div>"
+    ) : "";
     return (
       '<div class="success-wrap">' +
         '<div class="success-icon">' + ICONS.check + "</div>" +
@@ -487,6 +523,7 @@ const App = (function () {
         "<p>Your order number is</p>" +
         '<div class="success-id">' + esc(id) + "</div>" +
         badge +
+        planSummary +
         "<p>A confirmation has been sent to your email. Track your delivery anytime.</p>" +
         '<div class="hero-actions" style="justify-content:center">' +
           '<a class="btn btn-primary" href="#/order/' + esc(id) + '">Track this order</a>' +
@@ -527,7 +564,7 @@ const App = (function () {
     }).join("");
 
     const items = order.items.map(function (i) {
-      return '<div class="order-item"><img src="' + esc(i.image) + '" alt="" />' +
+      return '<div class="order-item"><img src="' + esc(i.image) + '" alt="" data-fb="' + (i.category || "ph") + '" onerror="imgFallback(this)" />' +
         '<div class="oi-name">' + esc(i.name) + '<div class="oi-meta">Qty ' + i.qty + "</div></div>" +
         '<div class="oi-price">' + fmtPrice(i.price * i.qty).main + "</div></div>";
     }).join("");
@@ -541,6 +578,15 @@ const App = (function () {
     const pay = order.payment || {};
     const payStatus = pay.status || "Pending";
     const payChip = '<span class="pay-chip ' + (payStatus === "Paid" ? "ok" : payStatus === "Cancelled" ? "no" : "wait") + '">' + esc(payStatus) + "</span>";
+    const planBlock = (pay.plan === "installments" && pay.installments) ? (
+      '<div class="inst-box inst-order">' +
+        '<h4 style="font-size:14px;margin:0 0 8px">Payment plan — 3 segments</h4>' +
+        pay.installments.map(function (s) {
+          const st = s.status === "Paid" ? '<span class="pay-chip ok">Paid</span>' : '<span class="pay-chip wait">' + esc(s.status) + "</span>";
+          return '<div class="inst-row"><span>Segment ' + s.n + " — " + (s.n === 1 ? "Today" : "Due in " + ((s.n - 1) * 30) + " days") + '</span><b>' + fmtPrice(s.amount).main + " " + st + "</b></div>";
+        }).join("") +
+      "</div>"
+    ) : "";
     const customer = '<div class="pd-meta"><span><b>👤</b> ' + esc(order.customer.name) + " — " + esc(order.customer.phone) + "</span>" +
       "<span><b>📍</b> " + esc([order.customer.address, order.customer.city, order.customer.province].filter(Boolean).join(", ")) + "</span>" +
       "<span><b>💳</b> PayFast · " + esc(pay.provider || "PayFast") + " " + payChip + "</span></div>";
@@ -555,6 +601,7 @@ const App = (function () {
         "<h3 style='font-size:16px;margin:18px 0 10px'>Items</h3>" +
         '<div class="order-items">' + items + "</div>" +
         '<div class="order-totals">' + totals + "</div>" +
+        planBlock +
         (full ? customer : "") +
       "</div>"
     );
@@ -709,6 +756,15 @@ const App = (function () {
       coBtn.addEventListener("click", function () { location.hash = "#/checkout"; });
     }
 
+    // checkout: pay-in-3 toggle
+    const instOpt = $("#instOpt");
+    if (instOpt) {
+      instOpt.addEventListener("change", function () {
+        const box = $("#instBox");
+        if (box) box.hidden = !instOpt.checked;
+      });
+    }
+
     // track page
     const tBtn = $("#trackBtn");
     if (tBtn) {
@@ -778,11 +834,13 @@ const App = (function () {
     const user = Auth.currentUser();
     let order;
     try {
+      const inst = $("#instOpt");
       order = Store.createOrder({
         userId: user ? user.uid : null,
         email: data.email,
         name: data.name, phone: data.phone, address: data.address,
         city: data.city, province: data.province, postal: data.postal,
+        payIn3: !!(inst && inst.checked),
         payment: { provider: "PayFast", method: "PayFast", status: "Pending" }
       });
     } catch (e) {

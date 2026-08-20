@@ -10,7 +10,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Basic Crew Tee — White from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/basic-crew-tee-white-ackermans.svg"
   },
   {
     id: "basic-crew-tee-black-ackermans",
@@ -23,7 +23,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Basic Crew Tee — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/basic-crew-tee-black-ackermans.svg"
   },
   {
     id: "heavyweight-tee-white-redbat",
@@ -36,7 +36,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Heavyweight Tee — White from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/heavyweight-tee-white-redbat.svg"
   },
   {
     id: "heavyweight-tee-black-redbat",
@@ -49,7 +49,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Heavyweight Tee — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/heavyweight-tee-black-redbat.svg"
   },
   {
     id: "heavyweight-tee-navy-redbat",
@@ -61,7 +61,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Heavyweight Tee — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/heavyweight-tee-navy-redbat.svg"
   },
   {
     id: "graphic-tee-white-relay-jeans",
@@ -73,7 +73,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Graphic Tee — White from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/graphic-tee-white-relay-jeans.svg"
   },
   {
     id: "graphic-tee-black-relay-jeans",
@@ -85,7 +85,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Graphic Tee — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/graphic-tee-black-relay-jeans.svg"
   },
   {
     id: "graphic-tee-navy-relay-jeans",
@@ -97,7 +97,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Graphic Tee — Navy from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/graphic-tee-navy-relay-jeans.svg"
   },
   {
     id: "graphic-tee-grey-relay-jeans",
@@ -110,7 +110,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Graphic Tee — Grey from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/graphic-tee-grey-relay-jeans.svg"
   },
   {
     id: "vest-singlet-white-cotton-on",
@@ -123,7 +123,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Vest Singlet — White from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/vest-singlet-white-cotton-on.svg"
   },
   {
     id: "vest-singlet-black-cotton-on",
@@ -136,7 +136,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Vest Singlet — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/vest-singlet-black-cotton-on.svg"
   },
   {
     id: "long-sleeve-tee-white-g-star-raw",
@@ -149,7 +149,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Long-Sleeve Tee — White from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/long-sleeve-tee-white-g-star-raw.svg"
   },
   {
     id: "long-sleeve-tee-black-g-star-raw",
@@ -161,7 +161,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Long-Sleeve Tee — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/long-sleeve-tee-black-g-star-raw.svg"
   },
   {
     id: "long-sleeve-tee-navy-g-star-raw",
@@ -173,7 +173,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Long-Sleeve Tee — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/long-sleeve-tee-navy-g-star-raw.svg"
   },
   {
     id: "henley-tee-white-union-dnm",
@@ -185,7 +185,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Henley Tee — White from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/henley-tee-white-union-dnm.svg"
   },
   {
     id: "henley-tee-black-union-dnm",
@@ -198,7 +198,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Henley Tee — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/henley-tee-black-union-dnm.svg"
   },
   {
     id: "henley-tee-navy-union-dnm",
@@ -211,7 +211,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Henley Tee — Navy from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/henley-tee-navy-union-dnm.svg"
   },
   {
     id: "henley-tee-grey-union-dnm",
@@ -223,7 +223,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Henley Tee — Grey from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/henley-tee-grey-union-dnm.svg"
   },
   {
     id: "polo-shirt-white-diesel",
@@ -235,7 +235,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Polo Shirt — White from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/polo-shirt-white-diesel.svg"
   },
   {
     id: "polo-shirt-black-diesel",
@@ -247,7 +247,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Polo Shirt — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/polo-shirt-black-diesel.svg"
   },
   {
     id: "short-sleeve-shirt-white-puma",
@@ -259,7 +259,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Short-Sleeve Shirt — White from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/short-sleeve-shirt-white-puma.svg"
   },
   {
     id: "short-sleeve-shirt-black-puma",
@@ -271,7 +271,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Short-Sleeve Shirt — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/short-sleeve-shirt-black-puma.svg"
   },
   {
     id: "short-sleeve-shirt-navy-puma",
@@ -283,7 +283,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Short-Sleeve Shirt — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/short-sleeve-shirt-navy-puma.svg"
   },
   {
     id: "oxford-shirt-white-ackermans",
@@ -296,7 +296,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Oxford Shirt — White from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/oxford-shirt-white-ackermans.svg"
   },
   {
     id: "oxford-shirt-black-ackermans",
@@ -308,7 +308,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Oxford Shirt — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/oxford-shirt-black-ackermans.svg"
   },
   {
     id: "oxford-shirt-navy-ackermans",
@@ -321,7 +321,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Oxford Shirt — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/oxford-shirt-navy-ackermans.svg"
   },
   {
     id: "oxford-shirt-grey-ackermans",
@@ -333,7 +333,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Oxford Shirt — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/oxford-shirt-grey-ackermans.svg"
   },
   {
     id: "denim-shirt-white-redbat",
@@ -346,7 +346,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Denim Shirt — White from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/denim-shirt-white-redbat.svg"
   },
   {
     id: "denim-shirt-black-redbat",
@@ -358,7 +358,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Denim Shirt — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/denim-shirt-black-redbat.svg"
   },
   {
     id: "flannel-shirt-white-relay-jeans",
@@ -370,7 +370,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Flannel Shirt — White from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/flannel-shirt-white-relay-jeans.svg"
   },
   {
     id: "flannel-shirt-black-relay-jeans",
@@ -382,7 +382,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Flannel Shirt — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/flannel-shirt-black-relay-jeans.svg"
   },
   {
     id: "flannel-shirt-navy-relay-jeans",
@@ -395,7 +395,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Flannel Shirt — Navy from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/flannel-shirt-navy-relay-jeans.svg"
   },
   {
     id: "chambray-shirt-white-cotton-on",
@@ -407,7 +407,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Chambray Shirt — White from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/chambray-shirt-white-cotton-on.svg"
   },
   {
     id: "chambray-shirt-black-cotton-on",
@@ -419,7 +419,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Chambray Shirt — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/chambray-shirt-black-cotton-on.svg"
   },
   {
     id: "chambray-shirt-navy-cotton-on",
@@ -431,7 +431,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Chambray Shirt — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/chambray-shirt-navy-cotton-on.svg"
   },
   {
     id: "chambray-shirt-grey-cotton-on",
@@ -443,7 +443,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Chambray Shirt — Grey from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/chambray-shirt-grey-cotton-on.svg"
   },
   {
     id: "linen-shirt-white-g-star-raw",
@@ -456,7 +456,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Linen Shirt — White from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/linen-shirt-white-g-star-raw.svg"
   },
   {
     id: "linen-shirt-black-g-star-raw",
@@ -468,7 +468,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Linen Shirt — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/linen-shirt-black-g-star-raw.svg"
   },
   {
     id: "checked-shirt-white-union-dnm",
@@ -480,7 +480,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Checked Shirt — White from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/checked-shirt-white-union-dnm.svg"
   },
   {
     id: "checked-shirt-black-union-dnm",
@@ -492,7 +492,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Checked Shirt — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/checked-shirt-black-union-dnm.svg"
   },
   {
     id: "checked-shirt-navy-union-dnm",
@@ -505,7 +505,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Checked Shirt — Navy from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/checked-shirt-navy-union-dnm.svg"
   },
   {
     id: "formal-white-shirt-white-diesel",
@@ -517,7 +517,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Formal White Shirt — White from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/formal-white-shirt-white-diesel.svg"
   },
   {
     id: "formal-white-shirt-black-diesel",
@@ -529,7 +529,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Formal White Shirt — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/formal-white-shirt-black-diesel.svg"
   },
   {
     id: "formal-white-shirt-navy-diesel",
@@ -542,7 +542,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Formal White Shirt — Navy from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/formal-white-shirt-navy-diesel.svg"
   },
   {
     id: "formal-white-shirt-grey-diesel",
@@ -555,7 +555,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Formal White Shirt — Grey from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/formal-white-shirt-grey-diesel.svg"
   },
   {
     id: "twill-shirt-white-puma",
@@ -567,7 +567,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Twill Shirt — White from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/twill-shirt-white-puma.svg"
   },
   {
     id: "twill-shirt-black-puma",
@@ -579,7 +579,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Twill Shirt — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/twill-shirt-black-puma.svg"
   },
   {
     id: "crew-sweatshirt-white-ackermans",
@@ -592,7 +592,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Crew Sweatshirt — White from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/crew-sweatshirt-white-ackermans.svg"
   },
   {
     id: "crew-sweatshirt-black-ackermans",
@@ -605,7 +605,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Crew Sweatshirt — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/crew-sweatshirt-black-ackermans.svg"
   },
   {
     id: "crew-sweatshirt-navy-ackermans",
@@ -618,7 +618,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Crew Sweatshirt — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/crew-sweatshirt-navy-ackermans.svg"
   },
   {
     id: "hooded-sweatshirt-white-redbat",
@@ -631,7 +631,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Hooded Sweatshirt — White from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/hooded-sweatshirt-white-redbat.svg"
   },
   {
     id: "hooded-sweatshirt-black-redbat",
@@ -643,7 +643,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Hooded Sweatshirt — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/hooded-sweatshirt-black-redbat.svg"
   },
   {
     id: "hooded-sweatshirt-navy-redbat",
@@ -655,7 +655,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Hooded Sweatshirt — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/hooded-sweatshirt-navy-redbat.svg"
   },
   {
     id: "hooded-sweatshirt-grey-redbat",
@@ -668,7 +668,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Hooded Sweatshirt — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/hooded-sweatshirt-grey-redbat.svg"
   },
   {
     id: "zip-hoodie-white-relay-jeans",
@@ -680,7 +680,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Zip Hoodie — White from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/zip-hoodie-white-relay-jeans.svg"
   },
   {
     id: "zip-hoodie-black-relay-jeans",
@@ -692,7 +692,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Zip Hoodie — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/zip-hoodie-black-relay-jeans.svg"
   },
   {
     id: "track-top-white-cotton-on",
@@ -704,7 +704,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Track Top — White from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/track-top-white-cotton-on.svg"
   },
   {
     id: "track-top-black-cotton-on",
@@ -717,7 +717,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Track Top — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/track-top-black-cotton-on.svg"
   },
   {
     id: "track-top-navy-cotton-on",
@@ -729,7 +729,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Track Top — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/track-top-navy-cotton-on.svg"
   },
   {
     id: "quarter-zip-jersey-white-g-star-raw",
@@ -742,7 +742,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Quarter-Zip Jersey — White from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/quarter-zip-jersey-white-g-star-raw.svg"
   },
   {
     id: "quarter-zip-jersey-black-g-star-raw",
@@ -754,7 +754,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Quarter-Zip Jersey — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/quarter-zip-jersey-black-g-star-raw.svg"
   },
   {
     id: "quarter-zip-jersey-navy-g-star-raw",
@@ -767,7 +767,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Quarter-Zip Jersey — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/quarter-zip-jersey-navy-g-star-raw.svg"
   },
   {
     id: "quarter-zip-jersey-grey-g-star-raw",
@@ -779,7 +779,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Quarter-Zip Jersey — Grey from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/quarter-zip-jersey-grey-g-star-raw.svg"
   },
   {
     id: "rugby-jersey-white-union-dnm",
@@ -791,7 +791,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Rugby Jersey — White from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/rugby-jersey-white-union-dnm.svg"
   },
   {
     id: "rugby-jersey-black-union-dnm",
@@ -804,7 +804,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Rugby Jersey — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/rugby-jersey-black-union-dnm.svg"
   },
   {
     id: "knit-jumper-white-diesel",
@@ -816,7 +816,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Knit Jumper — White from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/knit-jumper-white-diesel.svg"
   },
   {
     id: "knit-jumper-black-diesel",
@@ -828,7 +828,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Knit Jumper — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/knit-jumper-black-diesel.svg"
   },
   {
     id: "knit-jumper-navy-diesel",
@@ -841,7 +841,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Knit Jumper — Navy from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/knit-jumper-navy-diesel.svg"
   },
   {
     id: "cardigan-white-puma",
@@ -853,7 +853,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cardigan — White from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cardigan-white-puma.svg"
   },
   {
     id: "cardigan-black-puma",
@@ -865,7 +865,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cardigan — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cardigan-black-puma.svg"
   },
   {
     id: "cardigan-navy-puma",
@@ -878,7 +878,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cardigan — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cardigan-navy-puma.svg"
   },
   {
     id: "cardigan-grey-puma",
@@ -890,7 +890,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cardigan — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cardigan-grey-puma.svg"
   },
   {
     id: "crewneck-jumper-white-ackermans",
@@ -902,7 +902,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Crewneck Jumper — White from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/crewneck-jumper-white-ackermans.svg"
   },
   {
     id: "crewneck-jumper-black-ackermans",
@@ -915,7 +915,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Crewneck Jumper — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/crewneck-jumper-black-ackermans.svg"
   },
   {
     id: "v-neck-jumper-white-redbat",
@@ -927,7 +927,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "V-Neck Jumper — White from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/v-neck-jumper-white-redbat.svg"
   },
   {
     id: "v-neck-jumper-black-redbat",
@@ -939,7 +939,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "V-Neck Jumper — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/v-neck-jumper-black-redbat.svg"
   },
   {
     id: "v-neck-jumper-navy-redbat",
@@ -952,7 +952,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "V-Neck Jumper — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/v-neck-jumper-navy-redbat.svg"
   },
   {
     id: "turtleneck-jumper-white-relay-jeans",
@@ -964,7 +964,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Turtleneck Jumper — White from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/turtleneck-jumper-white-relay-jeans.svg"
   },
   {
     id: "turtleneck-jumper-black-relay-jeans",
@@ -977,7 +977,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Turtleneck Jumper — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/turtleneck-jumper-black-relay-jeans.svg"
   },
   {
     id: "turtleneck-jumper-navy-relay-jeans",
@@ -989,7 +989,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Turtleneck Jumper — Navy from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/turtleneck-jumper-navy-relay-jeans.svg"
   },
   {
     id: "turtleneck-jumper-grey-relay-jeans",
@@ -1002,7 +1002,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Turtleneck Jumper — Grey from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/turtleneck-jumper-grey-relay-jeans.svg"
   },
   {
     id: "cable-knit-jumper-white-cotton-on",
@@ -1014,7 +1014,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cable Knit Jumper — White from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cable-knit-jumper-white-cotton-on.svg"
   },
   {
     id: "cable-knit-jumper-black-cotton-on",
@@ -1027,7 +1027,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cable Knit Jumper — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cable-knit-jumper-black-cotton-on.svg"
   },
   {
     id: "slim-fit-jeans-navy-redbat",
@@ -1039,7 +1039,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Slim Fit Jeans — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/slim-fit-jeans-navy-redbat.svg"
   },
   {
     id: "slim-fit-jeans-black-redbat",
@@ -1051,7 +1051,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Slim Fit Jeans — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/slim-fit-jeans-black-redbat.svg"
   },
   {
     id: "straight-jeans-navy-relay-jeans",
@@ -1063,7 +1063,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Straight Jeans — Navy from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/straight-jeans-navy-relay-jeans.svg"
   },
   {
     id: "straight-jeans-black-relay-jeans",
@@ -1075,7 +1075,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Straight Jeans — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/straight-jeans-black-relay-jeans.svg"
   },
   {
     id: "straight-jeans-denim-blue-relay-jeans",
@@ -1088,7 +1088,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Straight Jeans — Denim Blue from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/straight-jeans-denim-blue-relay-jeans.svg"
   },
   {
     id: "regular-fit-jeans-navy-cotton-on",
@@ -1101,7 +1101,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Regular Fit Jeans — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/regular-fit-jeans-navy-cotton-on.svg"
   },
   {
     id: "regular-fit-jeans-black-cotton-on",
@@ -1114,7 +1114,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Regular Fit Jeans — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/regular-fit-jeans-black-cotton-on.svg"
   },
   {
     id: "skinny-jeans-navy-g-star-raw",
@@ -1126,7 +1126,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Skinny Jeans — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/skinny-jeans-navy-g-star-raw.svg"
   },
   {
     id: "skinny-jeans-black-g-star-raw",
@@ -1138,7 +1138,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Skinny Jeans — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/skinny-jeans-black-g-star-raw.svg"
   },
   {
     id: "skinny-jeans-denim-blue-g-star-raw",
@@ -1151,7 +1151,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Skinny Jeans — Denim Blue from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/skinny-jeans-denim-blue-g-star-raw.svg"
   },
   {
     id: "tapered-jeans-navy-union-dnm",
@@ -1164,7 +1164,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Tapered Jeans — Navy from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/tapered-jeans-navy-union-dnm.svg"
   },
   {
     id: "tapered-jeans-black-union-dnm",
@@ -1177,7 +1177,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Tapered Jeans — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/tapered-jeans-black-union-dnm.svg"
   },
   {
     id: "relaxed-jeans-navy-diesel",
@@ -1189,7 +1189,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Relaxed Jeans — Navy from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/relaxed-jeans-navy-diesel.svg"
   },
   {
     id: "relaxed-jeans-black-diesel",
@@ -1201,7 +1201,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Relaxed Jeans — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/relaxed-jeans-black-diesel.svg"
   },
   {
     id: "relaxed-jeans-denim-blue-diesel",
@@ -1213,7 +1213,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Relaxed Jeans — Denim Blue from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/relaxed-jeans-denim-blue-diesel.svg"
   },
   {
     id: "chinos-navy-puma",
@@ -1226,7 +1226,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Chinos — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/chinos-navy-puma.svg"
   },
   {
     id: "chinos-black-puma",
@@ -1238,7 +1238,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Chinos — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/chinos-black-puma.svg"
   },
   {
     id: "slim-chinos-navy-ackermans",
@@ -1251,7 +1251,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Slim Chinos — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/slim-chinos-navy-ackermans.svg"
   },
   {
     id: "slim-chinos-black-ackermans",
@@ -1263,7 +1263,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Slim Chinos — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/slim-chinos-black-ackermans.svg"
   },
   {
     id: "slim-chinos-denim-blue-ackermans",
@@ -1275,7 +1275,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Slim Chinos — Denim Blue from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/slim-chinos-denim-blue-ackermans.svg"
   },
   {
     id: "cargo-pants-navy-redbat",
@@ -1287,7 +1287,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cargo Pants — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cargo-pants-navy-redbat.svg"
   },
   {
     id: "cargo-pants-black-redbat",
@@ -1300,7 +1300,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cargo Pants — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cargo-pants-black-redbat.svg"
   },
   {
     id: "jogger-pants-navy-relay-jeans",
@@ -1312,7 +1312,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Jogger Pants — Navy from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/jogger-pants-navy-relay-jeans.svg"
   },
   {
     id: "jogger-pants-black-relay-jeans",
@@ -1324,7 +1324,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Jogger Pants — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/jogger-pants-black-relay-jeans.svg"
   },
   {
     id: "jogger-pants-denim-blue-relay-jeans",
@@ -1337,7 +1337,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Jogger Pants — Denim Blue from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/jogger-pants-denim-blue-relay-jeans.svg"
   },
   {
     id: "track-pants-navy-cotton-on",
@@ -1349,7 +1349,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Track Pants — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/track-pants-navy-cotton-on.svg"
   },
   {
     id: "track-pants-black-cotton-on",
@@ -1362,7 +1362,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Track Pants — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/track-pants-black-cotton-on.svg"
   },
   {
     id: "twill-pants-navy-g-star-raw",
@@ -1375,7 +1375,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Twill Pants — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/twill-pants-navy-g-star-raw.svg"
   },
   {
     id: "twill-pants-black-g-star-raw",
@@ -1387,7 +1387,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Twill Pants — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/twill-pants-black-g-star-raw.svg"
   },
   {
     id: "twill-pants-denim-blue-g-star-raw",
@@ -1400,7 +1400,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Twill Pants — Denim Blue from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/twill-pants-denim-blue-g-star-raw.svg"
   },
   {
     id: "linen-trousers-navy-union-dnm",
@@ -1413,7 +1413,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Linen Trousers — Navy from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/linen-trousers-navy-union-dnm.svg"
   },
   {
     id: "linen-trousers-black-union-dnm",
@@ -1425,7 +1425,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Linen Trousers — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/linen-trousers-black-union-dnm.svg"
   },
   {
     id: "dress-trousers-navy-diesel",
@@ -1437,7 +1437,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Dress Trousers — Navy from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/dress-trousers-navy-diesel.svg"
   },
   {
     id: "dress-trousers-black-diesel",
@@ -1450,7 +1450,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Dress Trousers — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/dress-trousers-black-diesel.svg"
   },
   {
     id: "dress-trousers-denim-blue-diesel",
@@ -1462,7 +1462,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Dress Trousers — Denim Blue from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/dress-trousers-denim-blue-diesel.svg"
   },
   {
     id: "cargo-shorts-navy-puma",
@@ -1474,7 +1474,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cargo Shorts — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cargo-shorts-navy-puma.svg"
   },
   {
     id: "cargo-shorts-black-puma",
@@ -1486,7 +1486,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Cargo Shorts — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/cargo-shorts-black-puma.svg"
   },
   {
     id: "chino-shorts-navy-ackermans",
@@ -1498,7 +1498,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Chino Shorts — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/chino-shorts-navy-ackermans.svg"
   },
   {
     id: "chino-shorts-black-ackermans",
@@ -1511,7 +1511,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Chino Shorts — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/chino-shorts-black-ackermans.svg"
   },
   {
     id: "chino-shorts-denim-blue-ackermans",
@@ -1524,7 +1524,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Chino Shorts — Denim Blue from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/chino-shorts-denim-blue-ackermans.svg"
   },
   {
     id: "denim-shorts-navy-redbat",
@@ -1536,7 +1536,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Denim Shorts — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/denim-shorts-navy-redbat.svg"
   },
   {
     id: "denim-shorts-black-redbat",
@@ -1548,7 +1548,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Denim Shorts — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/denim-shorts-black-redbat.svg"
   },
   {
     id: "athletic-shorts-navy-relay-jeans",
@@ -1561,7 +1561,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Athletic Shorts — Navy from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/athletic-shorts-navy-relay-jeans.svg"
   },
   {
     id: "athletic-shorts-black-relay-jeans",
@@ -1573,7 +1573,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Athletic Shorts — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/athletic-shorts-black-relay-jeans.svg"
   },
   {
     id: "athletic-shorts-denim-blue-relay-jeans",
@@ -1585,7 +1585,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Athletic Shorts — Denim Blue from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/athletic-shorts-denim-blue-relay-jeans.svg"
   },
   {
     id: "swim-shorts-navy-cotton-on",
@@ -1597,7 +1597,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Swim Shorts — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/swim-shorts-navy-cotton-on.svg"
   },
   {
     id: "swim-shorts-black-cotton-on",
@@ -1609,7 +1609,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Swim Shorts — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/swim-shorts-black-cotton-on.svg"
   },
   {
     id: "board-shorts-navy-g-star-raw",
@@ -1622,7 +1622,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Board Shorts — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/board-shorts-navy-g-star-raw.svg"
   },
   {
     id: "board-shorts-black-g-star-raw",
@@ -1634,7 +1634,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Board Shorts — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/board-shorts-black-g-star-raw.svg"
   },
   {
     id: "board-shorts-denim-blue-g-star-raw",
@@ -1646,7 +1646,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Board Shorts — Denim Blue from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/board-shorts-denim-blue-g-star-raw.svg"
   },
   {
     id: "bermuda-shorts-navy-union-dnm",
@@ -1658,7 +1658,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Bermuda Shorts — Navy from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/bermuda-shorts-navy-union-dnm.svg"
   },
   {
     id: "bermuda-shorts-black-union-dnm",
@@ -1670,7 +1670,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Bermuda Shorts — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/bermuda-shorts-black-union-dnm.svg"
   },
   {
     id: "5-pocket-jeans-navy-diesel",
@@ -1682,7 +1682,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "5-Pocket Jeans — Navy from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/5-pocket-jeans-navy-diesel.svg"
   },
   {
     id: "5-pocket-jeans-black-diesel",
@@ -1694,7 +1694,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "5-Pocket Jeans — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/5-pocket-jeans-black-diesel.svg"
   },
   {
     id: "5-pocket-jeans-denim-blue-diesel",
@@ -1706,7 +1706,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "5-Pocket Jeans — Denim Blue from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/5-pocket-jeans-denim-blue-diesel.svg"
   },
   {
     id: "denim-jacket-black-relay-jeans",
@@ -1718,7 +1718,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Denim Jacket — Black from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/denim-jacket-black-relay-jeans.svg"
   },
   {
     id: "denim-jacket-navy-relay-jeans",
@@ -1731,7 +1731,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Denim Jacket — Navy from Relay Jeans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/denim-jacket-navy-relay-jeans.svg"
   },
   {
     id: "bomber-jacket-black-cotton-on",
@@ -1744,7 +1744,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Bomber Jacket — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/bomber-jacket-black-cotton-on.svg"
   },
   {
     id: "bomber-jacket-navy-cotton-on",
@@ -1757,7 +1757,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Bomber Jacket — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/bomber-jacket-navy-cotton-on.svg"
   },
   {
     id: "bomber-jacket-grey-cotton-on",
@@ -1769,7 +1769,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Bomber Jacket — Grey from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/bomber-jacket-grey-cotton-on.svg"
   },
   {
     id: "harrington-jacket-black-g-star-raw",
@@ -1782,7 +1782,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Harrington Jacket — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/harrington-jacket-black-g-star-raw.svg"
   },
   {
     id: "harrington-jacket-navy-g-star-raw",
@@ -1795,7 +1795,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Harrington Jacket — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/harrington-jacket-navy-g-star-raw.svg"
   },
   {
     id: "puffer-jacket-black-union-dnm",
@@ -1807,7 +1807,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Puffer Jacket — Black from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/puffer-jacket-black-union-dnm.svg"
   },
   {
     id: "puffer-jacket-navy-union-dnm",
@@ -1820,7 +1820,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Puffer Jacket — Navy from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/puffer-jacket-navy-union-dnm.svg"
   },
   {
     id: "puffer-jacket-grey-union-dnm",
@@ -1832,7 +1832,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Puffer Jacket — Grey from Union DNM — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/puffer-jacket-grey-union-dnm.svg"
   },
   {
     id: "parka-coat-black-diesel",
@@ -1844,7 +1844,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Parka Coat — Black from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/parka-coat-black-diesel.svg"
   },
   {
     id: "parka-coat-navy-diesel",
@@ -1856,7 +1856,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Parka Coat — Navy from Diesel — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/parka-coat-navy-diesel.svg"
   },
   {
     id: "trench-coat-black-puma",
@@ -1868,7 +1868,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Trench Coat — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/trench-coat-black-puma.svg"
   },
   {
     id: "trench-coat-navy-puma",
@@ -1880,7 +1880,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Trench Coat — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/trench-coat-navy-puma.svg"
   },
   {
     id: "trench-coat-grey-puma",
@@ -1892,7 +1892,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Trench Coat — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/trench-coat-grey-puma.svg"
   },
   {
     id: "biker-jacket-black-ackermans",
@@ -1905,7 +1905,7 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Biker Jacket — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/biker-jacket-black-ackermans.svg"
   },
   {
     id: "biker-jacket-navy-ackermans",
@@ -1917,6 +1917,6 @@ const PRODUCTS_MENS_CLOTHING = [
     description: "Biker Jacket — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/mens.svg"
+    image: "images/ph/biker-jacket-navy-ackermans.svg"
   }
 ];

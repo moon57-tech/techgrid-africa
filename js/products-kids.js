@@ -10,7 +10,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Floral Dress — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-floral-dress-navy-ackermans.svg"
   },
   {
     id: "girls-floral-dress-grey-ackermans",
@@ -22,7 +22,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Floral Dress — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-floral-dress-grey-ackermans.svg"
   },
   {
     id: "girls-party-dress-navy-redbat",
@@ -35,7 +35,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Party Dress — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-party-dress-navy-redbat.svg"
   },
   {
     id: "girls-party-dress-grey-redbat",
@@ -47,7 +47,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Party Dress — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-party-dress-grey-redbat.svg"
   },
   {
     id: "girls-party-dress-black-redbat",
@@ -59,7 +59,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Party Dress — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-party-dress-black-redbat.svg"
   },
   {
     id: "girls-denim-dress-navy-exact",
@@ -71,7 +71,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Denim Dress — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-denim-dress-navy-exact.svg"
   },
   {
     id: "girls-denim-dress-grey-exact",
@@ -84,7 +84,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Denim Dress — Grey from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-denim-dress-grey-exact.svg"
   },
   {
     id: "girls-denim-dress-black-exact",
@@ -96,7 +96,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Denim Dress — Black from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-denim-dress-black-exact.svg"
   },
   {
     id: "girls-denim-dress-pink-exact",
@@ -109,7 +109,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Denim Dress — Pink from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-denim-dress-pink-exact.svg"
   },
   {
     id: "girls-summer-dress-navy-soda-bloc",
@@ -122,7 +122,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Summer Dress — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-summer-dress-navy-soda-bloc.svg"
   },
   {
     id: "girls-summer-dress-grey-soda-bloc",
@@ -135,7 +135,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Summer Dress — Grey from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-summer-dress-grey-soda-bloc.svg"
   },
   {
     id: "girls-tulle-dress-navy-cotton-on-kids",
@@ -147,7 +147,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tulle Dress — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tulle-dress-navy-cotton-on-kids.svg"
   },
   {
     id: "girls-tulle-dress-grey-cotton-on-kids",
@@ -160,7 +160,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tulle Dress — Grey from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tulle-dress-grey-cotton-on-kids.svg"
   },
   {
     id: "girls-tulle-dress-black-cotton-on-kids",
@@ -173,7 +173,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tulle Dress — Black from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tulle-dress-black-cotton-on-kids.svg"
   },
   {
     id: "girls-pinafore-dress-navy-puma",
@@ -186,7 +186,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Pinafore Dress — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-pinafore-dress-navy-puma.svg"
   },
   {
     id: "girls-pinafore-dress-grey-puma",
@@ -199,7 +199,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Pinafore Dress — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-pinafore-dress-grey-puma.svg"
   },
   {
     id: "girls-pinafore-dress-black-puma",
@@ -211,7 +211,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Pinafore Dress — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-pinafore-dress-black-puma.svg"
   },
   {
     id: "girls-pinafore-dress-pink-puma",
@@ -223,7 +223,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Pinafore Dress — Pink from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-pinafore-dress-pink-puma.svg"
   },
   {
     id: "boys-basic-tee-navy-converse",
@@ -236,7 +236,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Basic Tee — Navy from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-basic-tee-navy-converse.svg"
   },
   {
     id: "boys-basic-tee-grey-converse",
@@ -248,7 +248,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Basic Tee — Grey from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-basic-tee-grey-converse.svg"
   },
   {
     id: "girls-basic-tee-navy-adidas-kids",
@@ -260,7 +260,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Basic Tee — Navy from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-basic-tee-navy-adidas-kids.svg"
   },
   {
     id: "girls-basic-tee-grey-adidas-kids",
@@ -272,7 +272,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Basic Tee — Grey from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-basic-tee-grey-adidas-kids.svg"
   },
   {
     id: "girls-basic-tee-black-adidas-kids",
@@ -285,7 +285,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Basic Tee — Black from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-basic-tee-black-adidas-kids.svg"
   },
   {
     id: "kids-graphic-tee-navy-ackermans",
@@ -297,7 +297,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Graphic Tee — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-graphic-tee-navy-ackermans.svg"
   },
   {
     id: "kids-graphic-tee-grey-ackermans",
@@ -309,7 +309,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Graphic Tee — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-graphic-tee-grey-ackermans.svg"
   },
   {
     id: "kids-graphic-tee-black-ackermans",
@@ -321,7 +321,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Graphic Tee — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-graphic-tee-black-ackermans.svg"
   },
   {
     id: "kids-graphic-tee-pink-ackermans",
@@ -333,7 +333,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Graphic Tee — Pink from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-graphic-tee-pink-ackermans.svg"
   },
   {
     id: "boys-polo-shirt-navy-redbat",
@@ -346,7 +346,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Polo Shirt — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-polo-shirt-navy-redbat.svg"
   },
   {
     id: "boys-polo-shirt-grey-redbat",
@@ -358,7 +358,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Polo Shirt — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-polo-shirt-grey-redbat.svg"
   },
   {
     id: "girls-blouse-navy-exact",
@@ -370,7 +370,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Blouse — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-blouse-navy-exact.svg"
   },
   {
     id: "girls-blouse-grey-exact",
@@ -383,7 +383,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Blouse — Grey from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-blouse-grey-exact.svg"
   },
   {
     id: "girls-blouse-black-exact",
@@ -396,7 +396,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Blouse — Black from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-blouse-black-exact.svg"
   },
   {
     id: "kids-long-sleeve-top-navy-soda-bloc",
@@ -408,7 +408,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Long-Sleeve Top — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-long-sleeve-top-navy-soda-bloc.svg"
   },
   {
     id: "kids-long-sleeve-top-grey-soda-bloc",
@@ -420,7 +420,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Long-Sleeve Top — Grey from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-long-sleeve-top-grey-soda-bloc.svg"
   },
   {
     id: "kids-long-sleeve-top-black-soda-bloc",
@@ -432,7 +432,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Long-Sleeve Top — Black from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-long-sleeve-top-black-soda-bloc.svg"
   },
   {
     id: "kids-long-sleeve-top-pink-soda-bloc",
@@ -444,7 +444,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Long-Sleeve Top — Pink from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-long-sleeve-top-pink-soda-bloc.svg"
   },
   {
     id: "kids-hoodie-navy-cotton-on-kids",
@@ -456,7 +456,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Hoodie — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-hoodie-navy-cotton-on-kids.svg"
   },
   {
     id: "kids-hoodie-grey-cotton-on-kids",
@@ -468,7 +468,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Hoodie — Grey from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-hoodie-grey-cotton-on-kids.svg"
   },
   {
     id: "kids-zip-hoodie-navy-puma",
@@ -481,7 +481,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Zip Hoodie — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-zip-hoodie-navy-puma.svg"
   },
   {
     id: "kids-zip-hoodie-grey-puma",
@@ -493,7 +493,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Zip Hoodie — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-zip-hoodie-grey-puma.svg"
   },
   {
     id: "kids-zip-hoodie-black-puma",
@@ -505,7 +505,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Zip Hoodie — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-zip-hoodie-black-puma.svg"
   },
   {
     id: "kids-sweatshirt-navy-converse",
@@ -517,7 +517,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Sweatshirt — Navy from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-sweatshirt-navy-converse.svg"
   },
   {
     id: "kids-sweatshirt-grey-converse",
@@ -529,7 +529,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Sweatshirt — Grey from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-sweatshirt-grey-converse.svg"
   },
   {
     id: "kids-sweatshirt-black-converse",
@@ -541,7 +541,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Sweatshirt — Black from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-sweatshirt-black-converse.svg"
   },
   {
     id: "kids-sweatshirt-pink-converse",
@@ -553,7 +553,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Sweatshirt — Pink from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-sweatshirt-pink-converse.svg"
   },
   {
     id: "kids-track-top-navy-adidas-kids",
@@ -566,7 +566,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Track Top — Navy from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-track-top-navy-adidas-kids.svg"
   },
   {
     id: "kids-track-top-grey-adidas-kids",
@@ -579,7 +579,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Track Top — Grey from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-track-top-grey-adidas-kids.svg"
   },
   {
     id: "boys-tracksuit-set-navy-ackermans",
@@ -591,7 +591,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Tracksuit Set — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-tracksuit-set-navy-ackermans.svg"
   },
   {
     id: "boys-tracksuit-set-grey-ackermans",
@@ -603,7 +603,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Tracksuit Set — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-tracksuit-set-grey-ackermans.svg"
   },
   {
     id: "boys-tracksuit-set-black-ackermans",
@@ -615,7 +615,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Tracksuit Set — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-tracksuit-set-black-ackermans.svg"
   },
   {
     id: "girls-tracksuit-set-navy-redbat",
@@ -627,7 +627,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tracksuit Set — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tracksuit-set-navy-redbat.svg"
   },
   {
     id: "girls-tracksuit-set-grey-redbat",
@@ -639,7 +639,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tracksuit Set — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tracksuit-set-grey-redbat.svg"
   },
   {
     id: "girls-tracksuit-set-black-redbat",
@@ -651,7 +651,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tracksuit Set — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tracksuit-set-black-redbat.svg"
   },
   {
     id: "girls-tracksuit-set-pink-redbat",
@@ -663,7 +663,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tracksuit Set — Pink from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tracksuit-set-pink-redbat.svg"
   },
   {
     id: "boys-denim-jeans-navy-exact",
@@ -676,7 +676,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Denim Jeans — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-denim-jeans-navy-exact.svg"
   },
   {
     id: "boys-denim-jeans-grey-exact",
@@ -688,7 +688,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Denim Jeans — Grey from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-denim-jeans-grey-exact.svg"
   },
   {
     id: "girls-denim-jeans-navy-soda-bloc",
@@ -701,7 +701,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Denim Jeans — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-denim-jeans-navy-soda-bloc.svg"
   },
   {
     id: "girls-denim-jeans-grey-soda-bloc",
@@ -714,7 +714,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Denim Jeans — Grey from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-denim-jeans-grey-soda-bloc.svg"
   },
   {
     id: "girls-denim-jeans-black-soda-bloc",
@@ -726,7 +726,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Denim Jeans — Black from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-denim-jeans-black-soda-bloc.svg"
   },
   {
     id: "kids-joggers-navy-cotton-on-kids",
@@ -738,7 +738,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Joggers — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-joggers-navy-cotton-on-kids.svg"
   },
   {
     id: "kids-joggers-grey-cotton-on-kids",
@@ -750,7 +750,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Joggers — Grey from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-joggers-grey-cotton-on-kids.svg"
   },
   {
     id: "kids-joggers-black-cotton-on-kids",
@@ -762,7 +762,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Joggers — Black from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-joggers-black-cotton-on-kids.svg"
   },
   {
     id: "kids-joggers-pink-cotton-on-kids",
@@ -774,7 +774,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Joggers — Pink from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-joggers-pink-cotton-on-kids.svg"
   },
   {
     id: "girls-leggings-navy-puma",
@@ -786,7 +786,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Leggings — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-leggings-navy-puma.svg"
   },
   {
     id: "girls-leggings-grey-puma",
@@ -799,7 +799,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Leggings — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-leggings-grey-puma.svg"
   },
   {
     id: "boys-cargo-pants-navy-converse",
@@ -811,7 +811,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Cargo Pants — Navy from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-cargo-pants-navy-converse.svg"
   },
   {
     id: "boys-cargo-pants-grey-converse",
@@ -823,7 +823,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Cargo Pants — Grey from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-cargo-pants-grey-converse.svg"
   },
   {
     id: "boys-cargo-pants-black-converse",
@@ -835,7 +835,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Cargo Pants — Black from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-cargo-pants-black-converse.svg"
   },
   {
     id: "kids-chinos-navy-adidas-kids",
@@ -847,7 +847,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Chinos — Navy from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-chinos-navy-adidas-kids.svg"
   },
   {
     id: "kids-chinos-grey-adidas-kids",
@@ -860,7 +860,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Chinos — Grey from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-chinos-grey-adidas-kids.svg"
   },
   {
     id: "kids-chinos-black-adidas-kids",
@@ -872,7 +872,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Chinos — Black from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-chinos-black-adidas-kids.svg"
   },
   {
     id: "kids-chinos-pink-adidas-kids",
@@ -884,7 +884,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Chinos — Pink from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-chinos-pink-adidas-kids.svg"
   },
   {
     id: "kids-shorts-navy-ackermans",
@@ -896,7 +896,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Shorts — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-shorts-navy-ackermans.svg"
   },
   {
     id: "kids-shorts-grey-ackermans",
@@ -909,7 +909,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Shorts — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-shorts-grey-ackermans.svg"
   },
   {
     id: "boys-swimmers-navy-redbat",
@@ -921,7 +921,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Swimmers — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-swimmers-navy-redbat.svg"
   },
   {
     id: "boys-swimmers-grey-redbat",
@@ -933,7 +933,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Swimmers — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-swimmers-grey-redbat.svg"
   },
   {
     id: "boys-swimmers-black-redbat",
@@ -945,7 +945,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Swimmers — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-swimmers-black-redbat.svg"
   },
   {
     id: "girls-swimsuit-navy-exact",
@@ -957,7 +957,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Swimsuit — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-swimsuit-navy-exact.svg"
   },
   {
     id: "girls-swimsuit-grey-exact",
@@ -970,7 +970,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Swimsuit — Grey from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-swimsuit-grey-exact.svg"
   },
   {
     id: "girls-swimsuit-black-exact",
@@ -982,7 +982,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Swimsuit — Black from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-swimsuit-black-exact.svg"
   },
   {
     id: "girls-swimsuit-pink-exact",
@@ -994,7 +994,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Swimsuit — Pink from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-swimsuit-pink-exact.svg"
   },
   {
     id: "kids-rash-vest-navy-soda-bloc",
@@ -1006,7 +1006,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Rash Vest — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-rash-vest-navy-soda-bloc.svg"
   },
   {
     id: "kids-rash-vest-grey-soda-bloc",
@@ -1018,7 +1018,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Rash Vest — Grey from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-rash-vest-grey-soda-bloc.svg"
   },
   {
     id: "kids-rain-jacket-navy-cotton-on-kids",
@@ -1030,7 +1030,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Rain Jacket — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-rain-jacket-navy-cotton-on-kids.svg"
   },
   {
     id: "kids-rain-jacket-grey-cotton-on-kids",
@@ -1042,7 +1042,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Rain Jacket — Grey from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-rain-jacket-grey-cotton-on-kids.svg"
   },
   {
     id: "kids-rain-jacket-black-cotton-on-kids",
@@ -1055,7 +1055,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Rain Jacket — Black from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-rain-jacket-black-cotton-on-kids.svg"
   },
   {
     id: "kids-puffer-jacket-navy-puma",
@@ -1067,7 +1067,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Puffer Jacket — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-puffer-jacket-navy-puma.svg"
   },
   {
     id: "kids-puffer-jacket-grey-puma",
@@ -1079,7 +1079,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Puffer Jacket — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-puffer-jacket-grey-puma.svg"
   },
   {
     id: "kids-puffer-jacket-black-puma",
@@ -1091,7 +1091,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Puffer Jacket — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-puffer-jacket-black-puma.svg"
   },
   {
     id: "kids-puffer-jacket-pink-puma",
@@ -1103,7 +1103,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Puffer Jacket — Pink from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-puffer-jacket-pink-puma.svg"
   },
   {
     id: "kids-denim-jacket-navy-converse",
@@ -1115,7 +1115,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Denim Jacket — Navy from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-denim-jacket-navy-converse.svg"
   },
   {
     id: "kids-denim-jacket-grey-converse",
@@ -1127,7 +1127,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Denim Jacket — Grey from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-denim-jacket-grey-converse.svg"
   },
   {
     id: "kids-bomber-jacket-navy-adidas-kids",
@@ -1139,7 +1139,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Bomber Jacket — Navy from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-bomber-jacket-navy-adidas-kids.svg"
   },
   {
     id: "kids-bomber-jacket-grey-adidas-kids",
@@ -1151,7 +1151,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Bomber Jacket — Grey from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-bomber-jacket-grey-adidas-kids.svg"
   },
   {
     id: "kids-bomber-jacket-black-adidas-kids",
@@ -1163,7 +1163,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Bomber Jacket — Black from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-bomber-jacket-black-adidas-kids.svg"
   },
   {
     id: "kids-cardigan-navy-ackermans",
@@ -1175,7 +1175,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Cardigan — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-cardigan-navy-ackermans.svg"
   },
   {
     id: "kids-cardigan-grey-ackermans",
@@ -1187,7 +1187,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Cardigan — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-cardigan-grey-ackermans.svg"
   },
   {
     id: "kids-cardigan-black-ackermans",
@@ -1200,7 +1200,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Cardigan — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-cardigan-black-ackermans.svg"
   },
   {
     id: "kids-cardigan-pink-ackermans",
@@ -1212,7 +1212,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Cardigan — Pink from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-cardigan-pink-ackermans.svg"
   },
   {
     id: "kids-knit-jumper-navy-redbat",
@@ -1224,7 +1224,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Knit Jumper — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-knit-jumper-navy-redbat.svg"
   },
   {
     id: "kids-knit-jumper-grey-redbat",
@@ -1236,7 +1236,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Knit Jumper — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-knit-jumper-grey-redbat.svg"
   },
   {
     id: "kids-pyjama-set-navy-exact",
@@ -1248,7 +1248,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Pyjama Set — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-pyjama-set-navy-exact.svg"
   },
   {
     id: "kids-pyjama-set-grey-exact",
@@ -1261,7 +1261,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Pyjama Set — Grey from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-pyjama-set-grey-exact.svg"
   },
   {
     id: "kids-pyjama-set-black-exact",
@@ -1273,7 +1273,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Pyjama Set — Black from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-pyjama-set-black-exact.svg"
   },
   {
     id: "kids-flannel-pyjamas-navy-soda-bloc",
@@ -1286,7 +1286,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Flannel Pyjamas — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-flannel-pyjamas-navy-soda-bloc.svg"
   },
   {
     id: "kids-flannel-pyjamas-grey-soda-bloc",
@@ -1298,7 +1298,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Flannel Pyjamas — Grey from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-flannel-pyjamas-grey-soda-bloc.svg"
   },
   {
     id: "kids-flannel-pyjamas-black-soda-bloc",
@@ -1310,7 +1310,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Flannel Pyjamas — Black from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-flannel-pyjamas-black-soda-bloc.svg"
   },
   {
     id: "kids-flannel-pyjamas-pink-soda-bloc",
@@ -1322,7 +1322,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Flannel Pyjamas — Pink from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-flannel-pyjamas-pink-soda-bloc.svg"
   },
   {
     id: "kids-nightshirt-navy-cotton-on-kids",
@@ -1334,7 +1334,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Nightshirt — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-nightshirt-navy-cotton-on-kids.svg"
   },
   {
     id: "kids-nightshirt-grey-cotton-on-kids",
@@ -1346,7 +1346,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Nightshirt — Grey from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-nightshirt-grey-cotton-on-kids.svg"
   },
   {
     id: "kids-onesie-navy-puma",
@@ -1358,7 +1358,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Onesie — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-onesie-navy-puma.svg"
   },
   {
     id: "kids-onesie-grey-puma",
@@ -1370,7 +1370,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Onesie — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-onesie-grey-puma.svg"
   },
   {
     id: "kids-onesie-black-puma",
@@ -1383,7 +1383,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Onesie — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-onesie-black-puma.svg"
   },
   {
     id: "baby-grow-set-navy-converse",
@@ -1395,7 +1395,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Grow Set — Navy from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-grow-set-navy-converse.svg"
   },
   {
     id: "baby-grow-set-grey-converse",
@@ -1407,7 +1407,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Grow Set — Grey from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-grow-set-grey-converse.svg"
   },
   {
     id: "baby-grow-set-black-converse",
@@ -1419,7 +1419,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Grow Set — Black from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-grow-set-black-converse.svg"
   },
   {
     id: "baby-grow-set-pink-converse",
@@ -1431,7 +1431,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Grow Set — Pink from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-grow-set-pink-converse.svg"
   },
   {
     id: "baby-bodysuit-3-pack-navy-adidas-kids",
@@ -1444,7 +1444,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Bodysuit 3-Pack — Navy from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-bodysuit-3-pack-navy-adidas-kids.svg"
   },
   {
     id: "baby-bodysuit-3-pack-grey-adidas-kids",
@@ -1456,7 +1456,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Bodysuit 3-Pack — Grey from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-bodysuit-3-pack-grey-adidas-kids.svg"
   },
   {
     id: "baby-set-outfit-navy-ackermans",
@@ -1468,7 +1468,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Set Outfit — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-set-outfit-navy-ackermans.svg"
   },
   {
     id: "baby-set-outfit-grey-ackermans",
@@ -1480,7 +1480,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Set Outfit — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-set-outfit-grey-ackermans.svg"
   },
   {
     id: "baby-set-outfit-black-ackermans",
@@ -1492,7 +1492,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Set Outfit — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-set-outfit-black-ackermans.svg"
   },
   {
     id: "baby-sleepsuit-navy-redbat",
@@ -1505,7 +1505,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Sleepsuit — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-sleepsuit-navy-redbat.svg"
   },
   {
     id: "baby-sleepsuit-grey-redbat",
@@ -1517,7 +1517,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Sleepsuit — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-sleepsuit-grey-redbat.svg"
   },
   {
     id: "baby-sleepsuit-black-redbat",
@@ -1529,7 +1529,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Sleepsuit — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-sleepsuit-black-redbat.svg"
   },
   {
     id: "baby-sleepsuit-pink-redbat",
@@ -1542,7 +1542,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Sleepsuit — Pink from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-sleepsuit-pink-redbat.svg"
   },
   {
     id: "baby-cardigan-set-navy-exact",
@@ -1555,7 +1555,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Cardigan Set — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-cardigan-set-navy-exact.svg"
   },
   {
     id: "baby-cardigan-set-grey-exact",
@@ -1567,7 +1567,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Cardigan Set — Grey from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-cardigan-set-grey-exact.svg"
   },
   {
     id: "baby-dungarees-navy-soda-bloc",
@@ -1580,7 +1580,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Dungarees — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-dungarees-navy-soda-bloc.svg"
   },
   {
     id: "baby-dungarees-grey-soda-bloc",
@@ -1592,7 +1592,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Dungarees — Grey from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-dungarees-grey-soda-bloc.svg"
   },
   {
     id: "baby-dungarees-black-soda-bloc",
@@ -1604,7 +1604,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Dungarees — Black from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-dungarees-black-soda-bloc.svg"
   },
   {
     id: "baby-knitted-outfit-navy-cotton-on-kids",
@@ -1616,7 +1616,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Knitted Outfit — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-knitted-outfit-navy-cotton-on-kids.svg"
   },
   {
     id: "baby-knitted-outfit-grey-cotton-on-kids",
@@ -1629,7 +1629,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Knitted Outfit — Grey from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-knitted-outfit-grey-cotton-on-kids.svg"
   },
   {
     id: "baby-knitted-outfit-black-cotton-on-kids",
@@ -1641,7 +1641,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Knitted Outfit — Black from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-knitted-outfit-black-cotton-on-kids.svg"
   },
   {
     id: "baby-knitted-outfit-pink-cotton-on-kids",
@@ -1653,7 +1653,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Baby Knitted Outfit — Pink from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/baby-knitted-outfit-pink-cotton-on-kids.svg"
   },
   {
     id: "girls-leggings-2-pack-navy-puma",
@@ -1666,7 +1666,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Leggings 2-Pack — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-leggings-2-pack-navy-puma.svg"
   },
   {
     id: "girls-leggings-2-pack-grey-puma",
@@ -1678,7 +1678,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Leggings 2-Pack — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-leggings-2-pack-grey-puma.svg"
   },
   {
     id: "kids-socks-5-pack-navy-converse",
@@ -1690,7 +1690,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Socks 5-Pack — Navy from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-socks-5-pack-navy-converse.svg"
   },
   {
     id: "kids-socks-5-pack-grey-converse",
@@ -1702,7 +1702,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Socks 5-Pack — Grey from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-socks-5-pack-grey-converse.svg"
   },
   {
     id: "kids-socks-5-pack-black-converse",
@@ -1714,7 +1714,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Socks 5-Pack — Black from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-socks-5-pack-black-converse.svg"
   },
   {
     id: "kids-underwear-3-pack-navy-adidas-kids",
@@ -1727,7 +1727,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Underwear 3-Pack — Navy from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-underwear-3-pack-navy-adidas-kids.svg"
   },
   {
     id: "kids-underwear-3-pack-grey-adidas-kids",
@@ -1739,7 +1739,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Underwear 3-Pack — Grey from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-underwear-3-pack-grey-adidas-kids.svg"
   },
   {
     id: "kids-underwear-3-pack-black-adidas-kids",
@@ -1752,7 +1752,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Underwear 3-Pack — Black from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-underwear-3-pack-black-adidas-kids.svg"
   },
   {
     id: "kids-underwear-3-pack-pink-adidas-kids",
@@ -1764,7 +1764,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Underwear 3-Pack — Pink from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-underwear-3-pack-pink-adidas-kids.svg"
   },
   {
     id: "boys-school-shirt-navy-ackermans",
@@ -1776,7 +1776,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys School Shirt — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-school-shirt-navy-ackermans.svg"
   },
   {
     id: "boys-school-shirt-grey-ackermans",
@@ -1789,7 +1789,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys School Shirt — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-school-shirt-grey-ackermans.svg"
   },
   {
     id: "girls-school-shirt-navy-redbat",
@@ -1802,7 +1802,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls School Shirt — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-school-shirt-navy-redbat.svg"
   },
   {
     id: "girls-school-shirt-grey-redbat",
@@ -1815,7 +1815,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls School Shirt — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-school-shirt-grey-redbat.svg"
   },
   {
     id: "girls-school-shirt-black-redbat",
@@ -1827,7 +1827,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls School Shirt — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-school-shirt-black-redbat.svg"
   },
   {
     id: "boys-school-trousers-navy-exact",
@@ -1839,7 +1839,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys School Trousers — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-school-trousers-navy-exact.svg"
   },
   {
     id: "boys-school-trousers-grey-exact",
@@ -1852,7 +1852,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys School Trousers — Grey from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-school-trousers-grey-exact.svg"
   },
   {
     id: "boys-school-trousers-black-exact",
@@ -1864,7 +1864,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys School Trousers — Black from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-school-trousers-black-exact.svg"
   },
   {
     id: "boys-school-trousers-pink-exact",
@@ -1876,7 +1876,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys School Trousers — Pink from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-school-trousers-pink-exact.svg"
   },
   {
     id: "girls-school-skirt-navy-soda-bloc",
@@ -1888,7 +1888,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls School Skirt — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-school-skirt-navy-soda-bloc.svg"
   },
   {
     id: "girls-school-skirt-grey-soda-bloc",
@@ -1901,7 +1901,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls School Skirt — Grey from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-school-skirt-grey-soda-bloc.svg"
   },
   {
     id: "boys-school-shorts-navy-cotton-on-kids",
@@ -1913,7 +1913,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys School Shorts — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-school-shorts-navy-cotton-on-kids.svg"
   },
   {
     id: "boys-school-shorts-grey-cotton-on-kids",
@@ -1925,7 +1925,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys School Shorts — Grey from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-school-shorts-grey-cotton-on-kids.svg"
   },
   {
     id: "boys-school-shorts-black-cotton-on-kids",
@@ -1937,7 +1937,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys School Shorts — Black from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-school-shorts-black-cotton-on-kids.svg"
   },
   {
     id: "girls-school-pinafore-navy-puma",
@@ -1949,7 +1949,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls School Pinafore — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-school-pinafore-navy-puma.svg"
   },
   {
     id: "girls-school-pinafore-grey-puma",
@@ -1961,7 +1961,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls School Pinafore — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-school-pinafore-grey-puma.svg"
   },
   {
     id: "girls-school-pinafore-black-puma",
@@ -1974,7 +1974,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls School Pinafore — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-school-pinafore-black-puma.svg"
   },
   {
     id: "girls-school-pinafore-pink-puma",
@@ -1986,7 +1986,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls School Pinafore — Pink from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-school-pinafore-pink-puma.svg"
   },
   {
     id: "kids-school-jumper-navy-converse",
@@ -1999,7 +1999,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids School Jumper — Navy from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-school-jumper-navy-converse.svg"
   },
   {
     id: "kids-school-jumper-grey-converse",
@@ -2011,7 +2011,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids School Jumper — Grey from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-school-jumper-grey-converse.svg"
   },
   {
     id: "school-track-top-navy-adidas-kids",
@@ -2024,7 +2024,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "School Track Top — Navy from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/school-track-top-navy-adidas-kids.svg"
   },
   {
     id: "school-track-top-grey-adidas-kids",
@@ -2036,7 +2036,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "School Track Top — Grey from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/school-track-top-grey-adidas-kids.svg"
   },
   {
     id: "school-track-top-black-adidas-kids",
@@ -2048,7 +2048,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "School Track Top — Black from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/school-track-top-black-adidas-kids.svg"
   },
   {
     id: "boys-sport-shorts-navy-ackermans",
@@ -2060,7 +2060,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Sport Shorts — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-sport-shorts-navy-ackermans.svg"
   },
   {
     id: "boys-sport-shorts-grey-ackermans",
@@ -2072,7 +2072,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Sport Shorts — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-sport-shorts-grey-ackermans.svg"
   },
   {
     id: "boys-sport-shorts-black-ackermans",
@@ -2084,7 +2084,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Sport Shorts — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-sport-shorts-black-ackermans.svg"
   },
   {
     id: "boys-sport-shorts-pink-ackermans",
@@ -2097,7 +2097,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Boys Sport Shorts — Pink from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/boys-sport-shorts-pink-ackermans.svg"
   },
   {
     id: "girls-sport-skort-navy-redbat",
@@ -2109,7 +2109,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Sport Skort — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-sport-skort-navy-redbat.svg"
   },
   {
     id: "girls-sport-skort-grey-redbat",
@@ -2121,7 +2121,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Sport Skort — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-sport-skort-grey-redbat.svg"
   },
   {
     id: "kids-sports-tee-navy-exact",
@@ -2133,7 +2133,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Sports Tee — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-sports-tee-navy-exact.svg"
   },
   {
     id: "kids-sports-tee-grey-exact",
@@ -2145,7 +2145,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Sports Tee — Grey from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-sports-tee-grey-exact.svg"
   },
   {
     id: "kids-sports-tee-black-exact",
@@ -2158,7 +2158,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Sports Tee — Black from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-sports-tee-black-exact.svg"
   },
   {
     id: "kids-swim-shorts-navy-soda-bloc",
@@ -2170,7 +2170,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Swim Shorts — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-swim-shorts-navy-soda-bloc.svg"
   },
   {
     id: "kids-swim-shorts-grey-soda-bloc",
@@ -2182,7 +2182,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Swim Shorts — Grey from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-swim-shorts-grey-soda-bloc.svg"
   },
   {
     id: "kids-swim-shorts-black-soda-bloc",
@@ -2195,7 +2195,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Swim Shorts — Black from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-swim-shorts-black-soda-bloc.svg"
   },
   {
     id: "kids-swim-shorts-pink-soda-bloc",
@@ -2207,7 +2207,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Swim Shorts — Pink from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-swim-shorts-pink-soda-bloc.svg"
   },
   {
     id: "kids-playsuit-navy-cotton-on-kids",
@@ -2219,7 +2219,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Playsuit — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-playsuit-navy-cotton-on-kids.svg"
   },
   {
     id: "kids-playsuit-grey-cotton-on-kids",
@@ -2231,7 +2231,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Playsuit — Grey from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-playsuit-grey-cotton-on-kids.svg"
   },
   {
     id: "girls-jumpsuit-navy-puma",
@@ -2243,7 +2243,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Jumpsuit — Navy from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-jumpsuit-navy-puma.svg"
   },
   {
     id: "girls-jumpsuit-grey-puma",
@@ -2255,7 +2255,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Jumpsuit — Grey from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-jumpsuit-grey-puma.svg"
   },
   {
     id: "girls-jumpsuit-black-puma",
@@ -2267,7 +2267,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Jumpsuit — Black from Puma — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-jumpsuit-black-puma.svg"
   },
   {
     id: "kids-romper-navy-converse",
@@ -2279,7 +2279,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Romper — Navy from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-romper-navy-converse.svg"
   },
   {
     id: "kids-romper-grey-converse",
@@ -2291,7 +2291,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Romper — Grey from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-romper-grey-converse.svg"
   },
   {
     id: "kids-romper-black-converse",
@@ -2303,7 +2303,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Romper — Black from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-romper-black-converse.svg"
   },
   {
     id: "kids-romper-pink-converse",
@@ -2316,7 +2316,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Romper — Pink from Converse — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-romper-pink-converse.svg"
   },
   {
     id: "girls-skirt-navy-adidas-kids",
@@ -2328,7 +2328,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Skirt — Navy from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-skirt-navy-adidas-kids.svg"
   },
   {
     id: "girls-skirt-grey-adidas-kids",
@@ -2340,7 +2340,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Skirt — Grey from adidas Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-skirt-grey-adidas-kids.svg"
   },
   {
     id: "kids-leggings-navy-ackermans",
@@ -2352,7 +2352,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Leggings — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-leggings-navy-ackermans.svg"
   },
   {
     id: "kids-leggings-grey-ackermans",
@@ -2364,7 +2364,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Leggings — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-leggings-grey-ackermans.svg"
   },
   {
     id: "kids-leggings-black-ackermans",
@@ -2376,7 +2376,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Leggings — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-leggings-black-ackermans.svg"
   },
   {
     id: "girls-tights-2-pack-navy-redbat",
@@ -2389,7 +2389,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tights 2-Pack — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tights-2-pack-navy-redbat.svg"
   },
   {
     id: "girls-tights-2-pack-grey-redbat",
@@ -2401,7 +2401,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tights 2-Pack — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tights-2-pack-grey-redbat.svg"
   },
   {
     id: "girls-tights-2-pack-black-redbat",
@@ -2413,7 +2413,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tights 2-Pack — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tights-2-pack-black-redbat.svg"
   },
   {
     id: "girls-tights-2-pack-pink-redbat",
@@ -2425,7 +2425,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Girls Tights 2-Pack — Pink from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/girls-tights-2-pack-pink-redbat.svg"
   },
   {
     id: "kids-beanie-navy-exact",
@@ -2437,7 +2437,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Beanie — Navy from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-beanie-navy-exact.svg"
   },
   {
     id: "kids-beanie-grey-exact",
@@ -2449,7 +2449,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Beanie — Grey from Exact — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-beanie-grey-exact.svg"
   },
   {
     id: "kids-scarf-and-gloves-set-navy-soda-bloc",
@@ -2461,7 +2461,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Scarf & Gloves Set — Navy from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-scarf-and-gloves-set-navy-soda-bloc.svg"
   },
   {
     id: "kids-scarf-and-gloves-set-grey-soda-bloc",
@@ -2473,7 +2473,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Scarf & Gloves Set — Grey from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-scarf-and-gloves-set-grey-soda-bloc.svg"
   },
   {
     id: "kids-scarf-and-gloves-set-black-soda-bloc",
@@ -2485,7 +2485,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Scarf & Gloves Set — Black from Soda Bloc — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-scarf-and-gloves-set-black-soda-bloc.svg"
   },
   {
     id: "kids-backpack-navy-cotton-on-kids",
@@ -2497,7 +2497,7 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Backpack — Navy from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-backpack-navy-cotton-on-kids.svg"
   },
   {
     id: "kids-backpack-grey-cotton-on-kids",
@@ -2510,6 +2510,6 @@ const PRODUCTS_KIDS_CLOTHING = [
     description: "Kids Backpack — Grey from Cotton On Kids — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/kids.svg"
+    image: "images/ph/kids-backpack-grey-cotton-on-kids.svg"
   }
 ];

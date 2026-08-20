@@ -507,6 +507,20 @@ input, select, textarea { font-family: inherit; }
 .toast.error .t-ic { color: var(--red); }
 @keyframes toastIn { from { opacity: 0; transform: translateX(30px); } }
 
+/* ============ Pay in 3 segments ============ */
+.inst-toggle { display: flex; align-items: center; gap: 10px; cursor: pointer; padding: 12px 0 4px; }
+.inst-toggle input { width: 18px; height: 18px; accent-color: var(--accent); }
+.inst-hint { display: block; color: var(--faint); font-size: 12.5px; }
+.inst-box { background: var(--surface); border: 1px solid var(--border-strong); border-radius: 12px; padding: 16px 18px; margin-top: 12px; }
+.inst-intro { color: var(--muted); font-size: 13.5px; margin-bottom: 10px; }
+.inst-row { display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 9px 0; border-bottom: 1px dashed var(--border); font-size: 14px; }
+.inst-row:last-child { border-bottom: 0; }
+.inst-row b { font-family: "Space Grotesk", sans-serif; color: var(--accent); display: flex; align-items: center; gap: 8px; }
+.inst-note { color: var(--faint); font-size: 12px; margin-top: 10px; }
+.inst-summary { max-width: 460px; margin: 16px auto 0; text-align: left; }
+.inst-summary h4, .inst-order h4 { font-family: "Space Grotesk", sans-serif; }
+.inst-order { margin-top: 14px; }
+
 /* ============ Footer ============ */
 .footer { border-top: 1px solid var(--border); background: var(--bg-soft); margin-top: 40px; }
 .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1.2fr; gap: 30px; padding: 48px 22px 34px; }

@@ -11,7 +11,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Maxi Dress — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/maxi-dress-black-ackermans.svg"
   },
   {
     id: "maxi-dress-dusty-pink-ackermans",
@@ -23,7 +23,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Maxi Dress — Dusty Pink from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/maxi-dress-dusty-pink-ackermans.svg"
   },
   {
     id: "midi-dress-black-b-fabulous",
@@ -35,7 +35,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Midi Dress — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/midi-dress-black-b-fabulous.svg"
   },
   {
     id: "midi-dress-dusty-pink-b-fabulous",
@@ -47,7 +47,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Midi Dress — Dusty Pink from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/midi-dress-dusty-pink-b-fabulous.svg"
   },
   {
     id: "midi-dress-mocha-b-fabulous",
@@ -59,7 +59,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Midi Dress — Mocha from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/midi-dress-mocha-b-fabulous.svg"
   },
   {
     id: "shift-dress-black-a-list",
@@ -71,7 +71,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shift Dress — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shift-dress-black-a-list.svg"
   },
   {
     id: "shift-dress-dusty-pink-a-list",
@@ -84,7 +84,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shift Dress — Dusty Pink from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shift-dress-dusty-pink-a-list.svg"
   },
   {
     id: "shift-dress-mocha-a-list",
@@ -97,7 +97,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shift Dress — Mocha from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shift-dress-mocha-a-list.svg"
   },
   {
     id: "shift-dress-sage-a-list",
@@ -109,7 +109,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shift Dress — Sage from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shift-dress-sage-a-list.svg"
   },
   {
     id: "wrap-dress-black-cotton-on",
@@ -121,7 +121,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wrap Dress — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wrap-dress-black-cotton-on.svg"
   },
   {
     id: "wrap-dress-dusty-pink-cotton-on",
@@ -133,7 +133,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wrap Dress — Dusty Pink from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wrap-dress-dusty-pink-cotton-on.svg"
   },
   {
     id: "t-shirt-dress-black-sissy-boy",
@@ -145,7 +145,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "T-Shirt Dress — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/t-shirt-dress-black-sissy-boy.svg"
   },
   {
     id: "t-shirt-dress-dusty-pink-sissy-boy",
@@ -157,7 +157,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "T-Shirt Dress — Dusty Pink from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/t-shirt-dress-dusty-pink-sissy-boy.svg"
   },
   {
     id: "t-shirt-dress-mocha-sissy-boy",
@@ -169,7 +169,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "T-Shirt Dress — Mocha from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/t-shirt-dress-mocha-sissy-boy.svg"
   },
   {
     id: "summer-sun-dress-black-redbat",
@@ -181,7 +181,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Summer Sun Dress — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/summer-sun-dress-black-redbat.svg"
   },
   {
     id: "summer-sun-dress-dusty-pink-redbat",
@@ -193,7 +193,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Summer Sun Dress — Dusty Pink from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/summer-sun-dress-dusty-pink-redbat.svg"
   },
   {
     id: "summer-sun-dress-mocha-redbat",
@@ -205,7 +205,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Summer Sun Dress — Mocha from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/summer-sun-dress-mocha-redbat.svg"
   },
   {
     id: "summer-sun-dress-sage-redbat",
@@ -218,7 +218,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Summer Sun Dress — Sage from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/summer-sun-dress-sage-redbat.svg"
   },
   {
     id: "floral-midi-dress-black-g-star-raw",
@@ -231,7 +231,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Floral Midi Dress — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/floral-midi-dress-black-g-star-raw.svg"
   },
   {
     id: "floral-midi-dress-dusty-pink-g-star-raw",
@@ -243,7 +243,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Floral Midi Dress — Dusty Pink from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/floral-midi-dress-dusty-pink-g-star-raw.svg"
   },
   {
     id: "evening-cocktail-dress-black-vans",
@@ -256,7 +256,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Evening Cocktail Dress — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/evening-cocktail-dress-black-vans.svg"
   },
   {
     id: "evening-cocktail-dress-dusty-pink-vans",
@@ -268,7 +268,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Evening Cocktail Dress — Dusty Pink from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/evening-cocktail-dress-dusty-pink-vans.svg"
   },
   {
     id: "evening-cocktail-dress-mocha-vans",
@@ -280,7 +280,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Evening Cocktail Dress — Mocha from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/evening-cocktail-dress-mocha-vans.svg"
   },
   {
     id: "shirt-dress-black-ackermans",
@@ -293,7 +293,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shirt Dress — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shirt-dress-black-ackermans.svg"
   },
   {
     id: "shirt-dress-dusty-pink-ackermans",
@@ -305,7 +305,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shirt Dress — Dusty Pink from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shirt-dress-dusty-pink-ackermans.svg"
   },
   {
     id: "shirt-dress-mocha-ackermans",
@@ -318,7 +318,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shirt Dress — Mocha from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shirt-dress-mocha-ackermans.svg"
   },
   {
     id: "shirt-dress-sage-ackermans",
@@ -330,7 +330,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shirt Dress — Sage from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shirt-dress-sage-ackermans.svg"
   },
   {
     id: "smock-dress-black-b-fabulous",
@@ -342,7 +342,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Smock Dress — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/smock-dress-black-b-fabulous.svg"
   },
   {
     id: "smock-dress-dusty-pink-b-fabulous",
@@ -354,7 +354,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Smock Dress — Dusty Pink from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/smock-dress-dusty-pink-b-fabulous.svg"
   },
   {
     id: "satin-slip-dress-black-a-list",
@@ -367,7 +367,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Satin Slip Dress — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/satin-slip-dress-black-a-list.svg"
   },
   {
     id: "satin-slip-dress-dusty-pink-a-list",
@@ -379,7 +379,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Satin Slip Dress — Dusty Pink from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/satin-slip-dress-dusty-pink-a-list.svg"
   },
   {
     id: "satin-slip-dress-mocha-a-list",
@@ -392,7 +392,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Satin Slip Dress — Mocha from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/satin-slip-dress-mocha-a-list.svg"
   },
   {
     id: "denim-dress-black-cotton-on",
@@ -404,7 +404,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Dress — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-dress-black-cotton-on.svg"
   },
   {
     id: "denim-dress-dusty-pink-cotton-on",
@@ -417,7 +417,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Dress — Dusty Pink from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-dress-dusty-pink-cotton-on.svg"
   },
   {
     id: "denim-dress-mocha-cotton-on",
@@ -430,7 +430,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Dress — Mocha from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-dress-mocha-cotton-on.svg"
   },
   {
     id: "denim-dress-sage-cotton-on",
@@ -442,7 +442,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Dress — Sage from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-dress-sage-cotton-on.svg"
   },
   {
     id: "knitted-dress-black-sissy-boy",
@@ -454,7 +454,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Knitted Dress — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/knitted-dress-black-sissy-boy.svg"
   },
   {
     id: "knitted-dress-dusty-pink-sissy-boy",
@@ -466,7 +466,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Knitted Dress — Dusty Pink from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/knitted-dress-dusty-pink-sissy-boy.svg"
   },
   {
     id: "a-line-mini-dress-black-redbat",
@@ -478,7 +478,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "A-Line Mini Dress — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/a-line-mini-dress-black-redbat.svg"
   },
   {
     id: "a-line-mini-dress-dusty-pink-redbat",
@@ -490,7 +490,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "A-Line Mini Dress — Dusty Pink from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/a-line-mini-dress-dusty-pink-redbat.svg"
   },
   {
     id: "a-line-mini-dress-mocha-redbat",
@@ -502,7 +502,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "A-Line Mini Dress — Mocha from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/a-line-mini-dress-mocha-redbat.svg"
   },
   {
     id: "off-shoulder-dress-black-g-star-raw",
@@ -514,7 +514,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Off-Shoulder Dress — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/off-shoulder-dress-black-g-star-raw.svg"
   },
   {
     id: "off-shoulder-dress-dusty-pink-g-star-raw",
@@ -526,7 +526,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Off-Shoulder Dress — Dusty Pink from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/off-shoulder-dress-dusty-pink-g-star-raw.svg"
   },
   {
     id: "off-shoulder-dress-mocha-g-star-raw",
@@ -539,7 +539,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Off-Shoulder Dress — Mocha from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/off-shoulder-dress-mocha-g-star-raw.svg"
   },
   {
     id: "off-shoulder-dress-sage-g-star-raw",
@@ -551,7 +551,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Off-Shoulder Dress — Sage from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/off-shoulder-dress-sage-g-star-raw.svg"
   },
   {
     id: "halter-neck-dress-black-vans",
@@ -563,7 +563,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Halter Neck Dress — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/halter-neck-dress-black-vans.svg"
   },
   {
     id: "halter-neck-dress-dusty-pink-vans",
@@ -576,7 +576,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Halter Neck Dress — Dusty Pink from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/halter-neck-dress-dusty-pink-vans.svg"
   },
   {
     id: "fit-and-flare-dress-black-ackermans",
@@ -588,7 +588,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Fit-and-Flare Dress — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/fit-and-flare-dress-black-ackermans.svg"
   },
   {
     id: "fit-and-flare-dress-dusty-pink-ackermans",
@@ -600,7 +600,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Fit-and-Flare Dress — Dusty Pink from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/fit-and-flare-dress-dusty-pink-ackermans.svg"
   },
   {
     id: "fit-and-flare-dress-mocha-ackermans",
@@ -612,7 +612,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Fit-and-Flare Dress — Mocha from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/fit-and-flare-dress-mocha-ackermans.svg"
   },
   {
     id: "bodycon-midi-dress-black-b-fabulous",
@@ -624,7 +624,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bodycon Midi Dress — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bodycon-midi-dress-black-b-fabulous.svg"
   },
   {
     id: "bodycon-midi-dress-dusty-pink-b-fabulous",
@@ -636,7 +636,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bodycon Midi Dress — Dusty Pink from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bodycon-midi-dress-dusty-pink-b-fabulous.svg"
   },
   {
     id: "bodycon-midi-dress-mocha-b-fabulous",
@@ -648,7 +648,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bodycon Midi Dress — Mocha from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bodycon-midi-dress-mocha-b-fabulous.svg"
   },
   {
     id: "bodycon-midi-dress-sage-b-fabulous",
@@ -661,7 +661,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bodycon Midi Dress — Sage from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bodycon-midi-dress-sage-b-fabulous.svg"
   },
   {
     id: "pleated-midi-dress-black-a-list",
@@ -673,7 +673,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pleated Midi Dress — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pleated-midi-dress-black-a-list.svg"
   },
   {
     id: "pleated-midi-dress-dusty-pink-a-list",
@@ -686,7 +686,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pleated Midi Dress — Dusty Pink from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pleated-midi-dress-dusty-pink-a-list.svg"
   },
   {
     id: "bardot-dress-black-cotton-on",
@@ -699,7 +699,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bardot Dress — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bardot-dress-black-cotton-on.svg"
   },
   {
     id: "bardot-dress-dusty-pink-cotton-on",
@@ -712,7 +712,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bardot Dress — Dusty Pink from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bardot-dress-dusty-pink-cotton-on.svg"
   },
   {
     id: "bardot-dress-mocha-cotton-on",
@@ -724,7 +724,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bardot Dress — Mocha from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bardot-dress-mocha-cotton-on.svg"
   },
   {
     id: "basic-crew-tee-white-a-list",
@@ -736,7 +736,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Basic Crew Tee — White from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/basic-crew-tee-white-a-list.svg"
   },
   {
     id: "basic-crew-tee-black-a-list",
@@ -749,7 +749,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Basic Crew Tee — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/basic-crew-tee-black-a-list.svg"
   },
   {
     id: "graphic-print-tee-white-cotton-on",
@@ -761,7 +761,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Graphic Print Tee — White from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/graphic-print-tee-white-cotton-on.svg"
   },
   {
     id: "graphic-print-tee-black-cotton-on",
@@ -774,7 +774,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Graphic Print Tee — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/graphic-print-tee-black-cotton-on.svg"
   },
   {
     id: "graphic-print-tee-navy-cotton-on",
@@ -786,7 +786,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Graphic Print Tee — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/graphic-print-tee-navy-cotton-on.svg"
   },
   {
     id: "long-sleeve-top-white-sissy-boy",
@@ -799,7 +799,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Long-Sleeve Top — White from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/long-sleeve-top-white-sissy-boy.svg"
   },
   {
     id: "long-sleeve-top-black-sissy-boy",
@@ -811,7 +811,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Long-Sleeve Top — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/long-sleeve-top-black-sissy-boy.svg"
   },
   {
     id: "long-sleeve-top-navy-sissy-boy",
@@ -824,7 +824,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Long-Sleeve Top — Navy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/long-sleeve-top-navy-sissy-boy.svg"
   },
   {
     id: "long-sleeve-top-grey-sissy-boy",
@@ -837,7 +837,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Long-Sleeve Top — Grey from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/long-sleeve-top-grey-sissy-boy.svg"
   },
   {
     id: "button-up-blouse-white-redbat",
@@ -850,7 +850,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Button-Up Blouse — White from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/button-up-blouse-white-redbat.svg"
   },
   {
     id: "button-up-blouse-black-redbat",
@@ -863,7 +863,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Button-Up Blouse — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/button-up-blouse-black-redbat.svg"
   },
   {
     id: "button-up-blouse-navy-redbat",
@@ -875,7 +875,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Button-Up Blouse — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/button-up-blouse-navy-redbat.svg"
   },
   {
     id: "button-up-blouse-grey-redbat",
@@ -887,7 +887,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Button-Up Blouse — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/button-up-blouse-grey-redbat.svg"
   },
   {
     id: "button-up-blouse-sage-redbat",
@@ -900,7 +900,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Button-Up Blouse — Sage from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/button-up-blouse-sage-redbat.svg"
   },
   {
     id: "sleeveless-blouse-white-g-star-raw",
@@ -912,7 +912,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Sleeveless Blouse — White from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/sleeveless-blouse-white-g-star-raw.svg"
   },
   {
     id: "sleeveless-blouse-black-g-star-raw",
@@ -924,7 +924,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Sleeveless Blouse — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/sleeveless-blouse-black-g-star-raw.svg"
   },
   {
     id: "crop-top-white-vans",
@@ -937,7 +937,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crop Top — White from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crop-top-white-vans.svg"
   },
   {
     id: "crop-top-black-vans",
@@ -949,7 +949,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crop Top — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crop-top-black-vans.svg"
   },
   {
     id: "crop-top-navy-vans",
@@ -962,7 +962,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crop Top — Navy from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crop-top-navy-vans.svg"
   },
   {
     id: "peasant-top-white-ackermans",
@@ -974,7 +974,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Peasant Top — White from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/peasant-top-white-ackermans.svg"
   },
   {
     id: "peasant-top-black-ackermans",
@@ -986,7 +986,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Peasant Top — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/peasant-top-black-ackermans.svg"
   },
   {
     id: "peasant-top-navy-ackermans",
@@ -998,7 +998,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Peasant Top — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/peasant-top-navy-ackermans.svg"
   },
   {
     id: "peasant-top-grey-ackermans",
@@ -1010,7 +1010,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Peasant Top — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/peasant-top-grey-ackermans.svg"
   },
   {
     id: "polo-neck-top-white-b-fabulous",
@@ -1022,7 +1022,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Polo Neck Top — White from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/polo-neck-top-white-b-fabulous.svg"
   },
   {
     id: "polo-neck-top-black-b-fabulous",
@@ -1034,7 +1034,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Polo Neck Top — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/polo-neck-top-black-b-fabulous.svg"
   },
   {
     id: "polo-neck-top-navy-b-fabulous",
@@ -1046,7 +1046,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Polo Neck Top — Navy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/polo-neck-top-navy-b-fabulous.svg"
   },
   {
     id: "polo-neck-top-grey-b-fabulous",
@@ -1059,7 +1059,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Polo Neck Top — Grey from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/polo-neck-top-grey-b-fabulous.svg"
   },
   {
     id: "polo-neck-top-sage-b-fabulous",
@@ -1071,7 +1071,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Polo Neck Top — Sage from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/polo-neck-top-sage-b-fabulous.svg"
   },
   {
     id: "ribbed-fitted-top-white-a-list",
@@ -1083,7 +1083,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Ribbed Fitted Top — White from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/ribbed-fitted-top-white-a-list.svg"
   },
   {
     id: "ribbed-fitted-top-black-a-list",
@@ -1095,7 +1095,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Ribbed Fitted Top — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/ribbed-fitted-top-black-a-list.svg"
   },
   {
     id: "satin-cami-white-cotton-on",
@@ -1107,7 +1107,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Satin Cami — White from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/satin-cami-white-cotton-on.svg"
   },
   {
     id: "satin-cami-black-cotton-on",
@@ -1119,7 +1119,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Satin Cami — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/satin-cami-black-cotton-on.svg"
   },
   {
     id: "satin-cami-navy-cotton-on",
@@ -1131,7 +1131,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Satin Cami — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/satin-cami-navy-cotton-on.svg"
   },
   {
     id: "knit-knit-top-white-sissy-boy",
@@ -1143,7 +1143,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Knit Knit Top — White from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/knit-knit-top-white-sissy-boy.svg"
   },
   {
     id: "knit-knit-top-black-sissy-boy",
@@ -1155,7 +1155,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Knit Knit Top — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/knit-knit-top-black-sissy-boy.svg"
   },
   {
     id: "knit-knit-top-navy-sissy-boy",
@@ -1167,7 +1167,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Knit Knit Top — Navy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/knit-knit-top-navy-sissy-boy.svg"
   },
   {
     id: "knit-knit-top-grey-sissy-boy",
@@ -1179,7 +1179,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Knit Knit Top — Grey from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/knit-knit-top-grey-sissy-boy.svg"
   },
   {
     id: "tank-top-white-redbat",
@@ -1192,7 +1192,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tank Top — White from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tank-top-white-redbat.svg"
   },
   {
     id: "tank-top-black-redbat",
@@ -1204,7 +1204,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tank Top — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tank-top-black-redbat.svg"
   },
   {
     id: "tank-top-navy-redbat",
@@ -1216,7 +1216,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tank Top — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tank-top-navy-redbat.svg"
   },
   {
     id: "tank-top-grey-redbat",
@@ -1228,7 +1228,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tank Top — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tank-top-grey-redbat.svg"
   },
   {
     id: "tank-top-sage-redbat",
@@ -1240,7 +1240,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tank Top — Sage from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tank-top-sage-redbat.svg"
   },
   {
     id: "puff-sleeve-top-white-g-star-raw",
@@ -1252,7 +1252,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Puff-Sleeve Top — White from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/puff-sleeve-top-white-g-star-raw.svg"
   },
   {
     id: "puff-sleeve-top-black-g-star-raw",
@@ -1264,7 +1264,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Puff-Sleeve Top — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/puff-sleeve-top-black-g-star-raw.svg"
   },
   {
     id: "tie-front-top-white-vans",
@@ -1276,7 +1276,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tie-Front Top — White from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tie-front-top-white-vans.svg"
   },
   {
     id: "tie-front-top-black-vans",
@@ -1288,7 +1288,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tie-Front Top — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tie-front-top-black-vans.svg"
   },
   {
     id: "tie-front-top-navy-vans",
@@ -1300,7 +1300,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tie-Front Top — Navy from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tie-front-top-navy-vans.svg"
   },
   {
     id: "hooded-sweatshirt-white-ackermans",
@@ -1312,7 +1312,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Hooded Sweatshirt — White from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/hooded-sweatshirt-white-ackermans.svg"
   },
   {
     id: "hooded-sweatshirt-black-ackermans",
@@ -1324,7 +1324,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Hooded Sweatshirt — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/hooded-sweatshirt-black-ackermans.svg"
   },
   {
     id: "hooded-sweatshirt-navy-ackermans",
@@ -1337,7 +1337,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Hooded Sweatshirt — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/hooded-sweatshirt-navy-ackermans.svg"
   },
   {
     id: "hooded-sweatshirt-grey-ackermans",
@@ -1350,7 +1350,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Hooded Sweatshirt — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/hooded-sweatshirt-grey-ackermans.svg"
   },
   {
     id: "crew-sweatshirt-white-b-fabulous",
@@ -1362,7 +1362,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crew Sweatshirt — White from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crew-sweatshirt-white-b-fabulous.svg"
   },
   {
     id: "crew-sweatshirt-black-b-fabulous",
@@ -1375,7 +1375,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crew Sweatshirt — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crew-sweatshirt-black-b-fabulous.svg"
   },
   {
     id: "crew-sweatshirt-navy-b-fabulous",
@@ -1387,7 +1387,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crew Sweatshirt — Navy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crew-sweatshirt-navy-b-fabulous.svg"
   },
   {
     id: "crew-sweatshirt-grey-b-fabulous",
@@ -1399,7 +1399,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crew Sweatshirt — Grey from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crew-sweatshirt-grey-b-fabulous.svg"
   },
   {
     id: "crew-sweatshirt-sage-b-fabulous",
@@ -1411,7 +1411,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crew Sweatshirt — Sage from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crew-sweatshirt-sage-b-fabulous.svg"
   },
   {
     id: "longline-tunic-white-a-list",
@@ -1423,7 +1423,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Longline Tunic — White from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/longline-tunic-white-a-list.svg"
   },
   {
     id: "longline-tunic-black-a-list",
@@ -1436,7 +1436,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Longline Tunic — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/longline-tunic-black-a-list.svg"
   },
   {
     id: "off-shoulder-top-white-cotton-on",
@@ -1449,7 +1449,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Off-Shoulder Top — White from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/off-shoulder-top-white-cotton-on.svg"
   },
   {
     id: "off-shoulder-top-black-cotton-on",
@@ -1462,7 +1462,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Off-Shoulder Top — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/off-shoulder-top-black-cotton-on.svg"
   },
   {
     id: "off-shoulder-top-navy-cotton-on",
@@ -1475,7 +1475,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Off-Shoulder Top — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/off-shoulder-top-navy-cotton-on.svg"
   },
   {
     id: "wrap-front-top-white-sissy-boy",
@@ -1487,7 +1487,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wrap Front Top — White from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wrap-front-top-white-sissy-boy.svg"
   },
   {
     id: "wrap-front-top-black-sissy-boy",
@@ -1499,7 +1499,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wrap Front Top — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wrap-front-top-black-sissy-boy.svg"
   },
   {
     id: "wrap-front-top-navy-sissy-boy",
@@ -1511,7 +1511,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wrap Front Top — Navy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wrap-front-top-navy-sissy-boy.svg"
   },
   {
     id: "wrap-front-top-grey-sissy-boy",
@@ -1524,7 +1524,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wrap Front Top — Grey from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wrap-front-top-grey-sissy-boy.svg"
   },
   {
     id: "mesh-detail-top-white-redbat",
@@ -1537,7 +1537,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mesh Detail Top — White from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mesh-detail-top-white-redbat.svg"
   },
   {
     id: "mesh-detail-top-black-redbat",
@@ -1549,7 +1549,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mesh Detail Top — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mesh-detail-top-black-redbat.svg"
   },
   {
     id: "mesh-detail-top-navy-redbat",
@@ -1562,7 +1562,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mesh Detail Top — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mesh-detail-top-navy-redbat.svg"
   },
   {
     id: "mesh-detail-top-grey-redbat",
@@ -1574,7 +1574,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mesh Detail Top — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mesh-detail-top-grey-redbat.svg"
   },
   {
     id: "mesh-detail-top-sage-redbat",
@@ -1586,7 +1586,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mesh Detail Top — Sage from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mesh-detail-top-sage-redbat.svg"
   },
   {
     id: "v-neck-jersey-top-white-g-star-raw",
@@ -1598,7 +1598,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "V-Neck Jersey Top — White from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/v-neck-jersey-top-white-g-star-raw.svg"
   },
   {
     id: "v-neck-jersey-top-black-g-star-raw",
@@ -1611,7 +1611,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "V-Neck Jersey Top — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/v-neck-jersey-top-black-g-star-raw.svg"
   },
   {
     id: "scoop-neck-tee-white-vans",
@@ -1624,7 +1624,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Scoop Neck Tee — White from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/scoop-neck-tee-white-vans.svg"
   },
   {
     id: "scoop-neck-tee-black-vans",
@@ -1636,7 +1636,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Scoop Neck Tee — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/scoop-neck-tee-black-vans.svg"
   },
   {
     id: "scoop-neck-tee-navy-vans",
@@ -1649,7 +1649,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Scoop Neck Tee — Navy from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/scoop-neck-tee-navy-vans.svg"
   },
   {
     id: "striped-breton-top-white-ackermans",
@@ -1662,7 +1662,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Striped Breton Top — White from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/striped-breton-top-white-ackermans.svg"
   },
   {
     id: "striped-breton-top-black-ackermans",
@@ -1674,7 +1674,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Striped Breton Top — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/striped-breton-top-black-ackermans.svg"
   },
   {
     id: "striped-breton-top-navy-ackermans",
@@ -1687,7 +1687,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Striped Breton Top — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/striped-breton-top-navy-ackermans.svg"
   },
   {
     id: "striped-breton-top-grey-ackermans",
@@ -1699,7 +1699,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Striped Breton Top — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/striped-breton-top-grey-ackermans.svg"
   },
   {
     id: "linen-look-top-white-b-fabulous",
@@ -1712,7 +1712,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Look Top — White from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-look-top-white-b-fabulous.svg"
   },
   {
     id: "linen-look-top-black-b-fabulous",
@@ -1724,7 +1724,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Look Top — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-look-top-black-b-fabulous.svg"
   },
   {
     id: "linen-look-top-navy-b-fabulous",
@@ -1737,7 +1737,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Look Top — Navy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-look-top-navy-b-fabulous.svg"
   },
   {
     id: "linen-look-top-grey-b-fabulous",
@@ -1749,7 +1749,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Look Top — Grey from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-look-top-grey-b-fabulous.svg"
   },
   {
     id: "linen-look-top-sage-b-fabulous",
@@ -1762,7 +1762,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Look Top — Sage from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-look-top-sage-b-fabulous.svg"
   },
   {
     id: "3-pack-basic-tees-white-a-list",
@@ -1775,7 +1775,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "3-Pack Basic Tees — White from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/3-pack-basic-tees-white-a-list.svg"
   },
   {
     id: "3-pack-basic-tees-black-a-list",
@@ -1787,7 +1787,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "3-Pack Basic Tees — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/3-pack-basic-tees-black-a-list.svg"
   },
   {
     id: "high-rise-leggings-black-b-fabulous",
@@ -1799,7 +1799,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "High-Rise Leggings — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/high-rise-leggings-black-b-fabulous.svg"
   },
   {
     id: "high-rise-leggings-navy-b-fabulous",
@@ -1812,7 +1812,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "High-Rise Leggings — Navy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/high-rise-leggings-navy-b-fabulous.svg"
   },
   {
     id: "jeggings-black-a-list",
@@ -1824,7 +1824,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Jeggings — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/jeggings-black-a-list.svg"
   },
   {
     id: "jeggings-navy-a-list",
@@ -1836,7 +1836,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Jeggings — Navy from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/jeggings-navy-a-list.svg"
   },
   {
     id: "jeggings-denim-blue-a-list",
@@ -1848,7 +1848,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Jeggings — Denim Blue from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/jeggings-denim-blue-a-list.svg"
   },
   {
     id: "slim-chinos-black-cotton-on",
@@ -1860,7 +1860,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Slim Chinos — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/slim-chinos-black-cotton-on.svg"
   },
   {
     id: "slim-chinos-navy-cotton-on",
@@ -1872,7 +1872,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Slim Chinos — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/slim-chinos-navy-cotton-on.svg"
   },
   {
     id: "slim-chinos-denim-blue-cotton-on",
@@ -1885,7 +1885,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Slim Chinos — Denim Blue from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/slim-chinos-denim-blue-cotton-on.svg"
   },
   {
     id: "slim-chinos-grey-cotton-on",
@@ -1898,7 +1898,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Slim Chinos — Grey from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/slim-chinos-grey-cotton-on.svg"
   },
   {
     id: "palazzo-pants-black-sissy-boy",
@@ -1910,7 +1910,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Palazzo Pants — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/palazzo-pants-black-sissy-boy.svg"
   },
   {
     id: "palazzo-pants-navy-sissy-boy",
@@ -1922,7 +1922,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Palazzo Pants — Navy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/palazzo-pants-navy-sissy-boy.svg"
   },
   {
     id: "wide-leg-pants-black-redbat",
@@ -1934,7 +1934,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wide-Leg Pants — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wide-leg-pants-black-redbat.svg"
   },
   {
     id: "wide-leg-pants-navy-redbat",
@@ -1947,7 +1947,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wide-Leg Pants — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wide-leg-pants-navy-redbat.svg"
   },
   {
     id: "wide-leg-pants-denim-blue-redbat",
@@ -1960,7 +1960,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wide-Leg Pants — Denim Blue from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wide-leg-pants-denim-blue-redbat.svg"
   },
   {
     id: "straight-leg-trousers-black-g-star-raw",
@@ -1973,7 +1973,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Straight-Leg Trousers — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/straight-leg-trousers-black-g-star-raw.svg"
   },
   {
     id: "straight-leg-trousers-navy-g-star-raw",
@@ -1985,7 +1985,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Straight-Leg Trousers — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/straight-leg-trousers-navy-g-star-raw.svg"
   },
   {
     id: "straight-leg-trousers-denim-blue-g-star-raw",
@@ -1998,7 +1998,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Straight-Leg Trousers — Denim Blue from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/straight-leg-trousers-denim-blue-g-star-raw.svg"
   },
   {
     id: "straight-leg-trousers-grey-g-star-raw",
@@ -2011,7 +2011,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Straight-Leg Trousers — Grey from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/straight-leg-trousers-grey-g-star-raw.svg"
   },
   {
     id: "culottes-black-vans",
@@ -2023,7 +2023,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Culottes — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/culottes-black-vans.svg"
   },
   {
     id: "culottes-navy-vans",
@@ -2035,7 +2035,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Culottes — Navy from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/culottes-navy-vans.svg"
   },
   {
     id: "capri-pants-black-ackermans",
@@ -2047,7 +2047,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Capri Pants — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/capri-pants-black-ackermans.svg"
   },
   {
     id: "capri-pants-navy-ackermans",
@@ -2059,7 +2059,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Capri Pants — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/capri-pants-navy-ackermans.svg"
   },
   {
     id: "capri-pants-denim-blue-ackermans",
@@ -2071,7 +2071,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Capri Pants — Denim Blue from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/capri-pants-denim-blue-ackermans.svg"
   },
   {
     id: "track-pants-black-b-fabulous",
@@ -2084,7 +2084,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Track Pants — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/track-pants-black-b-fabulous.svg"
   },
   {
     id: "track-pants-navy-b-fabulous",
@@ -2096,7 +2096,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Track Pants — Navy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/track-pants-navy-b-fabulous.svg"
   },
   {
     id: "track-pants-denim-blue-b-fabulous",
@@ -2109,7 +2109,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Track Pants — Denim Blue from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/track-pants-denim-blue-b-fabulous.svg"
   },
   {
     id: "track-pants-grey-b-fabulous",
@@ -2121,7 +2121,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Track Pants — Grey from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/track-pants-grey-b-fabulous.svg"
   },
   {
     id: "cargo-pants-black-a-list",
@@ -2133,7 +2133,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Cargo Pants — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/cargo-pants-black-a-list.svg"
   },
   {
     id: "cargo-pants-navy-a-list",
@@ -2145,7 +2145,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Cargo Pants — Navy from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/cargo-pants-navy-a-list.svg"
   },
   {
     id: "linen-trousers-black-cotton-on",
@@ -2158,7 +2158,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Trousers — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-trousers-black-cotton-on.svg"
   },
   {
     id: "linen-trousers-navy-cotton-on",
@@ -2170,7 +2170,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Trousers — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-trousers-navy-cotton-on.svg"
   },
   {
     id: "linen-trousers-denim-blue-cotton-on",
@@ -2182,7 +2182,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Trousers — Denim Blue from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-trousers-denim-blue-cotton-on.svg"
   },
   {
     id: "pleated-pants-black-sissy-boy",
@@ -2194,7 +2194,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pleated Pants — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pleated-pants-black-sissy-boy.svg"
   },
   {
     id: "pleated-pants-navy-sissy-boy",
@@ -2206,7 +2206,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pleated Pants — Navy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pleated-pants-navy-sissy-boy.svg"
   },
   {
     id: "pleated-pants-denim-blue-sissy-boy",
@@ -2219,7 +2219,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pleated Pants — Denim Blue from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pleated-pants-denim-blue-sissy-boy.svg"
   },
   {
     id: "pleated-pants-grey-sissy-boy",
@@ -2232,7 +2232,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pleated Pants — Grey from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pleated-pants-grey-sissy-boy.svg"
   },
   {
     id: "skinny-jeans-black-redbat",
@@ -2245,7 +2245,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Skinny Jeans — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/skinny-jeans-black-redbat.svg"
   },
   {
     id: "skinny-jeans-navy-redbat",
@@ -2257,7 +2257,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Skinny Jeans — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/skinny-jeans-navy-redbat.svg"
   },
   {
     id: "mom-jeans-black-g-star-raw",
@@ -2269,7 +2269,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mom Jeans — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mom-jeans-black-g-star-raw.svg"
   },
   {
     id: "mom-jeans-navy-g-star-raw",
@@ -2282,7 +2282,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mom Jeans — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mom-jeans-navy-g-star-raw.svg"
   },
   {
     id: "mom-jeans-denim-blue-g-star-raw",
@@ -2295,7 +2295,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mom Jeans — Denim Blue from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mom-jeans-denim-blue-g-star-raw.svg"
   },
   {
     id: "flared-jeans-black-vans",
@@ -2307,7 +2307,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Flared Jeans — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/flared-jeans-black-vans.svg"
   },
   {
     id: "flared-jeans-navy-vans",
@@ -2319,7 +2319,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Flared Jeans — Navy from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/flared-jeans-navy-vans.svg"
   },
   {
     id: "flared-jeans-denim-blue-vans",
@@ -2331,7 +2331,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Flared Jeans — Denim Blue from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/flared-jeans-denim-blue-vans.svg"
   },
   {
     id: "flared-jeans-grey-vans",
@@ -2343,7 +2343,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Flared Jeans — Grey from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/flared-jeans-grey-vans.svg"
   },
   {
     id: "ripped-boyfriend-jeans-black-ackermans",
@@ -2356,7 +2356,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Ripped Boyfriend Jeans — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/ripped-boyfriend-jeans-black-ackermans.svg"
   },
   {
     id: "ripped-boyfriend-jeans-navy-ackermans",
@@ -2368,7 +2368,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Ripped Boyfriend Jeans — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/ripped-boyfriend-jeans-navy-ackermans.svg"
   },
   {
     id: "high-rise-straight-jeans-black-b-fabulous",
@@ -2380,7 +2380,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "High-Rise Straight Jeans — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/high-rise-straight-jeans-black-b-fabulous.svg"
   },
   {
     id: "high-rise-straight-jeans-navy-b-fabulous",
@@ -2392,7 +2392,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "High-Rise Straight Jeans — Navy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/high-rise-straight-jeans-navy-b-fabulous.svg"
   },
   {
     id: "high-rise-straight-jeans-denim-blue-b-fabulous",
@@ -2404,7 +2404,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "High-Rise Straight Jeans — Denim Blue from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/high-rise-straight-jeans-denim-blue-b-fabulous.svg"
   },
   {
     id: "wide-leg-jeans-black-a-list",
@@ -2416,7 +2416,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wide-Leg Jeans — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wide-leg-jeans-black-a-list.svg"
   },
   {
     id: "wide-leg-jeans-navy-a-list",
@@ -2428,7 +2428,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wide-Leg Jeans — Navy from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wide-leg-jeans-navy-a-list.svg"
   },
   {
     id: "wide-leg-jeans-denim-blue-a-list",
@@ -2440,7 +2440,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wide-Leg Jeans — Denim Blue from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wide-leg-jeans-denim-blue-a-list.svg"
   },
   {
     id: "wide-leg-jeans-grey-a-list",
@@ -2452,7 +2452,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wide-Leg Jeans — Grey from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wide-leg-jeans-grey-a-list.svg"
   },
   {
     id: "denim-shorts-black-cotton-on",
@@ -2464,7 +2464,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Shorts — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-shorts-black-cotton-on.svg"
   },
   {
     id: "denim-shorts-navy-cotton-on",
@@ -2477,7 +2477,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Shorts — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-shorts-navy-cotton-on.svg"
   },
   {
     id: "linen-shorts-black-sissy-boy",
@@ -2489,7 +2489,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Shorts — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-shorts-black-sissy-boy.svg"
   },
   {
     id: "linen-shorts-navy-sissy-boy",
@@ -2502,7 +2502,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Shorts — Navy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-shorts-navy-sissy-boy.svg"
   },
   {
     id: "linen-shorts-denim-blue-sissy-boy",
@@ -2514,7 +2514,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Linen Shorts — Denim Blue from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/linen-shorts-denim-blue-sissy-boy.svg"
   },
   {
     id: "high-waist-shorts-black-redbat",
@@ -2526,7 +2526,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "High-Waist Shorts — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/high-waist-shorts-black-redbat.svg"
   },
   {
     id: "high-waist-shorts-navy-redbat",
@@ -2538,7 +2538,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "High-Waist Shorts — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/high-waist-shorts-navy-redbat.svg"
   },
   {
     id: "high-waist-shorts-denim-blue-redbat",
@@ -2551,7 +2551,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "High-Waist Shorts — Denim Blue from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/high-waist-shorts-denim-blue-redbat.svg"
   },
   {
     id: "high-waist-shorts-grey-redbat",
@@ -2563,7 +2563,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "High-Waist Shorts — Grey from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/high-waist-shorts-grey-redbat.svg"
   },
   {
     id: "gym-shorts-black-g-star-raw",
@@ -2575,7 +2575,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Gym Shorts — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/gym-shorts-black-g-star-raw.svg"
   },
   {
     id: "gym-shorts-navy-g-star-raw",
@@ -2587,7 +2587,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Gym Shorts — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/gym-shorts-navy-g-star-raw.svg"
   },
   {
     id: "biker-shorts-black-vans",
@@ -2600,7 +2600,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Biker Shorts — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/biker-shorts-black-vans.svg"
   },
   {
     id: "biker-shorts-navy-vans",
@@ -2612,7 +2612,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Biker Shorts — Navy from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/biker-shorts-navy-vans.svg"
   },
   {
     id: "biker-shorts-denim-blue-vans",
@@ -2625,7 +2625,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Biker Shorts — Denim Blue from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/biker-shorts-denim-blue-vans.svg"
   },
   {
     id: "mini-skirt-black-ackermans",
@@ -2638,7 +2638,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mini Skirt — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mini-skirt-black-ackermans.svg"
   },
   {
     id: "mini-skirt-navy-ackermans",
@@ -2650,7 +2650,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mini Skirt — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mini-skirt-navy-ackermans.svg"
   },
   {
     id: "mini-skirt-denim-blue-ackermans",
@@ -2663,7 +2663,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mini Skirt — Denim Blue from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mini-skirt-denim-blue-ackermans.svg"
   },
   {
     id: "mini-skirt-grey-ackermans",
@@ -2675,7 +2675,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Mini Skirt — Grey from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/mini-skirt-grey-ackermans.svg"
   },
   {
     id: "midi-pencil-skirt-black-b-fabulous",
@@ -2687,7 +2687,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Midi Pencil Skirt — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/midi-pencil-skirt-black-b-fabulous.svg"
   },
   {
     id: "midi-pencil-skirt-navy-b-fabulous",
@@ -2700,7 +2700,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Midi Pencil Skirt — Navy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/midi-pencil-skirt-navy-b-fabulous.svg"
   },
   {
     id: "pleated-skirt-black-a-list",
@@ -2712,7 +2712,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pleated Skirt — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pleated-skirt-black-a-list.svg"
   },
   {
     id: "pleated-skirt-navy-a-list",
@@ -2724,7 +2724,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pleated Skirt — Navy from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pleated-skirt-navy-a-list.svg"
   },
   {
     id: "pleated-skirt-denim-blue-a-list",
@@ -2737,7 +2737,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pleated Skirt — Denim Blue from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pleated-skirt-denim-blue-a-list.svg"
   },
   {
     id: "denim-skirt-black-cotton-on",
@@ -2749,7 +2749,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Skirt — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-skirt-black-cotton-on.svg"
   },
   {
     id: "denim-skirt-navy-cotton-on",
@@ -2761,7 +2761,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Skirt — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-skirt-navy-cotton-on.svg"
   },
   {
     id: "denim-skirt-denim-blue-cotton-on",
@@ -2774,7 +2774,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Skirt — Denim Blue from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-skirt-denim-blue-cotton-on.svg"
   },
   {
     id: "denim-skirt-grey-cotton-on",
@@ -2786,7 +2786,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Denim Skirt — Grey from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/denim-skirt-grey-cotton-on.svg"
   },
   {
     id: "maxi-skirt-black-sissy-boy",
@@ -2798,7 +2798,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Maxi Skirt — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/maxi-skirt-black-sissy-boy.svg"
   },
   {
     id: "maxi-skirt-navy-sissy-boy",
@@ -2810,7 +2810,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Maxi Skirt — Navy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/maxi-skirt-navy-sissy-boy.svg"
   },
   {
     id: "wrap-skirt-black-redbat",
@@ -2822,7 +2822,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wrap Skirt — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wrap-skirt-black-redbat.svg"
   },
   {
     id: "wrap-skirt-navy-redbat",
@@ -2834,7 +2834,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wrap Skirt — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wrap-skirt-navy-redbat.svg"
   },
   {
     id: "wrap-skirt-denim-blue-redbat",
@@ -2846,7 +2846,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Wrap Skirt — Denim Blue from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/wrap-skirt-denim-blue-redbat.svg"
   },
   {
     id: "a-line-skirt-black-g-star-raw",
@@ -2858,7 +2858,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "A-Line Skirt — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/a-line-skirt-black-g-star-raw.svg"
   },
   {
     id: "a-line-skirt-navy-g-star-raw",
@@ -2871,7 +2871,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "A-Line Skirt — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/a-line-skirt-navy-g-star-raw.svg"
   },
   {
     id: "a-line-skirt-denim-blue-g-star-raw",
@@ -2883,7 +2883,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "A-Line Skirt — Denim Blue from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/a-line-skirt-denim-blue-g-star-raw.svg"
   },
   {
     id: "a-line-skirt-grey-g-star-raw",
@@ -2895,7 +2895,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "A-Line Skirt — Grey from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/a-line-skirt-grey-g-star-raw.svg"
   },
   {
     id: "jumpsuit-black-cotton-on",
@@ -2907,7 +2907,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Jumpsuit — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/jumpsuit-black-cotton-on.svg"
   },
   {
     id: "jumpsuit-navy-cotton-on",
@@ -2919,7 +2919,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Jumpsuit — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/jumpsuit-navy-cotton-on.svg"
   },
   {
     id: "romper-playsuit-black-sissy-boy",
@@ -2931,7 +2931,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Romper Playsuit — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/romper-playsuit-black-sissy-boy.svg"
   },
   {
     id: "romper-playsuit-navy-sissy-boy",
@@ -2944,7 +2944,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Romper Playsuit — Navy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/romper-playsuit-navy-sissy-boy.svg"
   },
   {
     id: "romper-playsuit-burgundy-sissy-boy",
@@ -2956,7 +2956,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Romper Playsuit — Burgundy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/romper-playsuit-burgundy-sissy-boy.svg"
   },
   {
     id: "co-ord-lounge-set-black-redbat",
@@ -2968,7 +2968,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Co-Ord Lounge Set — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/co-ord-lounge-set-black-redbat.svg"
   },
   {
     id: "co-ord-lounge-set-navy-redbat",
@@ -2980,7 +2980,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Co-Ord Lounge Set — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/co-ord-lounge-set-navy-redbat.svg"
   },
   {
     id: "co-ord-lounge-set-burgundy-redbat",
@@ -2992,7 +2992,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Co-Ord Lounge Set — Burgundy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/co-ord-lounge-set-burgundy-redbat.svg"
   },
   {
     id: "co-ord-lounge-set-lilac-redbat",
@@ -3004,7 +3004,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Co-Ord Lounge Set — Lilac from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/co-ord-lounge-set-lilac-redbat.svg"
   },
   {
     id: "two-piece-co-ord-set-black-g-star-raw",
@@ -3017,7 +3017,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Two-Piece Co-Ord Set — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/two-piece-co-ord-set-black-g-star-raw.svg"
   },
   {
     id: "two-piece-co-ord-set-navy-g-star-raw",
@@ -3029,7 +3029,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Two-Piece Co-Ord Set — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/two-piece-co-ord-set-navy-g-star-raw.svg"
   },
   {
     id: "pyjama-lounge-set-black-vans",
@@ -3041,7 +3041,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pyjama Lounge Set — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pyjama-lounge-set-black-vans.svg"
   },
   {
     id: "pyjama-lounge-set-navy-vans",
@@ -3053,7 +3053,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pyjama Lounge Set — Navy from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pyjama-lounge-set-navy-vans.svg"
   },
   {
     id: "pyjama-lounge-set-burgundy-vans",
@@ -3065,7 +3065,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pyjama Lounge Set — Burgundy from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pyjama-lounge-set-burgundy-vans.svg"
   },
   {
     id: "track-suit-set-black-ackermans",
@@ -3077,7 +3077,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Track Suit Set — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/track-suit-set-black-ackermans.svg"
   },
   {
     id: "track-suit-set-navy-ackermans",
@@ -3089,7 +3089,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Track Suit Set — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/track-suit-set-navy-ackermans.svg"
   },
   {
     id: "track-suit-set-burgundy-ackermans",
@@ -3101,7 +3101,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Track Suit Set — Burgundy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/track-suit-set-burgundy-ackermans.svg"
   },
   {
     id: "track-suit-set-lilac-ackermans",
@@ -3113,7 +3113,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Track Suit Set — Lilac from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/track-suit-set-lilac-ackermans.svg"
   },
   {
     id: "shorts-co-ord-set-black-b-fabulous",
@@ -3125,7 +3125,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shorts Co-Ord Set — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shorts-co-ord-set-black-b-fabulous.svg"
   },
   {
     id: "shorts-co-ord-set-navy-b-fabulous",
@@ -3137,7 +3137,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Shorts Co-Ord Set — Navy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/shorts-co-ord-set-navy-b-fabulous.svg"
   },
   {
     id: "pant-co-ord-set-black-a-list",
@@ -3149,7 +3149,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pant Co-Ord Set — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pant-co-ord-set-black-a-list.svg"
   },
   {
     id: "pant-co-ord-set-navy-a-list",
@@ -3162,7 +3162,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pant Co-Ord Set — Navy from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pant-co-ord-set-navy-a-list.svg"
   },
   {
     id: "pant-co-ord-set-burgundy-a-list",
@@ -3174,7 +3174,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Pant Co-Ord Set — Burgundy from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/pant-co-ord-set-burgundy-a-list.svg"
   },
   {
     id: "summer-bikini-set-black-cotton-on",
@@ -3187,7 +3187,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Summer Bikini Set — Black from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/summer-bikini-set-black-cotton-on.svg"
   },
   {
     id: "summer-bikini-set-navy-cotton-on",
@@ -3199,7 +3199,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Summer Bikini Set — Navy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/summer-bikini-set-navy-cotton-on.svg"
   },
   {
     id: "summer-bikini-set-burgundy-cotton-on",
@@ -3211,7 +3211,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Summer Bikini Set — Burgundy from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/summer-bikini-set-burgundy-cotton-on.svg"
   },
   {
     id: "summer-bikini-set-lilac-cotton-on",
@@ -3223,7 +3223,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Summer Bikini Set — Lilac from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/summer-bikini-set-lilac-cotton-on.svg"
   },
   {
     id: "one-piece-swimsuit-black-sissy-boy",
@@ -3236,7 +3236,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "One-Piece Swimsuit — Black from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/one-piece-swimsuit-black-sissy-boy.svg"
   },
   {
     id: "one-piece-swimsuit-navy-sissy-boy",
@@ -3248,7 +3248,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "One-Piece Swimsuit — Navy from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/one-piece-swimsuit-navy-sissy-boy.svg"
   },
   {
     id: "tankini-set-black-redbat",
@@ -3260,7 +3260,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tankini Set — Black from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tankini-set-black-redbat.svg"
   },
   {
     id: "tankini-set-navy-redbat",
@@ -3272,7 +3272,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tankini Set — Navy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tankini-set-navy-redbat.svg"
   },
   {
     id: "tankini-set-burgundy-redbat",
@@ -3284,7 +3284,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Tankini Set — Burgundy from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/tankini-set-burgundy-redbat.svg"
   },
   {
     id: "swim-shorts-black-g-star-raw",
@@ -3296,7 +3296,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Swim Shorts — Black from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/swim-shorts-black-g-star-raw.svg"
   },
   {
     id: "swim-shorts-navy-g-star-raw",
@@ -3308,7 +3308,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Swim Shorts — Navy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/swim-shorts-navy-g-star-raw.svg"
   },
   {
     id: "swim-shorts-burgundy-g-star-raw",
@@ -3321,7 +3321,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Swim Shorts — Burgundy from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/swim-shorts-burgundy-g-star-raw.svg"
   },
   {
     id: "swim-shorts-lilac-g-star-raw",
@@ -3334,7 +3334,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Swim Shorts — Lilac from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/swim-shorts-lilac-g-star-raw.svg"
   },
   {
     id: "rash-vest-black-vans",
@@ -3346,7 +3346,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Rash Vest — Black from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/rash-vest-black-vans.svg"
   },
   {
     id: "rash-vest-navy-vans",
@@ -3359,7 +3359,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Rash Vest — Navy from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/rash-vest-navy-vans.svg"
   },
   {
     id: "bikini-top-black-ackermans",
@@ -3372,7 +3372,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bikini Top — Black from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bikini-top-black-ackermans.svg"
   },
   {
     id: "bikini-top-navy-ackermans",
@@ -3385,7 +3385,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bikini Top — Navy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bikini-top-navy-ackermans.svg"
   },
   {
     id: "bikini-top-burgundy-ackermans",
@@ -3398,7 +3398,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bikini Top — Burgundy from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bikini-top-burgundy-ackermans.svg"
   },
   {
     id: "bikini-bottom-black-b-fabulous",
@@ -3410,7 +3410,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bikini Bottom — Black from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bikini-bottom-black-b-fabulous.svg"
   },
   {
     id: "bikini-bottom-navy-b-fabulous",
@@ -3422,7 +3422,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bikini Bottom — Navy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bikini-bottom-navy-b-fabulous.svg"
   },
   {
     id: "bikini-bottom-burgundy-b-fabulous",
@@ -3434,7 +3434,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bikini Bottom — Burgundy from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bikini-bottom-burgundy-b-fabulous.svg"
   },
   {
     id: "bikini-bottom-lilac-b-fabulous",
@@ -3446,7 +3446,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Bikini Bottom — Lilac from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/bikini-bottom-lilac-b-fabulous.svg"
   },
   {
     id: "swimming-costume-black-a-list",
@@ -3458,7 +3458,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Swimming Costume — Black from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/swimming-costume-black-a-list.svg"
   },
   {
     id: "swimming-costume-navy-a-list",
@@ -3471,7 +3471,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Swimming Costume — Navy from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/swimming-costume-navy-a-list.svg"
   },
   {
     id: "crew-knit-jersey-cream-sissy-boy",
@@ -3484,7 +3484,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crew Knit Jersey — Cream from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crew-knit-jersey-cream-sissy-boy.svg"
   },
   {
     id: "crew-knit-jersey-charcoal-sissy-boy",
@@ -3496,7 +3496,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crew Knit Jersey — Charcoal from Sissy Boy — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crew-knit-jersey-charcoal-sissy-boy.svg"
   },
   {
     id: "longline-cardigan-cream-redbat",
@@ -3509,7 +3509,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Longline Cardigan — Cream from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/longline-cardigan-cream-redbat.svg"
   },
   {
     id: "longline-cardigan-charcoal-redbat",
@@ -3521,7 +3521,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Longline Cardigan — Charcoal from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/longline-cardigan-charcoal-redbat.svg"
   },
   {
     id: "longline-cardigan-sage-redbat",
@@ -3534,7 +3534,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Longline Cardigan — Sage from Redbat — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/longline-cardigan-sage-redbat.svg"
   },
   {
     id: "crewneck-sweater-cream-g-star-raw",
@@ -3546,7 +3546,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crewneck Sweater — Cream from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crewneck-sweater-cream-g-star-raw.svg"
   },
   {
     id: "crewneck-sweater-charcoal-g-star-raw",
@@ -3558,7 +3558,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crewneck Sweater — Charcoal from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crewneck-sweater-charcoal-g-star-raw.svg"
   },
   {
     id: "crewneck-sweater-sage-g-star-raw",
@@ -3571,7 +3571,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crewneck Sweater — Sage from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crewneck-sweater-sage-g-star-raw.svg"
   },
   {
     id: "crewneck-sweater-mocha-g-star-raw",
@@ -3583,7 +3583,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Crewneck Sweater — Mocha from G-Star Raw — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/crewneck-sweater-mocha-g-star-raw.svg"
   },
   {
     id: "turtleneck-knit-cream-vans",
@@ -3596,7 +3596,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Turtleneck Knit — Cream from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/turtleneck-knit-cream-vans.svg"
   },
   {
     id: "turtleneck-knit-charcoal-vans",
@@ -3608,7 +3608,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Turtleneck Knit — Charcoal from Vans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/turtleneck-knit-charcoal-vans.svg"
   },
   {
     id: "knitted-vest-cream-ackermans",
@@ -3620,7 +3620,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Knitted Vest — Cream from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/knitted-vest-cream-ackermans.svg"
   },
   {
     id: "knitted-vest-charcoal-ackermans",
@@ -3632,7 +3632,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Knitted Vest — Charcoal from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/knitted-vest-charcoal-ackermans.svg"
   },
   {
     id: "knitted-vest-sage-ackermans",
@@ -3644,7 +3644,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Knitted Vest — Sage from Ackermans — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/knitted-vest-sage-ackermans.svg"
   },
   {
     id: "v-neck-jersey-cream-b-fabulous",
@@ -3656,7 +3656,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "V-Neck Jersey — Cream from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/v-neck-jersey-cream-b-fabulous.svg"
   },
   {
     id: "v-neck-jersey-charcoal-b-fabulous",
@@ -3668,7 +3668,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "V-Neck Jersey — Charcoal from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/v-neck-jersey-charcoal-b-fabulous.svg"
   },
   {
     id: "v-neck-jersey-sage-b-fabulous",
@@ -3681,7 +3681,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "V-Neck Jersey — Sage from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/v-neck-jersey-sage-b-fabulous.svg"
   },
   {
     id: "v-neck-jersey-mocha-b-fabulous",
@@ -3693,7 +3693,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "V-Neck Jersey — Mocha from B.Fabulous — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/v-neck-jersey-mocha-b-fabulous.svg"
   },
   {
     id: "oversized-knit-cream-a-list",
@@ -3705,7 +3705,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Oversized Knit — Cream from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/oversized-knit-cream-a-list.svg"
   },
   {
     id: "oversized-knit-charcoal-a-list",
@@ -3717,7 +3717,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Oversized Knit — Charcoal from A-list — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/oversized-knit-charcoal-a-list.svg"
   },
   {
     id: "argyle-jersey-cream-cotton-on",
@@ -3729,7 +3729,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Argyle Jersey — Cream from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/argyle-jersey-cream-cotton-on.svg"
   },
   {
     id: "argyle-jersey-charcoal-cotton-on",
@@ -3742,7 +3742,7 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Argyle Jersey — Charcoal from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/argyle-jersey-charcoal-cotton-on.svg"
   },
   {
     id: "argyle-jersey-sage-cotton-on",
@@ -3754,6 +3754,6 @@ const PRODUCTS_WOMENS_CLOTHING = [
     description: "Argyle Jersey — Sage from Cotton On — everyday value and lasting comfort, in a soft quality fabric that washes well and keeps its shape. Perfect for the whole family at prices that make sense.",
     highlights: ["Soft, comfortable quality fabric", "True-to-size fit", "Machine washable", "Great everyday value"],
     specs: [[["Material", "Cotton-rich blend"], ["Sizes", "XS, S, M, L, XL, XXL"], ["Care", "Machine washable / wipe clean"]]],
-    image: "images/ph/womens.svg"
+    image: "images/ph/argyle-jersey-sage-cotton-on.svg"
   }
 ];
