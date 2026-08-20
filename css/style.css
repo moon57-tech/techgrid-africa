@@ -481,6 +481,7 @@ input, select, textarea { font-family: inherit; }
 .success-id { font-family: "Space Grotesk", sans-serif; font-size: 22px; font-weight: 700; color: var(--accent); }
 
 /* ============ Modal ============ */
+[hidden] { display: none !important; }
 .modal-backdrop {
   position: fixed; inset: 0; z-index: 100; background: rgba(4,6,12,.72);
   backdrop-filter: blur(6px); display: grid; place-items: center; padding: 20px;
