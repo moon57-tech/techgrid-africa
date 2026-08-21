@@ -1,4 +1,4 @@
-// Techgrid Africa — Apple iPhones & iPads (prices in ZAR)
+// Techgrid Africa — products apple (prices in ZAR)
 const PRODUCTS_APPLE = [
   {
     id: "apple-iphone-15-black",
@@ -10,7 +10,8 @@ const PRODUCTS_APPLE = [
     tag: "Bestseller",
     description: "The iPhone 15 brings the Dynamic Island, a stunning 6.1-inch Super Retina XDR display and a 48MP main camera to everyone. Powered by the A16 Bionic chip, it delivers class-leading performance, USB-C convenience and all-day battery life in a refined aerospace-grade aluminium design.",
     highlights: ["48MP main camera with 2x optical zoom", "Dynamic Island + 6.1\" Super Retina XDR", "A16 Bionic chip, USB-C, all-day battery"],
-    specs: [["Display", "6.1\" Super Retina XDR OLED"], ["Chip", "A16 Bionic"], ["Camera", "48MP main + 12MP ultrawide"], ["Front", "12MP TrueDepth"], ["Battery", "Up to 20 hrs video playback"], ["Charging", "USB-C (up to 27W)"]]
+    specs: [[["Display", "6.1\" Super Retina XDR OLED"], ["Chip", "A16 Bionic"], ["Camera", "48MP main + 12MP ultrawide"], ["Front", "12MP TrueDepth"], ["Battery", "Up to 20 hrs video playback"], ["Charging", "USB-C (up to 27W)"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-iphone-16-black",
@@ -22,7 +23,8 @@ const PRODUCTS_APPLE = [
     tag: "New",
     description: "Built with the powerful A18 chip, the iPhone 16 introduces the Camera Control button, an advanced 48MP Fusion camera with 2x telephoto and Spatial photo and video capture. Larger battery, tougher Ceramic Shield and Apple Intelligence mark this the smartest standard iPhone yet.",
     highlights: ["A18 chip with Apple Intelligence", "Camera Control button + 48MP Fusion camera", "Action button, Ceramic Shield, USB-C"],
-    specs: [["Display", "6.1\" Super Retina XDR OLED"], ["Chip", "A18"], ["Camera", "48MP Fusion + 12MP ultrawide"], ["Front", "12MP TrueDepth"], ["Battery", "Up to 22 hrs video playback"], ["Charging", "USB-C (up to 27W)"]]
+    specs: [[["Display", "6.1\" Super Retina XDR OLED"], ["Chip", "A18"], ["Camera", "48MP Fusion + 12MP ultrawide"], ["Front", "12MP TrueDepth"], ["Battery", "Up to 22 hrs video playback"], ["Charging", "USB-C (up to 27W)"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-iphone-16-plus-black",
@@ -33,7 +35,8 @@ const PRODUCTS_APPLE = [
     colors: ["Black", "Ultramarine", "Teal", "Pink", "White"],
     description: "The big-screen iPhone. The 6.7-inch iPhone 16 Plus pairs the A18 chip and 48MP Fusion camera with the best battery life in the lineup, giving you the full iPhone experience on a display made for streaming, gaming and productivity.",
     highlights: ["6.7\" display — biggest battery life", "A18 chip with Apple Intelligence", "48MP Fusion camera + Camera Control"],
-    specs: [["Display", "6.7\" Super Retina XDR OLED"], ["Chip", "A18"], ["Camera", "48MP Fusion + 12MP ultrawide"], ["Battery", "Up to 27 hrs video playback"], ["Charging", "USB-C (up to 27W)"]]
+    specs: [[["Display", "6.7\" Super Retina XDR OLED"], ["Chip", "A18"], ["Camera", "48MP Fusion + 12MP ultrawide"], ["Battery", "Up to 27 hrs video playback"], ["Charging", "USB-C (up to 27W)"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-iphone-16e-white",
@@ -44,7 +47,8 @@ const PRODUCTS_APPLE = [
     colors: ["White", "Black"],
     description: "The most affordable way into the iPhone 16 family. The iPhone 16e pairs the blazing A18 chip, a superb 48MP camera and modern Face ID with a sleek design — perfect if you want premium iOS power without the flagship price tag.",
     highlights: ["A18 chip performance", "48MP main camera", "Face ID, USB-C, 5G"],
-    specs: [["Display", "6.1\" OLED Super Retina XDR"], ["Chip", "A18"], ["Camera", "48MP main"], ["Battery", "All-day battery life"], ["Charging", "USB-C"]]
+    specs: [[["Display", "6.1\" OLED Super Retina XDR"], ["Chip", "A18"], ["Camera", "48MP main"], ["Battery", "All-day battery life"], ["Charging", "USB-C"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-iphone-16e-black",
@@ -55,7 +59,8 @@ const PRODUCTS_APPLE = [
     colors: ["Black", "White"],
     description: "The most affordable way into the iPhone 16 family. The iPhone 16e pairs the blazing A18 chip, a superb 48MP camera and modern Face ID with a sleek design — perfect if you want premium iOS power without the flagship price tag.",
     highlights: ["A18 chip performance", "48MP main camera", "Face ID, USB-C, 5G"],
-    specs: [["Display", "6.1\" OLED Super Retina XDR"], ["Chip", "A18"], ["Camera", "48MP main"], ["Battery", "All-day battery life"], ["Charging", "USB-C"]]
+    specs: [[["Display", "6.1\" OLED Super Retina XDR"], ["Chip", "A18"], ["Camera", "48MP main"], ["Battery", "All-day battery life"], ["Charging", "USB-C"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/V2440_512_5G_DS_BLK.jpg?v=1772444227"
   },
   {
     id: "apple-iphone-17-lavender",
@@ -67,31 +72,34 @@ const PRODUCTS_APPLE = [
     tag: "New",
     description: "The iPhone 17 rewrites the rules with a completely redesigned aluminium-and-glass body, the A19 Pro-class chip and a game-changing 120Hz ProMotion display now standard. The upgraded dual-camera system with 48MP main and 12MP telephoto captures stunning detail in any light.",
     highlights: ["120Hz ProMotion display — first on the base iPhone", "A19 Pro-class chip, 12GB RAM", "48MP main + 12MP telephoto camera system"],
-    specs: [["Display", "6.3\" ProMotion OLED, 120Hz"], ["Chip", "A19 Pro"], ["Camera", "48MP main + 12MP telephoto"], ["Front", "12MP TrueDepth"], ["RAM", "12GB"], ["Charging", "USB-C (up to 30W)"]]
+    specs: [[["Display", "6.3\" ProMotion OLED, 120Hz"], ["Chip", "A19 Pro"], ["Camera", "48MP main + 12MP telephoto"], ["Front", "12MP TrueDepth"], ["RAM", "12GB"], ["Charging", "USB-C (up to 30W)"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-iphone-17-pro-cosmic-orange",
     name: "Apple iPhone 17 Pro (Cosmic Orange)",
     brand: "Apple",
     category: "smartphones",
-    price: 32999, compareAt: 34999, rating: 5.0, reviews: 388,
+    price: 32999, compareAt: 34999, rating: 5, reviews: 388,
     colors: ["Cosmic Orange", "Deep Teal", "Titanium Black", "Silver"],
     tag: "Pro",
     description: "Titanium. Power. Perfection. The iPhone 17 Pro pairs a gorgeous titanium frame with the A20 chip, a 48MP Pro camera system with 5x tetraprism zoom, and the brand-new Capture Button. Expect console-grade gaming, pro video and the most advanced Apple Intelligence on any iPhone.",
     highlights: ["A20 chip — fastest iPhone ever", "48MP Pro camera, 5x optical zoom", "Titanium frame + Capture Button"],
-    specs: [["Display", "6.3\" ProMotion OLED, 120Hz"], ["Chip", "A20"], ["Camera", "48MP Pro triple-camera, 5x zoom"], ["Front", "12MP TrueDepth"], ["RAM", "12GB"], ["Charging", "USB-C (up to 35W)"]]
+    specs: [[["Display", "6.3\" ProMotion OLED, 120Hz"], ["Chip", "A20"], ["Camera", "48MP Pro triple-camera, 5x zoom"], ["Front", "12MP TrueDepth"], ["RAM", "12GB"], ["Charging", "USB-C (up to 35W)"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MXVY3AA.png?v=1761033674"
   },
   {
     id: "apple-iphone-17-pro-max-cosmic-orange",
     name: "Apple iPhone 17 Pro Max (Cosmic Orange)",
     brand: "Apple",
     category: "smartphones",
-    price: 37999, compareAt: 39999, rating: 5.0, reviews: 265,
+    price: 37999, compareAt: 39999, rating: 5, reviews: 265,
     colors: ["Cosmic Orange", "Deep Teal", "Titanium Black", "Silver"],
     tag: "Pro",
     description: "The ultimate iPhone. A massive 6.9-inch ProMotion display, the A20 chip, pro-grade 48MP cameras with 5x optical zoom and the longest battery life Apple has ever delivered. If you want the very best phone money can buy, this is it.",
     highlights: ["6.9\" ProMotion display", "A20 chip + 48MP Pro camera system", "Longest iPhone battery life ever"],
-    specs: [["Display", "6.9\" ProMotion OLED, 120Hz"], ["Chip", "A20"], ["Camera", "48MP Pro triple-camera, 5x zoom"], ["Battery", "Up to 33 hrs video playback"], ["RAM", "12GB"], ["Charging", "USB-C (up to 35W)"]]
+    specs: [[["Display", "6.9\" ProMotion OLED, 120Hz"], ["Chip", "A20"], ["Camera", "48MP Pro triple-camera, 5x zoom"], ["Battery", "Up to 33 hrs video playback"], ["RAM", "12GB"], ["Charging", "USB-C (up to 35W)"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MXVY3AA.png?v=1761033674"
   },
   {
     id: "apple-iphone-17e-soft-pink",
@@ -102,7 +110,8 @@ const PRODUCTS_APPLE = [
     colors: ["Soft Pink", "White", "Black", "Sky Blue"],
     description: "The accessible iPhone, upgraded. The iPhone 17e delivers a crisp OLED display, the A19 chip, a 48MP camera and seamless iOS integration — everything you need, at the smartest price in the range. Available in a gorgeous new Soft Pink finish.",
     highlights: ["A19 chip + OLED display", "48MP main camera", "Modern, lightweight design"],
-    specs: [["Display", "6.1\" OLED"], ["Chip", "A19"], ["Camera", "48MP main"], ["Battery", "All-day battery"], ["Charging", "USB-C"]]
+    specs: [[["Display", "6.1\" OLED"], ["Chip", "A19"], ["Camera", "48MP main"], ["Battery", "All-day battery"], ["Charging", "USB-C"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MXVY3AA.png?v=1761033674"
   },
   {
     id: "apple-iphone-air-sky-blue",
@@ -114,7 +123,8 @@ const PRODUCTS_APPLE = [
     tag: "Slim",
     description: "Incredibly thin. Incredibly powerful. The iPhone Air is Apple's thinnest iPhone ever — a stunning Sky Blue aluminium body under 7mm thick, with a 6.7-inch ProMotion display, the A19 chip and a 48MP camera system. Style and substance, beautifully combined.",
     highlights: ["Thinnest iPhone ever made", "6.7\" ProMotion display", "A19 chip + 48MP camera"],
-    specs: [["Display", "6.7\" ProMotion OLED, 120Hz"], ["Chip", "A19"], ["Camera", "48MP main"], ["Thickness", "Under 7mm"], ["Charging", "USB-C"]]
+    specs: [[["Display", "6.7\" ProMotion OLED, 120Hz"], ["Chip", "A19"], ["Camera", "48MP main"], ["Thickness", "Under 7mm"], ["Charging", "USB-C"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-ipad-a16-blue",
@@ -126,7 +136,8 @@ const PRODUCTS_APPLE = [
     tag: "Bestseller",
     description: "The everyday iPad is faster and more capable than ever. The A16 chip powers smooth multitasking, a stunning 10.9-inch Liquid Retina display and all-day battery life. Perfect for school, work and entertainment — with Apple Pencil and full-size keyboard support.",
     highlights: ["A16 chip, powerful multitasking", "10.9\" Liquid Retina display", "Apple Pencil Pro & keyboard support"],
-    specs: [["Display", "10.9\" Liquid Retina"], ["Chip", "A16"], ["Storage", "128GB / 256GB"], ["Cameras", "12MP rear + 12MP front"], ["Battery", "Up to 10 hrs"]]
+    specs: [[["Display", "10.9\" Liquid Retina"], ["Chip", "A16"], ["Storage", "128GB / 256GB"], ["Cameras", "12MP rear + 12MP front"], ["Battery", "Up to 10 hrs"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-ipad-air-11-m4-blue",
@@ -137,7 +148,8 @@ const PRODUCTS_APPLE = [
     colors: ["Blue", "Purple", "Starlight", "Space Gray"],
     description: "Pro-level power, Air-level lightness. The 11-inch iPad Air with the M4 chip flies through creative apps, gaming and multitasking. A stunning Liquid Retina display, Apple Pencil Pro support and Face ID make it the ultimate on-the-go tablet.",
     highlights: ["M4 chip — desktop-class performance", "11\" Liquid Retina display", "Apple Pencil Pro + Magic Keyboard"],
-    specs: [["Display", "11\" Liquid Retina"], ["Chip", "M4"], ["Storage", "128GB - 1TB"], ["Cameras", "12MP wide + 12MP Ultra Wide front"], ["Connectivity", "Wi-Fi 6E + 5G"]]
+    specs: [[["Display", "11\" Liquid Retina"], ["Chip", "M4"], ["Storage", "128GB - 1TB"], ["Cameras", "12MP wide + 12MP Ultra Wide front"], ["Connectivity", "Wi-Fi 6E + 5G"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-ipad-air-13-m3-space-gray",
@@ -148,7 +160,8 @@ const PRODUCTS_APPLE = [
     colors: ["Space Gray", "Starlight", "Blue", "Purple"],
     description: "A huge canvas for creativity. The 13-inch iPad Air with M3 delivers brilliant performance on a gorgeous large Liquid Retina display. Ideal for artists, students and professionals who need a big, powerful and portable creative workspace.",
     highlights: ["M3 chip performance", "13\" large Liquid Retina display", "Apple Pencil Pro support"],
-    specs: [["Display", "13\" Liquid Retina"], ["Chip", "M3"], ["Storage", "128GB - 1TB"], ["Cameras", "12MP rear + 12MP front"], ["Battery", "Up to 10 hrs"]]
+    specs: [[["Display", "13\" Liquid Retina"], ["Chip", "M3"], ["Storage", "128GB - 1TB"], ["Cameras", "12MP rear + 12MP front"], ["Battery", "Up to 10 hrs"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-ipad-air-13-m4-blue",
@@ -160,7 +173,8 @@ const PRODUCTS_APPLE = [
     tag: "New",
     description: "The biggest and most powerful iPad Air ever. The 13-inch model pairs the M4 chip with a breathtaking Liquid Retina display — an incredible 36% brighter than before. Built for serious creative work, stunning visuals and all-day productivity.",
     highlights: ["M4 chip — the most powerful iPad Air", "13\" brighter Liquid Retina display", "Fast Wi-Fi 6E + 5G"],
-    specs: [["Display", "13\" Liquid Retina"], ["Chip", "M4"], ["Storage", "128GB - 1TB"], ["Cameras", "12MP rear + 12MP front"], ["Connectivity", "Wi-Fi 6E + 5G"]]
+    specs: [[["Display", "13\" Liquid Retina"], ["Chip", "M4"], ["Storage", "128GB - 1TB"], ["Cameras", "12MP rear + 12MP front"], ["Connectivity", "Wi-Fi 6E + 5G"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-ipad-mini-7-purple",
@@ -171,7 +185,8 @@ const PRODUCTS_APPLE = [
     colors: ["Purple", "Starlight", "Pink", "Space Gray"],
     description: "Mini size, maximum power. The iPad mini with A17 Pro chip fits raw performance in your hand. The 8.3-inch Liquid Retina display, Apple Pencil Pro support and ultra-portable design make it perfect for reading, note-taking and on-the-go creativity.",
     highlights: ["A17 Pro chip in a pocketable design", "8.3\" Liquid Retina display", "Apple Pencil Pro support"],
-    specs: [["Display", "8.3\" Liquid Retina"], ["Chip", "A17 Pro"], ["Storage", "128GB - 512GB"], ["Cameras", "12MP rear + 12MP front"], ["Weight", "293g"]]
+    specs: [[["Display", "8.3\" Liquid Retina"], ["Chip", "A17 Pro"], ["Storage", "128GB - 512GB"], ["Cameras", "12MP rear + 12MP front"], ["Weight", "293g"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-ipad-pro-11-m5-space-black",
@@ -183,18 +198,20 @@ const PRODUCTS_APPLE = [
     tag: "Pro",
     description: "The thinnest product Apple has ever made. The 11-inch iPad Pro with M5 chip and Ultra Retina XDR display (Tandem OLED) is a creative powerhouse. Studio-quality cameras, Thunderbolt and pro performance for the most demanding workflows.",
     highlights: ["M5 chip + Ultra Retina XDR display", "Thinnest Apple device ever", "Thunderbolt + pro camera system"],
-    specs: [["Display", "11\" Ultra Retina XDR (Tandem OLED)"], ["Chip", "M5"], ["Storage", "256GB - 2TB"], ["Ports", "Thunderbolt 4"], ["Battery", "Up to 10 hrs"]]
+    specs: [[["Display", "11\" Ultra Retina XDR (Tandem OLED)"], ["Chip", "M5"], ["Storage", "256GB - 2TB"], ["Ports", "Thunderbolt 4"], ["Battery", "Up to 10 hrs"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   },
   {
     id: "apple-ipad-pro-13-m5-space-black",
     name: "Apple iPad Pro 13\" (M5)",
     brand: "Apple",
     category: "tablets",
-    price: 33999, compareAt: 35999, rating: 5.0, reviews: 87,
+    price: 33999, compareAt: 35999, rating: 5, reviews: 87,
     colors: ["Space Black", "Silver"],
     tag: "Pro",
     description: "The ultimate iPad. A massive 13-inch Ultra Retina XDR Tandem OLED display, M5 chip, Thunderbolt and pro-level cameras make the 13-inch iPad Pro the definitive choice for filmmakers, designers and professionals who demand the very best.",
     highlights: ["13\" Ultra Retina XDR Tandem OLED", "M5 chip with desktop-class power", "Pro cameras + Thunderbolt 4"],
-    specs: [["Display", "13\" Ultra Retina XDR (Tandem OLED)"], ["Chip", "M5"], ["Storage", "256GB - 2TB"], ["Ports", "Thunderbolt 4"], ["Battery", "Up to 10 hrs"]]
+    specs: [[["Display", "13\" Ultra Retina XDR (Tandem OLED)"], ["Chip", "M5"], ["Storage", "256GB - 2TB"], ["Ports", "Thunderbolt 4"], ["Battery", "Up to 10 hrs"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MVV83QA.jpg?v=1786956529"
   }
 ];

@@ -1,4 +1,4 @@
-// Techgrid Africa — Samsung Galaxy (prices in ZAR)
+// Techgrid Africa — products samsung (prices in ZAR)
 const PRODUCTS_SAMSUNG = [
   {
     id: "samsung-galaxy-s25-silver-shadow",
@@ -10,7 +10,8 @@ const PRODUCTS_SAMSUNG = [
     tag: "Bestseller",
     description: "The Galaxy S25 pairs the blazing Snapdragon 8 Elite processor with Galaxy AI and a versatile 50MP triple-camera. A stunning 6.2-inch Dynamic AMOLED 2X display with 120Hz, premium armour aluminium frame and 7 years of updates — flagship essentials, refined.",
     highlights: ["Snapdragon 8 Elite + Galaxy AI", "50MP triple camera, 120Hz AMOLED", "7 years of software updates"],
-    specs: [["Display", "6.2\" Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "50MP + 12MP UW + 10MP 3x tele"], ["Battery", "4000 mAh, 25W fast charge"], ["Build", "Armor Aluminum + Gorilla Glass"]]
+    specs: [[["Display", "6.2\" Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "50MP + 12MP UW + 10MP 3x tele"], ["Battery", "4000 mAh, 25W fast charge"], ["Build", "Armor Aluminum + Gorilla Glass"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-s25-plus-navy",
@@ -21,19 +22,21 @@ const PRODUCTS_SAMSUNG = [
     colors: ["Navy", "Silver Shadow", "Icy Blue", "Mint"],
     description: "The perfect balance of screen and substance. The Galaxy S25+ offers a gorgeous 6.7-inch QHD+ 120Hz display, Snapdragon 8 Elite performance and a larger battery with faster charging — everything from the S25, bigger and better.",
     highlights: ["6.7\" QHD+ 120Hz display", "Snapdragon 8 Elite + Galaxy AI", "Bigger battery, 45W charging"],
-    specs: [["Display", "6.7\" QHD+ Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "50MP + 12MP UW + 10MP 3x tele"], ["Battery", "4900 mAh, 45W charging"], ["Build", "Armor Aluminum + Gorilla Glass"]]
+    specs: [[["Display", "6.7\" QHD+ Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "50MP + 12MP UW + 10MP 3x tele"], ["Battery", "4900 mAh, 45W charging"], ["Build", "Armor Aluminum + Gorilla Glass"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-s25-ultra-titanium-silverblue",
     name: "Samsung Galaxy S25 Ultra (Titanium Silver Blue)",
     brand: "Samsung",
     category: "smartphones",
-    price: 35999, compareAt: 37999, rating: 5.0, reviews: 320,
+    price: 35999, compareAt: 37999, rating: 5, reviews: 320,
     colors: ["Titanium Silver Blue", "Titanium Black", "Titanium Gray", "Titanium White"],
     tag: "Pro",
     description: "The most advanced Galaxy yet. Titanium body, a 6.9-inch QHD+ display with an included S Pen, Snapdragon 8 Elite and a 200MP quad-camera with 5x optical zoom and Galaxy AI. A true ultra flagship for those who want everything.",
     highlights: ["200MP quad camera with 5x optical zoom", "Titanium frame + built-in S Pen", "Snapdragon 8 Elite + Galaxy AI"],
-    specs: [["Display", "6.9\" QHD+ Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "200MP + 50MP UW + 2x tele + 5x tele"], ["S Pen", "Built-in"], ["Battery", "5000 mAh, 45W charging"], ["Build", "Titanium frame"]]
+    specs: [[["Display", "6.9\" QHD+ Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "200MP + 50MP UW + 2x tele + 5x tele"], ["S Pen", "Built-in"], ["Battery", "5000 mAh, 45W charging"], ["Build", "Titanium frame"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-s25-fe-navy",
@@ -44,7 +47,8 @@ const PRODUCTS_SAMSUNG = [
     colors: ["Navy", "Silver Shadow", "Icy Blue", "Mint"],
     description: "Fan Edition value, flagship feel. The Galaxy S25 FE delivers the iconic S-series design, a 50MP triple camera, a smooth 6.7-inch 120Hz display and Galaxy AI — all powered by the same Snapdragon chip family, at a price that makes sense.",
     highlights: ["Flagship S-series design & Galaxy AI", "50MP triple camera", "6.7\" 120Hz display"],
-    specs: [["Display", "6.7\" Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Gen 3"], ["Camera", "50MP + 12MP UW + 8MP 3x tele"], ["Battery", "4700 mAh, 25W charging"], ["Updates", "7 years of software updates"]]
+    specs: [[["Display", "6.7\" Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Gen 3"], ["Camera", "50MP + 12MP UW + 8MP 3x tele"], ["Battery", "4700 mAh, 25W charging"], ["Updates", "7 years of software updates"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-s25-edge-jetblack",
@@ -56,7 +60,8 @@ const PRODUCTS_SAMSUNG = [
     tag: "Slim",
     description: "A breathtakingly slim new flagship. The Galaxy S25 Edge pairs a stunning ultra-thin titanium design with a brilliant 6.7-inch AMOLED display and Snapdragon 8 Elite power. Strikingly sleek, seriously fast.",
     highlights: ["Ultra-slim titanium design", "6.7\" AMOLED 120Hz display", "Snapdragon 8 Elite performance"],
-    specs: [["Display", "6.7\" Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "200MP main + 12MP UW"], ["Build", "Titanium frame"], ["Battery", "4000 mAh, 45W charging"]]
+    specs: [[["Display", "6.7\" Dynamic AMOLED 2X, 120Hz"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "200MP main + 12MP UW"], ["Build", "Titanium frame"], ["Battery", "4000 mAh, 45W charging"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-s26-cobalt-violet",
@@ -68,7 +73,8 @@ const PRODUCTS_SAMSUNG = [
     tag: "New",
     description: "The next generation of Galaxy. The S26 brings a stunning new Cobalt Violet finish, the Snapdragon 9 Gen chip, an upgraded 50MP main camera with 4K120 video, and Galaxy AI that's smarter and more personal than ever.",
     highlights: ["Next-gen Snapdragon 9 Gen chip", "Upgraded 50MP camera, 4K120 video", "New Cobalt Violet finish"],
-    specs: [["Display", "6.3\" QHD+ AMOLED, 120Hz"], ["Chip", "Snapdragon 9 Gen"], ["Camera", "50MP + 12MP UW + 10MP tele"], ["Battery", "4200 mAh, 45W"], ["Updates", "7 years of software updates"]]
+    specs: [[["Display", "6.3\" QHD+ AMOLED, 120Hz"], ["Chip", "Snapdragon 9 Gen"], ["Camera", "50MP + 12MP UW + 10MP tele"], ["Battery", "4200 mAh, 45W"], ["Updates", "7 years of software updates"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-s26-plus-cobalt-violet",
@@ -79,20 +85,22 @@ const PRODUCTS_SAMSUNG = [
     colors: ["Cobalt Violet", "Lunar Silver", "Graphite"],
     tag: "New",
     description: "Bigger, brighter, faster. The Galaxy S26+ combines a massive 6.8-inch QHD+ display, next-gen Snapdragon performance and a 5000mAh battery with 45W charging — the complete flagship experience with room to spare.",
-    highlights: ["6.8\" QHD+ display, 2600 nits", "5000mAh battery + 45W charging", "Snapdragon 9 Gen + Galaxy AI"],
-    specs: [["Display", "6.8\" QHD+ AMOLED, 120Hz"], ["Chip", "Snapdragon 9 Gen"], ["Camera", "50MP + 12MP UW + 10MP tele"], ["Battery", "5000 mAh, 45W charging"], ["Updates", "7 years of software updates"]]
+    highlights: ["6.8" QHD+ display, 2600 nits", "5000mAh battery + 45W charging", "Snapdragon 9 Gen + Galaxy AI"],
+    specs: [[["Display", "6.8\" QHD+ AMOLED, 120Hz"], ["Chip", "Snapdragon 9 Gen"], ["Camera", "50MP + 12MP UW + 10MP tele"], ["Battery", "5000 mAh, 45W charging"], ["Updates", "7 years of software updates"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-s26-ultra-black",
     name: "Samsung Galaxy S26 Ultra (Black)",
     brand: "Samsung",
     category: "smartphones",
-    price: 38999, compareAt: 40999, rating: 5.0, reviews: 51,
+    price: 38999, compareAt: 40999, rating: 5, reviews: 51,
     colors: ["Black", "Titanium Gray", "Titanium Silver"],
     tag: "New",
     description: "The benchmark, raised. The Galaxy S26 Ultra packs a 220MP periscope camera with 7x optical zoom, a 6.9-inch QHD+ display, S Pen, and the fastest Snapdragon silicon yet. Nothing else comes close.",
     highlights: ["220MP periscope camera, 7x optical zoom", "6.9\" QHD+ display + S Pen", "Fastest Snapdragon chip yet"],
-    specs: [["Display", "6.9\" QHD+ AMOLED, 120Hz"], ["Chip", "Snapdragon 9 Gen for Galaxy"], ["Camera", "220MP periscope, 7x optical zoom"], ["S Pen", "Built-in"], ["Battery", "5000 mAh, 45W charging"]]
+    specs: [[["Display", "6.9\" QHD+ AMOLED, 120Hz"], ["Chip", "Snapdragon 9 Gen for Galaxy"], ["Camera", "220MP periscope, 7x optical zoom"], ["S Pen", "Built-in"], ["Battery", "5000 mAh, 45W charging"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-a06-64gb",
@@ -103,7 +111,8 @@ const PRODUCTS_SAMSUNG = [
     colors: ["Black", "Light Blue", "Gold"],
     description: "Big battery, big screen, small price. The Galaxy A06 delivers a 6.7-inch HD+ display, a huge 5000mAh battery and a dependable dual camera — the perfect entry into Samsung's Galaxy ecosystem for everyday essentials.",
     highlights: ["6.7\" HD+ display", "5000mAh long-lasting battery", "50MP dual camera"],
-    specs: [["Display", "6.7\" HD+ TFT"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "64GB + microSD"], ["OS", "Android (One UI Core)"]]
+    specs: [[["Display", "6.7\" HD+ TFT"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "64GB + microSD"], ["OS", "Android (One UI Core)"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-a07-128gb",
@@ -113,8 +122,9 @@ const PRODUCTS_SAMSUNG = [
     price: 4299, compareAt: 4799, rating: 4.5, reviews: 356,
     colors: ["Black", "Blue", "Gold"],
     description: "More storage, more value. The Galaxy A07 gives you a 6.7-inch display, 128GB of built-in storage, a 5000mAh battery and Samsung's dependable software experience — everything you need to work, stream and stay connected.",
-    highlights: ["128GB storage + microSD", "6.7\" display, 5000mAh battery", "Samsung One UI experience"],
-    specs: [["Display", "6.7\" HD+"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB + microSD"], ["OS", "Android (One UI Core)"]]
+    highlights: ["128GB storage + microSD", "6.7" display, 5000mAh battery", "Samsung One UI experience"],
+    specs: [[["Display", "6.7\" HD+"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB + microSD"], ["OS", "Android (One UI Core)"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-a16",
@@ -125,7 +135,8 @@ const PRODUCTS_SAMSUNG = [
     colors: ["Black", "Light Blue", "Gold"],
     description: "Samsung's most popular A-series gets faster with 5G-ready performance, a vivid 6.7-inch Super AMOLED display and a dependable 50MP camera. A brilliant all-rounder that delivers the Galaxy experience at a sensible price.",
     highlights: ["6.7\" Super AMOLED display", "50MP camera + 5000mAh battery", "Up to 6 years of updates"],
-    specs: [["Display", "6.7\" Super AMOLED, 90Hz"], ["Camera", "50MP + 5MP UW + 2MP depth"], ["Battery", "5000 mAh, 25W charging"], ["Storage", "128GB + microSD"], ["Updates", "Up to 6 years"]]
+    specs: [[["Display", "6.7\" Super AMOLED, 90Hz"], ["Camera", "50MP + 5MP UW + 2MP depth"], ["Battery", "5000 mAh, 25W charging"], ["Storage", "128GB + microSD"], ["Updates", "Up to 6 years"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-a17-5g-black",
@@ -136,7 +147,8 @@ const PRODUCTS_SAMSUNG = [
     colors: ["Black", "Blue", "Silver"],
     description: "5G for everyone. The Galaxy A17 5G brings fast connectivity, a 6.6-inch 90Hz display and a versatile triple camera to the budget segment. Super-fast downloads, smooth scrolling and all-day battery in one clean package.",
     highlights: ["5G connectivity", "6.6\" 90Hz display", "50MP triple camera, 5000mAh"],
-    specs: [["Display", "6.6\" TFT, 90Hz"], ["Network", "5G"], ["Camera", "50MP + 5MP UW + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB + microSD"]]
+    specs: [[["Display", "6.6\" TFT, 90Hz"], ["Network", "5G"], ["Camera", "50MP + 5MP UW + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB + microSD"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-a36-5g-black",
@@ -148,7 +160,8 @@ const PRODUCTS_SAMSUNG = [
     tag: "Value",
     description: "The complete mid-range. Galaxy A36 5G offers a 6.7-inch Super AMOLED 120Hz display, a 50MP OIS camera, 5G speed and an IP67 water-resistant design. Premium features that punch well above their price class.",
     highlights: ["6.7\" Super AMOLED 120Hz", "50MP OIS camera", "IP67 + 5000mAh + 45W"],
-    specs: [["Display", "6.7\" Super AMOLED, 120Hz"], ["Chip", "Snapdragon 6 Gen"], ["Camera", "50MP OIS + 8MP UW + 5MP macro"], ["Battery", "5000 mAh, 45W charging"], ["Rating", "IP67 water & dust resistant"]]
+    specs: [[["Display", "6.7\" Super AMOLED, 120Hz"], ["Chip", "Snapdragon 6 Gen"], ["Camera", "50MP OIS + 8MP UW + 5MP macro"], ["Battery", "5000 mAh, 45W charging"], ["Rating", "IP67 water & dust resistant"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-a37-5g-charcoal",
@@ -159,7 +172,8 @@ const PRODUCTS_SAMSUNG = [
     colors: ["Awesome Charcoal", "Awesome White", "Awesome Lavender"],
     description: "The Galaxy A37 5G refines the essentials: a brighter 6.7-inch 120Hz AMOLED, a 50MP camera with OIS, faster charging and a premium glass design. A thoughtful mid-ranger that looks and feels more expensive than it is.",
     highlights: ["Brighter 120Hz AMOLED display", "50MP OIS camera", "Premium glass design + 5G"],
-    specs: [["Display", "6.7\" Super AMOLED, 120Hz"], ["Network", "5G"], ["Camera", "50MP OIS + 8MP UW + 5MP macro"], ["Battery", "5000 mAh, 45W"], ["Build", "Glass front & back"]]
+    specs: [[["Display", "6.7\" Super AMOLED, 120Hz"], ["Network", "5G"], ["Camera", "50MP OIS + 8MP UW + 5MP macro"], ["Battery", "5000 mAh, 45W"], ["Build", "Glass front & back"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-a57-5g-navy",
@@ -171,7 +185,8 @@ const PRODUCTS_SAMSUNG = [
     tag: "Value",
     description: "The best of the A-series. Galaxy A57 5G brings a flagship-grade 50MP OIS main camera, a stunning 120Hz Super AMOLED display and big 5000mAh battery with 45W super fast charging. Serious specs, seriously smart price.",
     highlights: ["50MP OIS camera, 4K video", "6.7\" Super AMOLED 120Hz", "5000mAh + 45W super fast charging"],
-    specs: [["Display", "6.7\" Super AMOLED, 120Hz"], ["Network", "5G"], ["Camera", "50MP OIS + 12MP UW + 5MP macro"], ["Battery", "5000 mAh, 45W charging"], ["Rating", "IP67 water & dust resistant"]]
+    specs: [[["Display", "6.7\" Super AMOLED, 120Hz"], ["Network", "5G"], ["Camera", "50MP OIS + 12MP UW + 5MP macro"], ["Battery", "5000 mAh, 45W charging"], ["Rating", "IP67 water & dust resistant"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-z-fold7-jetblack",
@@ -183,7 +198,8 @@ const PRODUCTS_SAMSUNG = [
     tag: "Foldable",
     description: "The ultimate productivity phone. The Galaxy Z Fold 7 unfolds into a massive 7.6-inch Infinity Flex display — a phone, tablet and multitasking powerhouse in one. S Pen support, flagship cameras and Galaxy AI make it the definitive foldable.",
     highlights: ["7.6\" foldable Infinity Flex display", "S Pen support + Galaxy AI", "200MP main camera"],
-    specs: [["Display", "7.6\" foldable + 6.3\" cover"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "200MP + 12MP UW + 10MP 3x tele"], ["Battery", "4400 mAh, 25W"], ["S Pen", "Supported"]]
+    specs: [[["Display", "7.6\" foldable + 6.3\" cover"], ["Chip", "Snapdragon 8 Elite"], ["Camera", "200MP + 12MP UW + 10MP 3x tele"], ["Battery", "4400 mAh, 25W"], ["S Pen", "Supported"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-z-fold8-lavender",
@@ -195,19 +211,21 @@ const PRODUCTS_SAMSUNG = [
     tag: "New",
     description: "A refined evolution of the fold. The Galaxy Z Fold 8 is thinner, lighter and stronger than ever, with a brighter foldable display, next-gen Snapdragon power and the best multitasking on any phone. Fold your world into one.",
     highlights: ["Thinner & lighter titanium design", "Brighter 7.6\" foldable display", "Next-gen Snapdragon + Galaxy AI"],
-    specs: [["Display", "7.6\" foldable + 6.3\" cover"], ["Chip", "Snapdragon 9 Gen"], ["Camera", "200MP + 12MP UW + 10MP 3x tele"], ["Battery", "4500 mAh"], ["Build", "Titanium frame"]]
+    specs: [[["Display", "7.6\" foldable + 6.3\" cover"], ["Chip", "Snapdragon 9 Gen"], ["Camera", "200MP + 12MP UW + 10MP 3x tele"], ["Battery", "4500 mAh"], ["Build", "Titanium frame"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-z-fold8-ultra-graphite",
     name: "Samsung Galaxy Z Fold 8 Ultra (Graphite)",
     brand: "Samsung",
     category: "foldables",
-    price: 59999, compareAt: 62999, rating: 5.0, reviews: 88,
+    price: 59999, compareAt: 62999, rating: 5, reviews: 88,
     colors: ["Graphite", "Silver"],
     tag: "New",
     description: "The Ultra of foldables. A larger 8-inch foldable display, the fastest Snapdragon chip, a 220MP camera and S Pen built in. The Galaxy Z Fold 8 Ultra is a desktop in your pocket — for those who refuse to compromise.",
     highlights: ["8\" foldable Ultra display", "220MP camera + S Pen", "Fastest Snapdragon chip"],
-    specs: [["Display", "8\" foldable + 6.5\" cover"], ["Chip", "Snapdragon 9 Gen for Galaxy"], ["Camera", "220MP + 12MP UW + 10MP 5x tele"], ["S Pen", "Built-in"], ["Battery", "4600 mAh"]]
+    specs: [[["Display", "8\" foldable + 6.5\" cover"], ["Chip", "Snapdragon 9 Gen for Galaxy"], ["Camera", "220MP + 12MP UW + 10MP 5x tele"], ["S Pen", "Built-in"], ["Battery", "4600 mAh"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-z-flip8-pink",
@@ -219,7 +237,8 @@ const PRODUCTS_SAMSUNG = [
     tag: "Bestseller",
     description: "Style that folds. The Galaxy Z Flip 8 is a compact fashion statement with a large cover display for quick replies and selfies, a durable hinge, flagship cameras and all-day battery. Small on the outside, huge on the inside.",
     highlights: ["Compact flip design, FlexCam selfies", "Large cover display", "Flagship camera + all-day battery"],
-    specs: [["Display", "6.7\" foldable + 3.4\" cover"], ["Chip", "Snapdragon 9 Gen"], ["Camera", "50MP + 12MP UW"], ["Battery", "4000 mAh"], ["Rating", "IP48 water resistance"]]
+    specs: [[["Display", "6.7\" foldable + 3.4\" cover"], ["Chip", "Snapdragon 9 Gen"], ["Camera", "50MP + 12MP UW"], ["Battery", "4000 mAh"], ["Rating", "IP48 water resistance"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-xcover7-pro-5g-black",
@@ -231,7 +250,8 @@ const PRODUCTS_SAMSUNG = [
     tag: "Rugged",
     description: "Built to survive. The Galaxy XCover7 Pro 5G is MIL-STD-810H certified and IP68 rated, drop-proof, dust-proof and water-proof, with a removable battery, programmable XCover key and 5G connectivity. Tough enough for the harshest jobs.",
     highlights: ["MIL-STD-810H + IP68 certified", "Removable 5000mAh battery", "Programmable XCover key, 5G"],
-    specs: [["Display", "6.6\" 120Hz"], ["Rating", "IP68 + MIL-STD-810H"], ["Battery", "5000 mAh removable"], ["Camera", "50MP + 8MP front"], ["Network", "5G"]]
+    specs: [[["Display", "6.6\" 120Hz"], ["Rating", "IP68 + MIL-STD-810H"], ["Battery", "5000 mAh removable"], ["Camera", "50MP + 8MP front"], ["Network", "5G"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-tab-a9-plus-5g-graphite",
@@ -242,7 +262,8 @@ const PRODUCTS_SAMSUNG = [
     colors: ["Graphite", "Silver", "Navy"],
     description: "Big screen, big value. The Galaxy Tab A9+ 5G features an 11-inch 90Hz display, quad speakers tuned by Dolby Atmos and a long-lasting 7040mAh battery. Perfect for streaming, gaming and getting things done.",
     highlights: ["11\" 90Hz display", "Dolby Atmos quad speakers", "7040mAh battery + 5G"],
-    specs: [["Display", "11\" LCD, 90Hz"], ["Speakers", "Quad Dolby Atmos"], ["Battery", "7040 mAh"], ["Network", "5G"], ["Storage", "64GB + microSD"]]
+    specs: [[["Display", "11\" LCD, 90Hz"], ["Speakers", "Quad Dolby Atmos"], ["Battery", "7040 mAh"], ["Network", "5G"], ["Storage", "64GB + microSD"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-tab-a11-plus-5g-gray",
@@ -252,8 +273,9 @@ const PRODUCTS_SAMSUNG = [
     price: 7499, compareAt: 8499, rating: 4.6, reviews: 121,
     colors: ["Gray", "Silver"],
     description: "More canvas, more fun. The Galaxy Tab A11+ 5G grows the experience with an 11-inch display, immersive quad speakers and a massive battery — an entertainment hub for the whole family, ready for school, work and play.",
-    highlights: ["11\" display, great for streaming", "Quad speakers with Dolby Atmos", "Long-lasting battery + 5G"],
-    specs: [["Display", "11\" LCD"], ["Speakers", "Quad Dolby Atmos"], ["Battery", "7500 mAh"], ["Network", "5G"], ["Storage", "128GB + microSD"]]
+    highlights: ["11" display, great for streaming", "Quad speakers with Dolby Atmos", "Long-lasting battery + 5G"],
+    specs: [[["Display", "11\" LCD"], ["Speakers", "Quad Dolby Atmos"], ["Battery", "7500 mAh"], ["Network", "5G"], ["Storage", "128GB + microSD"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "samsung-galaxy-tab-s10-fe-5g-cool-gray",
@@ -265,6 +287,7 @@ const PRODUCTS_SAMSUNG = [
     tag: "Bestseller",
     description: "Galaxy S-class tablet, accessible price. The Tab S10 FE 5G combines a gorgeous 10.9-inch display, S Pen included, powerful performance and long battery life. Ideal for students, creators and professionals on the move.",
     highlights: ["S Pen included", "10.9\" vibrant display", "Powerful performance + 5G"],
-    specs: [["Display", "10.9\" 90Hz"], ["S Pen", "Included"], ["Battery", "8000 mAh, 45W"], ["Network", "5G"], ["Storage", "128GB + microSD"]]
+    specs: [[["Display", "10.9\" 90Hz"], ["S Pen", "Included"], ["Battery", "8000 mAh, 45W"], ["Network", "5G"], ["Storage", "128GB + microSD"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   }
 ];

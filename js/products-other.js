@@ -1,4 +1,4 @@
-// Techgrid Africa — T-Mobile/TCL/Sonim, Xiaomi/Realme/OPPO, Huawei/Honor/Hisense, HMD/Nokia/Mobicel (prices in ZAR)
+// Techgrid Africa — products other (prices in ZAR)
 const PRODUCTS_OTHER = [
   {
     id: "tmobile-revvl-8-icy-silver",
@@ -9,18 +9,8 @@ const PRODUCTS_OTHER = [
     colors: ["Icy Silver", "Obsidian"],
     description: "The REVVL 8 is an honest, capable 5G smartphone: a big 6.6-inch display, a 50MP camera and a 5000mAh battery with a clean Android experience. Great everyday value from T-Mobile.",
     highlights: ["6.6\" 90Hz display", "50MP camera", "5000mAh battery, 5G"],
-    specs: [["Display", "6.6\" LCD, 90Hz"], ["Network", "5G"], ["Camera", "50MP + 5MP UW"], ["Battery", "5000 mAh"], ["Storage", "128GB + microSD"]]
-  },
-  {
-    id: "tmobile-revvl-8-pro-graphite",
-    name: "T-Mobile REVVL 8 Pro (Graphite Gray)",
-    brand: "T-Mobile",
-    category: "smartphones",
-    price: 7999, compareAt: 8999, rating: 4.4, reviews: 144,
-    colors: ["Graphite Gray"],
-    description: "The Pro way to save. REVVL 8 Pro steps up with a 120Hz display, a 50MP OIS camera, faster charging and 5G — a surprisingly premium experience at a fraction of flagship prices.",
-    highlights: ["120Hz display", "50MP OIS camera", "5G + faster charging"],
-    specs: [["Display", "6.7\" OLED, 120Hz"], ["Network", "5G"], ["Camera", "50MP OIS + 5MP UW"], ["Battery", "5000 mAh, 33W"], ["Storage", "256GB"]]
+    specs: [[["Display", "6.6\" LCD, 90Hz"], ["Network", "5G"], ["Camera", "50MP + 5MP UW"], ["Battery", "5000 mAh"], ["Storage", "128GB + microSD"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/iPad-10th_Gen_10.9_inch.jpg?v=1720548653"
   },
   {
     id: "tmobile-revvl-tab-2-black",
@@ -31,7 +21,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black"],
     description: "Big screen entertainment without the big price. The REVVL Tab 2 offers a spacious 11-inch display, quad speakers and 5G connectivity — perfect for streaming, learning and staying connected on the go.",
     highlights: ["11\" display", "Quad speakers", "5G connectivity"],
-    specs: [["Display", "11\" LCD"], ["Speakers", "Quad"], ["Battery", "7000 mAh"], ["Network", "5G"], ["Storage", "64GB + microSD"]]
+    specs: [[["Display", "11\" LCD"], ["Speakers", "Quad"], ["Battery", "7000 mAh"], ["Network", "5G"], ["Storage", "64GB + microSD"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/V2440_512_5G_DS_BLK.jpg?v=1772444227"
   },
   {
     id: "tcl-nxtpaper-70-pro-stellar-blue",
@@ -43,18 +34,8 @@ const PRODUCTS_OTHER = [
     tag: "Eye-care",
     description: "Paper-like reading without eyestrain. The TCL NXTPAPER 70 Pro uses revolutionary eye-care display tech with a matte finish and e-ink mode for comfortable, long reading sessions — plus a 50MP camera and 5G.",
     highlights: ["Eye-care NXTPAPER display", "E-ink reading mode", "50MP camera + 5G"],
-    specs: [["Display", "6.78\" NXTPAPER 3.0, 120Hz"], ["Network", "5G"], ["Camera", "50MP + 8MP UW"], ["Battery", "5100 mAh, 33W"], ["Storage", "256GB"]]
-  },
-  {
-    id: "tcl-flip-4-5g-stone-gray",
-    name: "TCL FLIP 4 5G (Stone Gray)",
-    brand: "TCL",
-    category: "budget",
-    price: 3999, compareAt: 4499, rating: 4.2, reviews: 167,
-    colors: ["Stone Gray"],
-    description: "A classic flip phone that keeps you connected. The TCL FLIP 4 5G offers a tactile keypad, large readable screen, 5G data and a dedicated emergency button — perfect for seniors or anyone who wants a simpler phone.",
-    highlights: ["Classic flip design with keypad", "5G connectivity", "Emergency button + hearing aid compatible"],
-    specs: [["Form", "Flip phone"], ["Network", "5G"], ["Display", "3.5\" + outer display"], ["Camera", "5MP"], ["Battery", "2000 mAh"]]
+    specs: [[["Display", "6.78\" NXTPAPER 3.0, 120Hz"], ["Network", "5G"], ["Camera", "50MP + 8MP UW"], ["Battery", "5100 mAh, 33W"], ["Storage", "256GB"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/MU693LL.jpg?v=1775424067"
   },
   {
     id: "sonim-xp3-plus-5g-black",
@@ -66,7 +47,8 @@ const PRODUCTS_OTHER = [
     tag: "Rugged",
     description: "Built for the field. The Sonim XP3+ 5G is a rugged flip-style phone with IP68 and MIL-STD-810H certification, loud 120dB speaker, programmable SOS button and a massive battery. 5G-ready for the toughest jobs.",
     highlights: ["IP68 + MIL-STD-810H rugged", "120dB loud speaker", "Programmable SOS button + 5G"],
-    specs: [["Form", "Rugged flip"], ["Rating", "IP68 + MIL-STD-810H"], ["Battery", "5000 mAh"], ["Speaker", "120dB"], ["Network", "5G"]]
+    specs: [[["Form\", \"Rugged flip\"], [\"Rating\", \"IP68 + MIL-STD-810H\"], [\"Battery\", \"5000 mAh\"], [\"Speaker\", \"120dB\"], [\"Network\", \"5G"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/V2440_512_5G_DS_BLK.jpg?v=1772444227"
   },
   {
     id: "sonim-xp3-plus-5g-non-camera-black",
@@ -78,7 +60,8 @@ const PRODUCTS_OTHER = [
     tag: "Rugged",
     description: "The secure choice for sensitive workplaces. The Non-Camera edition of the rugged XP3+ 5G removes the camera for compliance in security and government environments — while keeping every inch of Sonim toughness.",
     highlights: ["No camera — for secure sites", "IP68 + MIL-STD-810H rugged", "120dB speaker, 5G"],
-    specs: [["Form", "Rugged flip"], ["Camera", "None (secure)"], ["Rating", "IP68 + MIL-STD-810H"], ["Battery", "5000 mAh"], ["Network", "5G"]]
+    specs: [[["Form\", \"Rugged flip\"], [\"Camera\", \"None (secure)\"], [\"Rating\", \"IP68 + MIL-STD-810H\"], [\"Battery\", \"5000 mAh\"], [\"Network\", \"5G"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/V2440_512_5G_DS_BLK.jpg?v=1772444227"
   },
   {
     id: "sonim-xp-pro-black",
@@ -90,7 +73,8 @@ const PRODUCTS_OTHER = [
     tag: "Rugged",
     description: "The flagship of rugged smartphones. Sonim XP Pro combines a powerful 6.1-inch display, a 50MP camera and long-life battery with unrivaled IP68/MIL-STD-810H durability and a 120dB loud speaker. Built for the most demanding professionals.",
     highlights: ["Flagship rugged smartphone", "50MP camera + 6.1\" display", "IP68 + MIL-STD-810H, 120dB"],
-    specs: [["Display", "6.1\" FHD+"], ["Rating", "IP68 + MIL-STD-810H"], ["Camera", "50MP"], ["Battery", "5000 mAh hot-swap"], ["Speaker", "120dB"]]
+    specs: [[["Display", "6.1\" FHD+"], ["Rating", "IP68 + MIL-STD-810H"], ["Camera", "50MP"], ["Battery", "5000 mAh hot-swap"], ["Speaker", "120dB"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/V2440_512_5G_DS_BLK.jpg?v=1772444227"
   },
   {
     id: "xiaomi-redmi-note-15-pro",
@@ -102,18 +86,8 @@ const PRODUCTS_OTHER = [
     tag: "Value",
     description: "Flagship features, mid-range price. The Redmi Note 15 Pro delivers a 200MP camera, a stunning 120Hz AMOLED display and big 5000mAh battery with 67W turbo charging — the complete package for less.",
     highlights: ["200MP camera", "6.67\" AMOLED 120Hz", "5000mAh + 67W turbo charging"],
-    specs: [["Display", "6.67\" AMOLED, 120Hz"], ["Camera", "200MP + 8MP UW + 2MP macro"], ["Battery", "5000 mAh, 67W"], ["Chip", "MediaTek Dimensity 7200 Ultra"], ["Storage", "256GB"]]
-  },
-  {
-    id: "xiaomi-redmi-note-15-128gb",
-    name: "Xiaomi Redmi Note 15 (128GB)",
-    brand: "Xiaomi",
-    category: "smartphones",
-    price: 6999, compareAt: 7999, rating: 4.5, reviews: 321,
-    colors: ["Black", "Blue", "Purple"],
-    description: "The people's champion. Redmi Note 15 balances a 6.67-inch 120Hz AMOLED display, a capable 108MP camera and dependable battery life at a price that's hard to argue with. Dual SIM ready.",
-    highlights: ["6.67\" AMOLED 120Hz", "108MP camera", "5000mAh battery, 33W"],
-    specs: [["Display", "6.67\" AMOLED, 120Hz"], ["Camera", "108MP + 8MP UW + 2MP macro"], ["Battery", "5000 mAh, 33W"], ["Chip", "Snapdragon 685"], ["Storage", "128GB"]]
+    specs: [[["Display", "6.67\" AMOLED, 120Hz"], ["Camera", "200MP + 8MP UW + 2MP macro"], ["Battery", "5000 mAh, 67W"], ["Chip", "MediaTek Dimensity 7200 Ultra"], ["Storage", "256GB"]]],
+    image: "https://cdn.shopify.com/s/files/1/0894/6886/2752/files/Samsung_Galaxy_Note_20_Ultra_7.png?v=1776873399"
   },
   {
     id: "xiaomi-redmi-15-gold",
@@ -124,7 +98,8 @@ const PRODUCTS_OTHER = [
     colors: ["Gold", "Black", "Silver"],
     description: "Redmi essentials, upgraded. The Redmi 15 offers a large 6.7-inch display, a 50MP camera and a massive 5000mAh battery with fast charging — dependable daily performance without breaking the bank.",
     highlights: ["6.7\" 90Hz display", "50MP camera", "5000mAh + fast charging"],
-    specs: [["Display", "6.7\" LCD, 90Hz"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh, 18W"], ["Chip", "MediaTek Helio G85"], ["Storage", "128GB"]]
+    specs: [[["Display", "6.7\" LCD, 90Hz"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh, 18W"], ["Chip", "MediaTek Helio G85"], ["Storage", "128GB"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/sam_s22_pink_291c71a2-5222-4837-b3cc-72d3cfc99a4e.jpg?v=1739457401"
   },
   {
     id: "xiaomi-redmi-15c-128gb",
@@ -135,7 +110,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue", "Green"],
     description: "Maximum value, minimal fuss. The Redmi 15c keeps things simple with a 6.7-inch display, 50MP camera, huge 5000mAh battery and dual SIM — the dependable workhorse for everyday communication.",
     highlights: ["6.7\" display", "50MP camera", "5000mAh battery, dual SIM"],
-    specs: [["Display", "6.7\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["SIM", "Dual SIM"]]
+    specs: [[["Display", "6.7\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["SIM", "Dual SIM"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/E510MA-C4512B0W_front_66cfc201-5cc9-454d-a87d-496bf4056b6b.jpg?v=1700379275"
   },
   {
     id: "xiaomi-redmi-a7-pro-128gb",
@@ -146,7 +122,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Silver", "Blue"],
     description: "Smart budget, smart features. The Redmi A7 Pro offers a sleek design, 128GB storage, a 50MP camera and a 5200mAh battery — everything essential for a smooth, modern smartphone experience at the lowest price.",
     highlights: ["50MP camera", "128GB storage", "5200mAh battery"],
-    specs: [["Display", "6.7\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5200 mAh"], ["Storage", "128GB"], ["OS", "Android (clean)"]]
+    specs: [[["Display", "6.7\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5200 mAh"], ["Storage", "128GB"], ["OS", "Android (clean)"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/E510MA-C4512B0W_front_66cfc201-5cc9-454d-a87d-496bf4056b6b.jpg?v=1700379275"
   },
   {
     id: "realme-c71-128gb",
@@ -157,7 +134,8 @@ const PRODUCTS_OTHER = [
     colors: ["Green", "Black", "Blue"],
     description: "The battery king. Realme C71 is built around a colossal 6000mAh battery with 45W fast charging, a 50MP AI camera and a large 90Hz display. Two days of use on a single charge, no problem.",
     highlights: ["6000mAh battery + 45W charging", "50MP AI camera", "6.7\" 90Hz display"],
-    specs: [["Display", "6.7\" LCD, 90Hz"], ["Camera", "50MP + 2MP depth"], ["Battery", "6000 mAh, 45W"], ["Chip", "MediaTek Helio G85"], ["Storage", "128GB"]]
+    specs: [[["Display", "6.7\" LCD, 90Hz"], ["Camera", "50MP + 2MP depth"], ["Battery", "6000 mAh, 45W"], ["Chip", "MediaTek Helio G85"], ["Storage", "128GB"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/E510MA-C4512B0W_front_66cfc201-5cc9-454d-a87d-496bf4056b6b.jpg?v=1700379275"
   },
   {
     id: "oppo-a6x-64gb-purple",
@@ -168,7 +146,8 @@ const PRODUCTS_OTHER = [
     colors: ["Purple", "Black", "Silver"],
     description: "Everyday style, everyday value. The OPPO A6x is a slim, lightweight phone with a 6.6-inch display, a dependable 13MP camera and a long-lasting 5000mAh battery. Beautifully simple, beautifully priced.",
     highlights: ["6.6\" display", "13MP camera", "5000mAh battery"],
-    specs: [["Display", "6.6\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "64GB + microSD"], ["OS", "ColorOS"]]
+    specs: [[["Display", "6.6\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "64GB + microSD"], ["OS", "ColorOS"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/iPad-10th_Gen_10.9_inch.jpg?v=1720548653"
   },
   {
     id: "huawei-nova-14i",
@@ -179,7 +158,8 @@ const PRODUCTS_OTHER = [
     colors: ["Blue", "Black", "White"],
     description: "A stylish mid-ranger with a 108MP camera, a 6.7-inch display and 40W super fast charging. The nova 14i pairs gorgeous design with strong performance and the smooth HarmonyOS experience.",
     highlights: ["108MP camera", "6.7\" 90Hz display", "40W super fast charging"],
-    specs: [["Display", "6.7\" 90Hz"], ["Camera", "108MP + 8MP UW + 2MP macro"], ["Battery", "5000 mAh, 40W"], ["OS", "HarmonyOS"], ["Storage", "256GB"]]
+    specs: [[["Display", "6.7\" 90Hz"], ["Camera", "108MP + 8MP UW + 2MP macro"], ["Battery", "5000 mAh, 40W"], ["OS", "HarmonyOS"], ["Storage", "256GB"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SYA-B19_GRY.jpg?v=1781109194"
   },
   {
     id: "huawei-nova-y63-black",
@@ -190,7 +170,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Green", "Silver"],
     description: "Smart essentials, beautifully executed. The nova Y63 offers a 6.7-inch display, a 50MP camera and a huge 6000mAh battery — Huawei reliability for your everyday life.",
     highlights: ["6.7\" display", "50MP camera", "6000mAh battery"],
-    specs: [["Display", "6.7\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "6000 mAh"], ["OS", "HarmonyOS"], ["Storage", "128GB"]]
+    specs: [[["Display", "6.7\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "6000 mAh"], ["OS", "HarmonyOS"], ["Storage", "128GB"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/V2440_512_5G_DS_BLK.jpg?v=1772444227"
   },
   {
     id: "huawei-y73s-128gb",
@@ -201,7 +182,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Silver"],
     description: "The Y-series classic, modernised. Huawei Y73s delivers a large display, a dependable camera setup and all-day battery with 128GB of storage — a trusty, affordable everyday companion.",
     highlights: ["Large display", "50MP AI camera", "128GB storage"],
-    specs: [["Display", "6.7\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["SIM", "Dual SIM"]]
+    specs: [[["Display", "6.7\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["SIM", "Dual SIM"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/E510MA-C4512B0W_front_66cfc201-5cc9-454d-a87d-496bf4056b6b.jpg?v=1700379275"
   },
   {
     id: "honor-x9d-256gb-gold",
@@ -212,7 +194,8 @@ const PRODUCTS_OTHER = [
     colors: ["Gold", "Black", "Silver"],
     description: "Slim, light and stylish. The Honor X9d features a 108MP camera, a smooth 6.78-inch display and 5000mAh battery with 35W charging — a refined mid-ranger that looks as good as it performs.",
     highlights: ["108MP camera", "6.78\" 120Hz display", "5000mAh + 35W charging"],
-    specs: [["Display", "6.78\" AMOLED, 120Hz"], ["Camera", "108MP + 5MP UW + 2MP macro"], ["Battery", "5000 mAh, 35W"], ["Chip", "Snapdragon 6 Gen 1"], ["Storage", "256GB"]]
+    specs: [[["Display", "6.78\" AMOLED, 120Hz"], ["Camera", "108MP + 5MP UW + 2MP macro"], ["Battery", "5000 mAh, 35W"], ["Chip", "Snapdragon 6 Gen 1"], ["Storage", "256GB"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "honor-x7d-256gb",
@@ -223,7 +206,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Silver", "Green"],
     description: "Durable design, dependable performance. The Honor X7d is drop-tested and built tough with a 6.8-inch display, 50MP camera and a giant 6000mAh battery. Made to last, priced to move.",
     highlights: ["Drop-resistant design", "6.8\" display", "6000mAh battery"],
-    specs: [["Display", "6.8\" TFT, 90Hz"], ["Camera", "50MP + 2MP depth"], ["Battery", "6000 mAh, 22.5W"], ["Storage", "256GB"], ["Build", "Drop-resistant"]]
+    specs: [[["Display", "6.8\" TFT, 90Hz"], ["Camera", "50MP + 2MP depth"], ["Battery", "6000 mAh, 22.5W"], ["Storage", "256GB"], ["Build", "Drop-resistant"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "honor-x6c-black",
@@ -234,7 +218,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Green", "Blue"],
     description: "Big screen, big battery, small price. The Honor X6c brings a 6.8-inch display, 50MP camera and 5000mAh battery into a slim, modern body — the smartest way to stay connected on a budget.",
     highlights: ["6.8\" display", "50MP camera", "5000mAh battery"],
-    specs: [["Display", "6.8\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["OS", "MagicOS"]]
+    specs: [[["Display", "6.8\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["OS", "MagicOS"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/V2440_512_5G_DS_BLK.jpg?v=1772444227"
   },
   {
     id: "honor-x5c-plus-128gb",
@@ -245,7 +230,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue"],
     description: "Smart value, amplified. The Honor X5c Plus upgrades storage to 128GB while keeping the essentials sharp: a large display, a 50MP camera and all-day battery. Simple, reliable, affordable.",
     highlights: ["128GB storage", "50MP camera", "All-day battery"],
-    specs: [["Display", "6.8\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["OS", "MagicOS"]]
+    specs: [[["Display", "6.8\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["OS", "MagicOS"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/E510MA-C4512B0W_front_66cfc201-5cc9-454d-a87d-496bf4056b6b.jpg?v=1700379275"
   },
   {
     id: "honor-x5c-64gb",
@@ -256,7 +242,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue", "Silver"],
     description: "The honest entry point. Honor X5c offers everything you need — a bright 6.56-inch display, a 13MP camera and a 5200mAh battery — in a comfortable, easy-to-use design.",
     highlights: ["6.56\" display", "13MP camera", "5200mAh battery"],
-    specs: [["Display", "6.56\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "5200 mAh"], ["Storage", "64GB + microSD"], ["OS", "MagicOS"]]
+    specs: [[["Display", "6.56\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "5200 mAh"], ["Storage", "64GB + microSD"], ["OS", "MagicOS"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/iPad-10th_Gen_10.9_inch.jpg?v=1720548653"
   },
   {
     id: "hisense-e72-128gb",
@@ -267,7 +254,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue", "Green"],
     description: "Local value, global quality. The Hisense E72 is a dependable 6.6-inch smartphone with a 50MP camera, 128GB storage and a big 5000mAh battery — made for African conditions and budgets.",
     highlights: ["6.6\" display", "50MP camera", "5000mAh battery"],
-    specs: [["Display", "6.6\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["SIM", "Dual SIM"]]
+    specs: [[["Display", "6.6\" LCD"], ["Camera", "50MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "128GB"], ["SIM", "Dual SIM"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/E510MA-C4512B0W_front_66cfc201-5cc9-454d-a87d-496bf4056b6b.jpg?v=1700379275"
   },
   {
     id: "hisense-h72-pro-256gb",
@@ -278,7 +266,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Gold", "Blue"],
     description: "A step up in every way. The Hisense H72 Pro offers a sharper 108MP camera, a 120Hz display and generous 256GB storage, all wrapped in a sleek modern design with fast charging.",
     highlights: ["108MP camera", "120Hz display", "256GB storage"],
-    specs: [["Display", "6.7\" AMOLED, 120Hz"], ["Camera", "108MP + 8MP UW"], ["Battery", "5000 mAh, 33W"], ["Storage", "256GB"], ["Chip", "MediaTek Helio G99"]]
+    specs: [[["Display", "6.7\" AMOLED, 120Hz"], ["Camera", "108MP + 8MP UW"], ["Battery", "5000 mAh, 33W"], ["Storage", "256GB"], ["Chip", "MediaTek Helio G99"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "hisense-t2-64gb",
@@ -289,18 +278,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue", "Green"],
     description: "Honest essentials for less. The Hisense T2 keeps it simple with a 6.6-inch display, dual cameras and a 5000mAh battery — the dependable first smartphone that just works.",
     highlights: ["6.6\" display", "5000mAh battery", "Dual cameras"],
-    specs: [["Display", "6.6\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "64GB"], ["SIM", "Dual SIM"]]
-  },
-  {
-    id: "hisense-u207",
-    name: "Hisense U207",
-    brand: "Hisense",
-    category: "budget",
-    price: 1999, compareAt: 2499, rating: 4.1, reviews: 156,
-    colors: ["Black", "Blue"],
-    description: "The ultimate budget companion. The Hisense U207 is a clean, easy-to-use smartphone with a large battery and big display — perfect for calls, WhatsApp and light everyday use at an unbeatable price.",
-    highlights: ["Unbeatable price", "Large display", "Big battery"],
-    specs: [["Display", "6.5\" LCD"], ["Camera", "8MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "64GB"], ["OS", "Android"]]
+    specs: [[["Display", "6.6\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "64GB"], ["SIM", "Dual SIM"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/iPad-10th_Gen_10.9_inch.jpg?v=1720548653"
   },
   {
     id: "hmd-key-32gb",
@@ -311,19 +290,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue"],
     description: "A classic keypad phone with a modern twist. The HMD Key delivers dependable calls, a great speaker and days of battery life — with WhatsApp and essential apps on a straightforward, focus-friendly device.",
     highlights: ["Classic keypad design", "Days of battery life", "Essential apps included"],
-    specs: [["Form", "Keypad phone"], ["Camera", "5MP"], ["Battery", "4000 mAh"], ["Storage", "32GB + microSD"], ["OS", "Android Go"]]
-  },
-  {
-    id: "nokia-105-mtn",
-    name: "Nokia 105 (MTN)",
-    brand: "Nokia",
-    category: "budget",
-    price: 699, compareAt: 899, rating: 4.4, reviews: 321,
-    colors: ["Black", "Blue", "Red"],
-    tag: "Classic",
-    description: "The legend, reborn. The Nokia 105 is the world's most trusted feature phone — legendary battery life, a bright screen, FM radio and a tough build. The dependable choice for pure communication.",
-    highlights: ["Legendary battery life", "FM radio + flashlight", "Nokia durability"],
-    specs: [["Form", "Feature phone"], ["Battery", "Up to 3 weeks standby"], ["Display", "1.8\" QQVGA"], ["Radio", "FM radio"], ["Network", "2G"]]
+    specs: [[["Form\", \"Keypad phone\"], [\"Camera\", \"5MP\"], [\"Battery\", \"4000 mAh\"], [\"Storage\", \"32GB + microSD\"], [\"OS\", \"Android Go"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/17-HX-AI-D2XWGKG-069ZA_Front.jpg?v=1775557133"
   },
   {
     id: "mobicel-p12-plus",
@@ -334,7 +302,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue", "Green"],
     description: "Mobicel's dependable budget hero. The P12 Plus offers a large display, a 13MP camera and a huge battery — built and tested for African conditions, with a clean, easy experience.",
     highlights: ["Large display", "13MP camera", "Huge battery"],
-    specs: [["Display", "6.5\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "4000 mAh"], ["Storage", "32GB + microSD"], ["OS", "Android Go"]]
+    specs: [[["Display", "6.5\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "4000 mAh"], ["Storage", "32GB + microSD"], ["OS", "Android Go"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/Samsung_S23_Plus_Cream_59f6a2c8-c8be-4603-8893-bc59780edfb0.jpg?v=1720265226"
   },
   {
     id: "mobicel-f52-32gb-dual-sim",
@@ -345,7 +314,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue"],
     description: "A reliable everyday smartphone with dual SIM flexibility. The Mobicel F52 combines a 6.5-inch display, dual cameras and a long-lasting battery into an affordable, honest package.",
     highlights: ["Dual SIM flexibility", "6.5\" display", "Long-lasting battery"],
-    specs: [["Display", "6.5\" LCD"], ["Camera", "8MP + 2MP depth"], ["Battery", "4000 mAh"], ["Storage", "32GB + microSD"], ["SIM", "Dual SIM"]]
+    specs: [[["Display", "6.5\" LCD"], ["Camera", "8MP + 2MP depth"], ["Battery", "4000 mAh"], ["Storage", "32GB + microSD"], ["SIM", "Dual SIM"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/SAMS24U_256_5G_VIO.jpg?v=1779969239"
   },
   {
     id: "mobicel-f42-32gb",
@@ -356,7 +326,8 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue", "Green"],
     description: "The value king of feature smartphones. The Mobicel F42 delivers a bright display, a capable camera and all-day battery — the smart, budget-friendly way to stay connected.",
     highlights: ["Great value", "All-day battery", "Simple Android experience"],
-    specs: [["Display", "6.5\" LCD"], ["Camera", "8MP + 2MP depth"], ["Battery", "4000 mAh"], ["Storage", "32GB"], ["OS", "Android Go"]]
+    specs: [[["Display", "6.5\" LCD"], ["Camera", "8MP + 2MP depth"], ["Battery", "4000 mAh"], ["Storage", "32GB"], ["OS", "Android Go"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/17-HX-AI-D2XWGKG-069ZA_Front.jpg?v=1775557133"
   },
   {
     id: "mobicel-spectra-j2-64gb",
@@ -367,6 +338,7 @@ const PRODUCTS_OTHER = [
     colors: ["Black", "Blue"],
     description: "A fresh take on budget smartphones. The Spectra J2 steps up with 64GB storage, a larger battery and a stylish design — the perfect upgrade within reach.",
     highlights: ["64GB storage", "Stylish design", "Bigger battery"],
-    specs: [["Display", "6.5\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "64GB"], ["SIM", "Dual SIM"]]
+    specs: [[["Display", "6.5\" LCD"], ["Camera", "13MP + 2MP depth"], ["Battery", "5000 mAh"], ["Storage", "64GB"], ["SIM", "Dual SIM"]]],
+    image: "https://cdn.shopify.com/s/files/1/0567/5938/6296/files/Phone-Sam_Gal_A07_128GB_DS_Black_New.png?v=1757599188"
   }
 ];
